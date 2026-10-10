@@ -147,7 +147,9 @@
           "title": "Four Dimensions of Service Management",
           "slug": "four-dimensions-of-service-management",
           "path": "locales/en-001/topics/four-dimensions-of-service-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/four-dimensions-of-service-management/index.md"
+          }
         },
         {
           "number": "2.6",

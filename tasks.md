@@ -58,7 +58,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] 2.2 ITIL — `itil`
 - [x] 2.3 The ITIL Service Value System — `service-value-system`
 - [x] 2.4 ITIL Guiding Principles — `itil-guiding-principles`
-- [ ] 2.5 Four Dimensions of Service Management — `four-dimensions-of-service-management`
+- [x] 2.5 Four Dimensions of Service Management — `four-dimensions-of-service-management`
 - [ ] 2.6 The Service Value Chain — `service-value-chain`
 - [ ] 2.7 ITSM Frameworks and Standards — `itsm-frameworks-and-standards`
 
