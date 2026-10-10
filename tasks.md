@@ -194,7 +194,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 5.3 site-reliability-engineering
 - [x] cy-gb 5.4 value-stream-management
 - [x] cy-gb 5.5 product-and-service-ownership
-- [ ] cy-gb 5.6 metrics-and-measurement
+- [x] cy-gb 5.6 metrics-and-measurement
 - [ ] cy-gb 5.7 governance-risk-and-compliance
 - [ ] cy-gb 5.8 organizational-change-and-adoption
 - [ ] cy-gb 6.1 team-conversations
