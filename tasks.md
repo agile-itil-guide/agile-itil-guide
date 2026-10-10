@@ -253,7 +253,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 5.3 site-reliability-engineering
 - [x] zh-cn 5.4 value-stream-management
 - [x] zh-cn 5.5 product-and-service-ownership
-- [ ] zh-cn 5.6 metrics-and-measurement
+- [x] zh-cn 5.6 metrics-and-measurement
 - [ ] zh-cn 5.7 governance-risk-and-compliance
 - [ ] zh-cn 5.8 organizational-change-and-adoption
 - [ ] zh-cn 6.1 team-conversations
