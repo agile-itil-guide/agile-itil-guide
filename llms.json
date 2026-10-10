@@ -188,7 +188,9 @@
           "title": "Incident Management",
           "slug": "incident-management",
           "path": "locales/en-001/topics/incident-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/incident-management/index.md"
+          }
         },
         {
           "number": "3.3",

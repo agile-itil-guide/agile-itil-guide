@@ -65,7 +65,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 ### Part 3 — Service practices, the agile way
 
 - [x] 3.1 Service Desk — `service-desk`
-- [ ] 3.2 Incident Management — `incident-management`
+- [x] 3.2 Incident Management — `incident-management`
 - [ ] 3.3 Problem Management — `problem-management`
 - [ ] 3.4 Change Enablement — `change-enablement`
 - [ ] 3.5 Release and Deployment Management — `release-and-deployment-management`

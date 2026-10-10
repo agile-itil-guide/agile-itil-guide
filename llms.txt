@@ -30,6 +30,7 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 ## Part 3 — Service practices, the agile way
 
 - [Topic 3.1 — Service Desk](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/service-desk/index.md)
+- [Topic 3.2 — Incident Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/incident-management/index.md)
 
 ## Part 4 — IT asset and configuration management
 
