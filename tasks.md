@@ -229,7 +229,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 2.6 service-value-chain
 - [x] zh-cn 2.7 itsm-frameworks-and-standards
 - [x] zh-cn 3.1 service-desk
-- [ ] zh-cn 3.2 incident-management
+- [x] zh-cn 3.2 incident-management
 - [ ] zh-cn 3.3 problem-management
 - [ ] zh-cn 3.4 change-enablement
 - [ ] zh-cn 3.5 release-and-deployment-management
