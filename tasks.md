@@ -155,7 +155,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 1.1 agile-manifesto
 - [x] cy-gb 1.2 agile-principles
 - [x] cy-gb 1.3 agile-software-development
-- [ ] cy-gb 1.4 scrum
+- [x] cy-gb 1.4 scrum
 - [ ] cy-gb 1.5 kanban
 - [ ] cy-gb 1.6 extreme-programming
 - [ ] cy-gb 1.7 lean-software-development
