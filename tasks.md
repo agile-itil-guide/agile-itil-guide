@@ -71,7 +71,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] 3.5 Release and Deployment Management — `release-and-deployment-management`
 - [x] 3.6 Service Request Management — `service-request-management`
 - [x] 3.7 Service Level Management — `service-level-management`
-- [ ] 3.8 Service Catalog Management — `service-catalog-management`
+- [x] 3.8 Service Catalog Management — `service-catalog-management`
 - [ ] 3.9 Knowledge Management — `knowledge-management`
 - [ ] 3.10 Monitoring and Event Management — `monitoring-and-event-management`
 - [ ] 3.11 Availability, Capacity, and Performance — `availability-capacity-and-performance`
@@ -121,6 +121,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [ ] `bin/check --links` passes (Wikipedia links live, skill links resolve)
 - [ ] Source gate review on every topic (no invented sources or figures; no long copyrighted excerpts)
 - [ ] Consistency gate review (cross-references carry number and title; acronyms expanded)
+- [ ] Style pass: add the one-time "service catalogue" parenthetical at first use of "service catalog" in each topic (STYLE_GUIDE.md, Language)
 
 ## Phase 5 — Website subproject (`agile-itil.github.io/`)
 

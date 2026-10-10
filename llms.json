@@ -242,7 +242,9 @@
           "title": "Service Catalog Management",
           "slug": "service-catalog-management",
           "path": "locales/en-001/topics/service-catalog-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-catalog-management/index.md"
+          }
         },
         {
           "number": "3.9",
