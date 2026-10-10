@@ -2,7 +2,7 @@
 
 ## What we are building
 
-The *Agile ITIL Guide*: 6 parts, 50 topics (no preface), written in the canonical locale `en-001`. Every topic covers research, practices, a worked example, questions to discuss with your team, AI prompts, and links to AI skills. The monorepo also holds the AI skills (`skills/`), the tooling (`bin/`), and the reading website (`agile-itil.github.io/`), which is deployed by git subtree. Everything follows `spec/index.md`.
+The *Agile ITIL Guide*: 6 parts, 49 topics (no preface), written in the canonical locale `en-001`. Every topic covers research, practices, a worked example, questions to discuss with your team, AI prompts, and links to AI skills. The monorepo also holds the AI skills (`skills/`), the tooling (`bin/`), and the reading website (`agile-itil.github.io/`), which is deployed by git subtree. Everything follows `spec/index.md`.
 
 ## Reference implementation
 
@@ -22,7 +22,7 @@ The six Wikipedia articles named in `spec/index.md` §6 item 3 are the starting 
 ## Phases
 
 **Phase 0 — Scaffolding** (before any topic prose)
-Monorepo layout; `AGENTS.md`, `AGENTS/` role cards, `CLAUDE.md`; `STYLE_GUIDE.md`; `spec/maturity-model.md` and `spec/topics.tsv`; `bin/` tools vendored from public-value-guide and adapted (slug-only directories, 15-section template, symlink and skill-link checks); `locales/en-001/topics/<slug>/` for all 50 topics, each with an empty `index.md` stub, `README.md -> index.md`, and `.locale-peer-id`; copied skills in `skills/` plus `skills/README.md`; skeletons for `README.md`, `GLOSSARY.md`, `INDEX.md`, `CITATION.cff`, `_sources/research-notes.md`, and `.gitignore`. Commit after each item.
+Monorepo layout; `AGENTS.md`, `AGENTS/` role cards, `CLAUDE.md`; `STYLE_GUIDE.md`; `spec/maturity-model.md` and `spec/topics.tsv`; `bin/` tools vendored from public-value-guide and adapted (slug-only directories, 15-section template, symlink and skill-link checks); `locales/en-001/topics/<slug>/` for all 49 topics, each with an empty `index.md` stub, `README.md -> index.md`, and `.locale-peer-id`; copied skills in `skills/` plus `skills/README.md`; skeletons for `README.md`, `GLOSSARY.md`, `INDEX.md`, `CITATION.cff`, `_sources/research-notes.md`, and `.gitignore`. Commit after each item.
 
 **Phase 1 — Research**
 Read the six core Wikipedia articles and their key primary sources; write `_sources/research-notes.md` by part, including verified Wikipedia slugs for each topic. Note topic boundaries where the sources overlap (for example ITIL change enablement versus DevOps continuous delivery) and confirm the scope notes in spec §4, changing the manifest now if needed: renumbering later costs much more.
@@ -52,7 +52,7 @@ Scaffold `agile-itil.github.io/` from the public-value-guide site: SvelteKit 3, 
 
 ## Key decisions to confirm with the maintainer
 
-1. **Manifest size.** 50 topics is ambitious. Parts 3 and 4 could be trimmed (for example by merging hardware and software asset management) if a smaller first release is preferred.
+1. **Manifest size.** 49 topics is ambitious. Parts 3 and 4 could be trimmed (for example by merging hardware and software asset management) if a smaller first release is preferred.
 2. **GitHub organization and remotes.** The plan assumes `agile-itil/agile-itil-guide` for the monorepo and `agile-itil/agile-itil.github.io` for the site (remote name `site`). Both repositories need creating before the first push.
 3. **Sveltia i18n package.** Confirm the exact npm registry package and version before Phase 5 (spec §9).
 
@@ -61,6 +61,6 @@ Scaffold `agile-itil.github.io/` from the public-value-guide site: SvelteKit 3, 
 - **Copyrighted framework text** (ITIL, ISO standards): summarize and cite, never reproduce at length; the source gate checks this.
 - **Framework partisanship** ("ITIL is bureaucracy" / "agile is chaos"): the style rules (spec §5) and the four-perspectives section force balance.
 - **AI prompts that invite hallucination:** spec §3 item 12 forbids prompts that ask an AI to invent metrics, sources, or compliance claims; prompts use explicit placeholders and verification steps.
-- **Scope overlap among 50 topics:** every contested concept has one home topic named in the spec §4 scope notes; others cross-reference it.
+- **Scope overlap among 49 topics:** every contested concept has one home topic named in the spec §4 scope notes; others cross-reference it.
 - **Subtree drift:** the site repository is never edited directly; `bin/deploy-site` is the only way to publish.
 - **Stale copied skills:** `skills/README.md` records each skill's source; re-copy rather than edit locally.

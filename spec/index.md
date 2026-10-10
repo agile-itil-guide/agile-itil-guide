@@ -153,7 +153,7 @@ Numbering is `Part.Topic` and is used in the table of contents, `INDEX.md`, `GLO
 
 **Reference matter:** `GLOSSARY.md` and `INDEX.md` (plus `STYLE_GUIDE.md`, which is for contributors, not readers).
 
-**Total: 6 parts, 50 topics, no preface.**
+**Total: 6 parts, 49 topics, no preface.**
 
 ## 4a. Locales and the locale peer id system
 

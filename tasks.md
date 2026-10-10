@@ -18,7 +18,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [ ] `bin/build-llms` adapted to read `spec/topics.tsv`
 - [ ] `bin/deploy-site` (`git subtree push --prefix=agile-itil.github.io site main`)
 - [ ] `locales/en-001/topics/.locale-peer-id`
-- [ ] For all 50 topics: `locales/en-001/topics/<slug>/` with `index.md` stub, `README.md -> index.md` relative symlink, and `.locale-peer-id`
+- [ ] For all 49 topics: `locales/en-001/topics/<slug>/` with `index.md` stub, `README.md -> index.md` relative symlink, and `.locale-peer-id`
 - [ ] `README.md` (table of contents, who the guide is for, how to use it, trademark notice; no preface), `GLOSSARY.md`, `INDEX.md` skeletons
 - [ ] `CITATION.cff`
 - [ ] `_sources/research-notes.md` skeleton
