@@ -82,7 +82,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ### Part 4 — IT asset and configuration management
 
-- [ ] 4.1 IT Asset Management — `it-asset-management`
+- [x] 4.1 IT Asset Management — `it-asset-management`
 - [ ] 4.2 Software Asset Management — `software-asset-management`
 - [ ] 4.3 Hardware Asset Management — `hardware-asset-management`
 - [ ] 4.4 Configuration Management — `configuration-management`

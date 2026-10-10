@@ -319,7 +319,9 @@
           "title": "IT Asset Management",
           "slug": "it-asset-management",
           "path": "locales/en-001/topics/it-asset-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/it-asset-management/index.md"
+          }
         },
         {
           "number": "4.2",
