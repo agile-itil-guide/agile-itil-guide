@@ -153,7 +153,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 
 - [x] Scaffold `locales/cy-gb/` (peer ids, symlinks, titled stubs, `locale.json`, `TERMINOLOGY.md`) and make `bin/check` locale-aware
 - [x] cy-gb 1.1 agile-manifesto
-- [ ] cy-gb 1.2 agile-principles
+- [x] cy-gb 1.2 agile-principles
 - [ ] cy-gb 1.3 agile-software-development
 - [ ] cy-gb 1.4 scrum
 - [ ] cy-gb 1.5 kanban
