@@ -43,7 +43,9 @@
           "title": "Scrum",
           "slug": "scrum",
           "path": "locales/en-001/topics/scrum/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/scrum/index.md"
+          }
         },
         {
           "number": "1.5",
