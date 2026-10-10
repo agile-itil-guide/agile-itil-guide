@@ -7,28 +7,28 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] `spec/index.md`
 - [x] `plan.md`
 - [x] `tasks.md`
-- [ ] `.gitignore` (node_modules, build, .svelte-kit, .DS_Store)
-- [ ] `spec/maturity-model.md` (Initiate / Develop / Standardize / Manage / Orchestrate, written for agile service management)
-- [ ] `spec/topics.tsv` (part, number, slug, title) generated from spec §4
-- [ ] `AGENTS.md` and `AGENTS/` role cards (researcher, topic-author, reviewer, reference-editor, site-developer)
-- [ ] `CLAUDE.md` (a short pointer to `AGENTS.md` and the spec)
-- [ ] `STYLE_GUIDE.md` (en-001 conventions, voice, prompt-writing style)
-- [ ] `bin/` vendored from public-value-guide: `locale-peer-id`, `grep-locale-peer-id`, `slug-case`, `markdown-read-to-headline`
-- [ ] `bin/check` adapted: slug-only directories, 15-section template, `README.md` symlink check, AI prompt and skill-link checks, `--links` Wikipedia check
-- [ ] `bin/build-llms` adapted to read `spec/topics.tsv`
-- [ ] `bin/deploy-site` (`git subtree push --prefix=agile-itil.github.io site main`)
-- [ ] `locales/en-001/topics/.locale-peer-id`
-- [ ] For all 49 topics: `locales/en-001/topics/<slug>/` with `index.md` stub, `README.md -> index.md` relative symlink, and `.locale-peer-id`
+- [x] `.gitignore` (node_modules, build, .svelte-kit, .DS_Store)
+- [x] `spec/maturity-model.md` (Initiate / Develop / Standardize / Manage / Orchestrate, written for agile service management)
+- [x] `spec/topics.tsv` (part, number, slug, title) generated from spec §4
+- [x] `AGENTS.md` and `AGENTS/` role cards (researcher, topic-author, reviewer, reference-editor, site-developer)
+- [x] `CLAUDE.md` (a short pointer to `AGENTS.md` and the spec)
+- [x] `STYLE_GUIDE.md` (en-001 conventions, voice, prompt-writing style)
+- [x] `bin/` vendored from public-value-guide: `locale-peer-id`, `grep-locale-peer-id`, `slug-case`, `markdown-read-to-headline`
+- [x] `bin/check` adapted: slug-only directories, 15-section template, `README.md` symlink check, AI prompt and skill-link checks, `--links` Wikipedia check
+- [x] `bin/build-llms` adapted to read `spec/topics.tsv`
+- [x] `bin/deploy-site` (`git subtree push --prefix=agile-itil.github.io site main`)
+- [x] `locales/en-001/topics/.locale-peer-id`
+- [x] For all 49 topics: `locales/en-001/topics/<slug>/` with `index.md` stub, `README.md -> index.md` relative symlink, and `.locale-peer-id`
 - [ ] `README.md` (table of contents, who the guide is for, how to use it, trademark notice; no preface), `GLOSSARY.md`, `INDEX.md` skeletons
 - [ ] `CITATION.cff`
 - [ ] `_sources/research-notes.md` skeleton
-- [ ] Copy relevant skills from `~/git/skills-on-ai/skills-on-ai/skills` into `skills/` (whole directories, unchanged), and record them in `skills/README.md`. Starting list:
+- [x] Copy relevant skills (84 copied; see `skills/README.md`; pruned in Phase 3) from `~/git/skills-on-ai/skills-on-ai/skills` into `skills/` (whole directories, unchanged), and record them in `skills/README.md`. Starting list:
   - Agile: `agile-charter`, `agile-coaching`, `agile-delivery`, `agile-discovery`, `agile-liftoff`, `agile-principles`, `agile-reflection`, `agile-showcase`, `agile-standown`, `agile-standup`, `scrum`, `scrum-of-scrums`, `scrumban`, `kanban`, `extreme-programming`, `large-scale-scrum`, `scaled-agile-framework`, `disciplined-agile`, `user-story`, `feature-prioritization`, `product-roadmap`, `futurespective`, `team-focus`
   - Lean and improvement: `kaizen`, `value-stream-map`, `six-sigma`, `dmaic`
   - Service management: `service-catalog`, `service-level-agreement`, `change-request`, `release-notes`, `changelog`, `configuration-management`, `incident-response-plan`, `postmortem`, `runbook`, `on-call-rotation`, `capacity-planning`, `demand-analysis`, `demand-forecasting`, `business-continuity-plan`, `disaster-recovery-plan`, `disaster-recovery-testing`, `vendor-management`
   - Governance and risk: `risk-register`, `key-risk-indicators`, `risks-actions-issues-decisions`, `raci-matrix`, `enterprise-change-management`, `portfolio-management`
   - AI: `prompt-engineering`
-- [ ] Rescan the skills source for further matches (asset, license, metrics, OKR, DevOps, SRE, facilitation) and add any that topics will link to
+- [x] Rescan the skills source for further matches (asset, license, metrics, OKR, DevOps, SRE, facilitation) and add any that topics will link to
 
 ## Phase 1 — Research
 
@@ -113,11 +113,11 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [ ] `skills/agile-itil-guide-skill/SKILL.md` (for readers)
 - [ ] `skills/agile-itil-guide-maintainer-skill/SKILL.md` (for maintainers)
 - [ ] Prune unlinked copied skills; every copied skill is linked from at least one topic (spec §7)
-- [ ] `bin/build-llms` run; `llms.txt` and `llms.json` committed
+- [x] `bin/build-llms` run; `llms.txt` and `llms.json` committed
 
 ## Phase 4 — Quality gates
 
-- [ ] `bin/check` passes for all topics (structural and offline consistency)
+- [x] `bin/check` passes for all topics (structural and offline consistency)
 - [ ] `bin/check --links` passes (Wikipedia links live, skill links resolve)
 - [ ] Source gate review on every topic (no invented sources or figures; no long copyrighted excerpts)
 - [ ] Consistency gate review (cross-references carry number and title; acronyms expanded)
