@@ -80,12 +80,22 @@ def split_h2(text):
     return "\n".join(pre), {k: "\n".join(v) for k, v in secs.items()}, order
 
 
+# Planned titles from the spec §4 tables (rows like "| 1.1 | `slug` | Title | scope |").
+# The topic's first headline wins; a difference is only a warning to reconcile the spec.
+planned = {}
+for m in re.finditer(r"^\| (\d\.\d{1,2}) \| `([^`]+)` \| ([^|]+?) \|", open("spec/index.md", encoding="utf-8").read(), re.M):
+    planned[m.group(2)] = m.group(3)
+warnings = []
+
+
 def check_topic(loc, slug, text):
     r, k = by_slug[slug], f"{loc}/{slug}"
     pre, secs, order = split_h2(text)
     lines = [x for x in pre.split("\n") if x.strip()]
     if not lines or not lines[0].startswith("# ") or not lines[0][2:].strip():
         fail(f"{k}: the first line must be the title as '# Title'")
+    if loc == CANON and lines and lines[0].startswith("# ") and slug in planned and lines[0][2:].strip() != planned[slug]:
+        warnings.append(f"{k}: title '{lines[0][2:].strip()}' differs from the planned title '{planned[slug]}' in spec/index.md §4")
     if len(re.findall(r"^# ", text, re.M)) != 1:
         fail(f"{k}: exactly one H1 expected")
     if len(lines) < 2 or not re.fullmatch(r"\*\*[^*].*[^*]\*\*", lines[1].strip()):
@@ -270,4 +280,6 @@ if failures:
     for f in failures[:80]:
         print(" -", f)
     sys.exit(1)
+for w in warnings:
+    print("warning:", w)
 print("all gates pass")
