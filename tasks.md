@@ -224,7 +224,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 2.1 it-service-management
 - [x] zh-cn 2.2 itil
 - [x] zh-cn 2.3 service-value-system
-- [ ] zh-cn 2.4 itil-guiding-principles
+- [x] zh-cn 2.4 itil-guiding-principles
 - [ ] zh-cn 2.5 four-dimensions-of-service-management
 - [ ] zh-cn 2.6 service-value-chain
 - [ ] zh-cn 2.7 itsm-frameworks-and-standards
