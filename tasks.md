@@ -172,7 +172,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 3.1 service-desk
 - [x] cy-gb 3.2 incident-management
 - [x] cy-gb 3.3 problem-management
-- [ ] cy-gb 3.4 change-enablement
+- [x] cy-gb 3.4 change-enablement
 - [ ] cy-gb 3.5 release-and-deployment-management
 - [ ] cy-gb 3.6 service-request-management
 - [ ] cy-gb 3.7 service-level-management
