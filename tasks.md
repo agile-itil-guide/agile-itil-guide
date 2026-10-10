@@ -243,7 +243,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 3.13 information-security-management
 - [x] zh-cn 3.14 supplier-management
 - [x] zh-cn 3.15 continual-improvement
-- [ ] zh-cn 4.1 it-asset-management
+- [x] zh-cn 4.1 it-asset-management
 - [ ] zh-cn 4.2 software-asset-management
 - [ ] zh-cn 4.3 hardware-asset-management
 - [ ] zh-cn 4.4 configuration-management
