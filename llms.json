@@ -296,7 +296,9 @@
           "title": "Supplier Management",
           "slug": "supplier-management",
           "path": "locales/en-001/topics/supplier-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/supplier-management/index.md"
+          }
         },
         {
           "number": "3.15",

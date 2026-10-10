@@ -42,6 +42,7 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 - [Topic 3.11 — Availability, Capacity, and Performance](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/availability-capacity-and-performance/index.md)
 - [Topic 3.12 — Service Continuity Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/service-continuity-management/index.md)
 - [Topic 3.13 — Information Security Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/information-security-management/index.md)
+- [Topic 3.14 — Supplier Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/supplier-management/index.md)
 
 ## Part 4 — IT asset and configuration management
 
