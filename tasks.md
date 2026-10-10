@@ -202,7 +202,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 6.3 ai-skills-and-prompts
 - [x] cy-gb 6.4 learning-paths-and-certification
 - [x] cy-gb site integration (locales.ts, cy-gb.json messages, sync-content, per-locale search index) and llms
-- [ ] cy-gb GLOSSARY and INDEX translations (root reference files are English-only for now)
+- [x] cy-gb GLOSSARY and INDEX translations (`locales/cy-gb/GLOSSARY.md`, `INDEX.md`)
 - [ ] cy-gb review by a fluent Welsh speaker
 - [ ] Welsh-speaking reviewer reads every translated topic
 
