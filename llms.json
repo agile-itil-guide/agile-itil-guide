@@ -34,7 +34,9 @@
           "title": "Agile Software Development",
           "slug": "agile-software-development",
           "path": "locales/en-001/topics/agile-software-development/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/agile-software-development/index.md"
+          }
         },
         {
           "number": "1.4",
