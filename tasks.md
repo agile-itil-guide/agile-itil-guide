@@ -101,7 +101,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ### Part 6 — People, conversations, and AI
 
-- [ ] 6.1 Team Conversations — `team-conversations`
+- [x] 6.1 Team Conversations — `team-conversations`
 - [ ] 6.2 AI in IT Service Management — `ai-in-it-service-management`
 - [ ] 6.3 AI Skills and Prompts — `ai-skills-and-prompts`
 - [ ] 6.4 Learning Paths and Certification — `learning-paths-and-certification`

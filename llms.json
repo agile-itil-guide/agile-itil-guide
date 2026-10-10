@@ -446,7 +446,9 @@
           "title": "Team Conversations",
           "slug": "team-conversations",
           "path": "locales/en-001/topics/team-conversations/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/team-conversations/index.md"
+          }
         },
         {
           "number": "6.2",
