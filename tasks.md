@@ -212,7 +212,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 
 - [x] Scaffold `locales/zh-cn/` (peer ids, symlinks, titled stubs, `locale.json`, `TERMINOLOGY.md`)
 - [x] zh-cn 1.1 agile-manifesto
-- [ ] zh-cn 1.2 agile-principles
+- [x] zh-cn 1.2 agile-principles
 - [ ] zh-cn 1.3 agile-software-development
 - [ ] zh-cn 1.4 scrum
 - [ ] zh-cn 1.5 kanban
