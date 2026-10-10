@@ -41,7 +41,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ### Part 1 — Agile foundations
 
-- [ ] 1.1 Agile Manifesto — `agile-manifesto`
+- [x] 1.1 Agile Manifesto — `agile-manifesto`
 - [ ] 1.2 Agile Principles — `agile-principles`
 - [ ] 1.3 Agile Software Development — `agile-software-development`
 - [ ] 1.4 Scrum — `scrum`
@@ -137,7 +137,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] `.github/workflows/deploy.yml` (pnpm/action-setup, `pnpm install --frozen-lockfile`, `pnpm build`, deploy to Pages)
 - [x] Subproject `README.md`, `AGENTS.md`, `spec/` (ported Lily picker-bar and search specs)
 - [x] `pnpm check` 0 errors; `pnpm build` clean
-- [ ] Browser check of `build/` served statically at 1440px and 390px
+- [x] Browser check of `build/` served statically at 1440px and 390px (checked with Topic 1.1: no horizontal scroll, 8 picker buttons, search works, console clean)
 
 ## Phase 6 — Release
 
