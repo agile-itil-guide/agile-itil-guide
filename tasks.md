@@ -163,7 +163,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 1.9 agile-management
 - [x] cy-gb 1.10 agile-learning
 - [x] cy-gb 2.1 it-service-management
-- [ ] cy-gb 2.2 itil
+- [x] cy-gb 2.2 itil
 - [ ] cy-gb 2.3 service-value-system
 - [ ] cy-gb 2.4 itil-guiding-principles
 - [ ] cy-gb 2.5 four-dimensions-of-service-management
