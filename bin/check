@@ -38,6 +38,19 @@ by_number = {r["number"]: r for r in manifest}
 if len(set(slugs)) != len(slugs):
     fail("spec/topics.tsv: duplicate slugs")
 
+
+def h1(path):
+    """The topic title: the first headline of the file is the single source of truth."""
+    try:
+        first = open(path, encoding="utf-8").readline().strip()
+    except OSError:
+        return None
+    return first[2:].strip() if first.startswith("# ") and first[2:].strip() else None
+
+
+def titles_for(loc):
+    return {r["number"]: h1(f"{L}/{loc}/topics/{r['slug']}/index.md") for r in manifest}
+
 H2 = [
     "Why this matters", "Core concepts", "Best practices",
     "Questions to discuss with your team", "In practice: an agile ITIL example",
@@ -71,8 +84,8 @@ def check_topic(loc, slug, text):
     r, k = by_slug[slug], f"{loc}/{slug}"
     pre, secs, order = split_h2(text)
     lines = [x for x in pre.split("\n") if x.strip()]
-    if not lines or lines[0].strip() != f"# {r['title']}":
-        fail(f"{k}: H1 should be '# {r['title']}'")
+    if not lines or not lines[0].startswith("# ") or not lines[0][2:].strip():
+        fail(f"{k}: the first line must be the title as '# Title'")
     if len(re.findall(r"^# ", text, re.M)) != 1:
         fail(f"{k}: exactly one H1 expected")
     if len(lines) < 2 or not re.fullmatch(r"\*\*[^*].*[^*]\*\*", lines[1].strip()):
@@ -183,6 +196,7 @@ for loc in locales:
 # --- cross-reference titles -------------------------------------------------
 bare = 0
 for loc in locales:
+    loc_titles = titles_for(loc)
     for p in sorted(glob.glob(f"{L}/{loc}/topics/*/index.md")):
         text = open(p, encoding="utf-8").read()
         if STUB in text:
@@ -193,7 +207,10 @@ for loc in locales:
             if n not in by_number:
                 fail(f"{p}: cross-reference to unknown topic {n}")
                 continue
-            title = by_number[n]["title"]
+            title = loc_titles.get(n)
+            if not title:
+                fail(f"{p}: cross-reference target {n} has no title (its first line must be '# Title')")
+                continue
             rest = body[m.end(): m.end() + len(title) + 6]
             mm = re.match(r"\s*[—–-]\s*(.*)", rest, re.S)
             if mm and mm.group(1).startswith(title):

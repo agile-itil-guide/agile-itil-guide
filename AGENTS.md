@@ -11,7 +11,7 @@ This repository is a book and a website: the *Agile ITIL Guide*, 49 Markdown top
 | File | What it is |
 |---|---|
 | `spec/index.md` | The governing specification: manifest, topic template, citation rules, quality gates. |
-| `spec/topics.tsv` | Machine-readable manifest. Keep it in step with spec §4. |
+| `spec/topics.tsv` | Machine-readable manifest (part, number, slug, part title; no topic titles). Keep it in step with spec §4. |
 | `spec/maturity-model.md` | The shared five-level maturity scale. |
 | `STYLE_GUIDE.md` | Voice, en-001 conventions, prompt-writing rules. |
 | `plan.md` | The phased build plan. |

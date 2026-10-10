@@ -18,6 +18,12 @@ with open(os.path.join(root, "spec", "topics.tsv"), encoding="utf-8") as f:
 locales = sorted(d for d in os.listdir(os.path.join(root, "locales")) if os.path.isdir(os.path.join(root, "locales", d)))
 
 
+def title_of(slug):
+    """The first headline of the canonical topic is its title (the single source of truth)."""
+    with open(os.path.join(root, "locales", CANON, "topics", slug, "index.md"), encoding="utf-8") as f:
+        return f.readline().strip()[2:].strip()
+
+
 def written(path):
     p = os.path.join(root, path)
     return os.path.isfile(p) and STUB not in open(p, encoding="utf-8").read()
@@ -32,7 +38,7 @@ for r in rows:
         rel = f"locales/{loc}/topics/{r['slug']}/index.md"
         if written(rel):
             paths[loc] = rel
-    parts[-1]["topics"].append({"number": r["number"], "title": r["title"], "slug": r["slug"],
+    parts[-1]["topics"].append({"number": r["number"], "title": title_of(r["slug"]), "slug": r["slug"],
                                 "path": f"locales/{CANON}/topics/{r['slug']}/index.md", "locales": paths})
 
 skills = sorted(d for d in os.listdir(os.path.join(root, "skills"))

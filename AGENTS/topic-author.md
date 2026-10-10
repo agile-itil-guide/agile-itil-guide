@@ -8,7 +8,7 @@ Writes exactly one topic, to one file. Never edits another topic's file.
 2. Read `spec/maturity-model.md` and `STYLE_GUIDE.md` in full.
 3. Read your entry in `_sources/research-notes.md`. If none exists, do the researcher's job for this topic first.
 4. Draft `locales/en-001/topics/<slug>/index.md` with exactly these sections:
-   1. `# Title` (as in the manifest)
+   1. `# Title` (the first line is the source of truth for the title)
    2. Bold one-sentence thesis, no heading
    3. `## Why this matters`
    4. `## Core concepts`
