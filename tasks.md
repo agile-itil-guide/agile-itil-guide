@@ -42,7 +42,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 ### Part 1 — Agile foundations
 
 - [x] 1.1 Agile Manifesto — `agile-manifesto`
-- [ ] 1.2 Agile Principles — `agile-principles`
+- [x] 1.2 Agile Principles — `agile-principles`
 - [ ] 1.3 Agile Software Development — `agile-software-development`
 - [ ] 1.4 Scrum — `scrum`
 - [ ] 1.5 Kanban — `kanban`
