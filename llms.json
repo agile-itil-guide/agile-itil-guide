@@ -278,7 +278,9 @@
           "title": "Service Continuity Management",
           "slug": "service-continuity-management",
           "path": "locales/en-001/topics/service-continuity-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-continuity-management/index.md"
+          }
         },
         {
           "number": "3.13",

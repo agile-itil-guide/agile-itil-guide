@@ -40,6 +40,7 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 - [Topic 3.9 — Knowledge Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/knowledge-management/index.md)
 - [Topic 3.10 — Monitoring and Event Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/monitoring-and-event-management/index.md)
 - [Topic 3.11 — Availability, Capacity, and Performance](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/availability-capacity-and-performance/index.md)
+- [Topic 3.12 — Service Continuity Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/service-continuity-management/index.md)
 
 ## Part 4 — IT asset and configuration management
 
