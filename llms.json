@@ -97,7 +97,9 @@
           "title": "Agile Learning",
           "slug": "agile-learning",
           "path": "locales/en-001/topics/agile-learning/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/agile-learning/index.md"
+          }
         }
       ]
     },
