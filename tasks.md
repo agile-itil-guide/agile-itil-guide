@@ -262,4 +262,4 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 6.4 learning-paths-and-certification
 - [x] zh-cn site integration (locales.ts, messages, spec table, llms)
 - [ ] zh-cn review by a fluent Chinese speaker
-- [ ] zh-cn GLOSSARY and INDEX translations (root reference files are English-only for now)
+- [x] zh-cn GLOSSARY and INDEX translations (`locales/zh-cn/GLOSSARY.md`, `INDEX.md`)
