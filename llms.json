@@ -165,7 +165,9 @@
           "title": "ITSM Frameworks and Standards",
           "slug": "itsm-frameworks-and-standards",
           "path": "locales/en-001/topics/itsm-frameworks-and-standards/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/itsm-frameworks-and-standards/index.md"
+          }
         }
       ]
     },
@@ -177,7 +179,9 @@
           "title": "Service Desk",
           "slug": "service-desk",
           "path": "locales/en-001/topics/service-desk/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-desk/index.md"
+          }
         },
         {
           "number": "3.2",

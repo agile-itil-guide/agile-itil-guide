@@ -25,9 +25,11 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 - [Topic 2.4 — ITIL Guiding Principles](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/itil-guiding-principles/index.md)
 - [Topic 2.5 — Four Dimensions of Service Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/four-dimensions-of-service-management/index.md)
 - [Topic 2.6 — The Service Value Chain](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/service-value-chain/index.md)
+- [Topic 2.7 — ITSM Frameworks and Standards](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/itsm-frameworks-and-standards/index.md)
 
 ## Part 3 — Service practices, the agile way
 
+- [Topic 3.1 — Service Desk](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/service-desk/index.md)
 
 ## Part 4 — IT asset and configuration management
 
