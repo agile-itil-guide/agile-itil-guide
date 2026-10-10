@@ -232,7 +232,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 3.2 incident-management
 - [x] zh-cn 3.3 problem-management
 - [x] zh-cn 3.4 change-enablement
-- [ ] zh-cn 3.5 release-and-deployment-management
+- [x] zh-cn 3.5 release-and-deployment-management
 - [ ] zh-cn 3.6 service-request-management
 - [ ] zh-cn 3.7 service-level-management
 - [ ] zh-cn 3.8 service-catalog-management
