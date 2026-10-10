@@ -156,7 +156,9 @@
           "title": "The Service Value Chain",
           "slug": "service-value-chain",
           "path": "locales/en-001/topics/service-value-chain/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-value-chain/index.md"
+          }
         },
         {
           "number": "2.7",
