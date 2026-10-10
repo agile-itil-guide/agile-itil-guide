@@ -104,7 +104,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] 6.1 Team Conversations — `team-conversations`
 - [x] 6.2 AI in IT Service Management — `ai-in-it-service-management`
 - [x] 6.3 AI Skills and Prompts — `ai-skills-and-prompts`
-- [ ] 6.4 Learning Paths and Certification — `learning-paths-and-certification`
+- [x] 6.4 Learning Paths and Certification — `learning-paths-and-certification`
 
 ## Phase 3 — Reference matter and skills
 

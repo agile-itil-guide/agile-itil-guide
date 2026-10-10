@@ -473,7 +473,9 @@
           "title": "Learning Paths and Certification",
           "slug": "learning-paths-and-certification",
           "path": "locales/en-001/topics/learning-paths-and-certification/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/learning-paths-and-certification/index.md"
+          }
         }
       ]
     }
