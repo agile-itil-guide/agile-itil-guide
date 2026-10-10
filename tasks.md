@@ -70,7 +70,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] 3.4 Change Enablement — `change-enablement`
 - [x] 3.5 Release and Deployment Management — `release-and-deployment-management`
 - [x] 3.6 Service Request Management — `service-request-management`
-- [ ] 3.7 Service Level Management — `service-level-management`
+- [x] 3.7 Service Level Management — `service-level-management`
 - [ ] 3.8 Service Catalog Management — `service-catalog-management`
 - [ ] 3.9 Knowledge Management — `knowledge-management`
 - [ ] 3.10 Monitoring and Event Management — `monitoring-and-event-management`
