@@ -178,7 +178,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 3.7 service-level-management
 - [x] cy-gb 3.8 service-catalog-management
 - [x] cy-gb 3.9 knowledge-management
-- [ ] cy-gb 3.10 monitoring-and-event-management
+- [x] cy-gb 3.10 monitoring-and-event-management
 - [ ] cy-gb 3.11 availability-capacity-and-performance
 - [ ] cy-gb 3.12 service-continuity-management
 - [ ] cy-gb 3.13 information-security-management
