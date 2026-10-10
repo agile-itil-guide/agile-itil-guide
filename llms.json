@@ -378,7 +378,9 @@
           "title": "DevOps",
           "slug": "devops",
           "path": "locales/en-001/topics/devops/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/devops/index.md"
+          }
         },
         {
           "number": "5.3",

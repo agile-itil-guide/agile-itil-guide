@@ -56,6 +56,7 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 ## Part 5 — Bringing agile and ITIL together
 
 - [Topic 5.1 — Agile Service Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/agile-service-management/index.md)
+- [Topic 5.2 — DevOps](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/devops/index.md)
 
 ## Part 6 — People, conversations, and AI
 

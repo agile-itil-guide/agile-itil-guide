@@ -91,7 +91,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 ### Part 5 — Bringing agile and ITIL together
 
 - [x] 5.1 Agile Service Management — `agile-service-management`
-- [ ] 5.2 DevOps — `devops`
+- [x] 5.2 DevOps — `devops`
 - [ ] 5.3 Site Reliability Engineering — `site-reliability-engineering`
 - [ ] 5.4 Value Stream Management — `value-stream-management`
 - [ ] 5.5 Product and Service Ownership — `product-and-service-ownership`
