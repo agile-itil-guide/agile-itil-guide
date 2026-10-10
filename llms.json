@@ -61,7 +61,9 @@
           "title": "Extreme Programming",
           "slug": "extreme-programming",
           "path": "locales/en-001/topics/extreme-programming/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/extreme-programming/index.md"
+          }
         },
         {
           "number": "1.7",

@@ -46,7 +46,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] 1.3 Agile Software Development — `agile-software-development`
 - [x] 1.4 Scrum — `scrum`
 - [x] 1.5 Kanban — `kanban`
-- [ ] 1.6 Extreme Programming — `extreme-programming`
+- [x] 1.6 Extreme Programming — `extreme-programming`
 - [ ] 1.7 Lean Software Development — `lean-software-development`
 - [ ] 1.8 Scaling Agile — `scaling-agile`
 - [ ] 1.9 Agile Management — `agile-management`
