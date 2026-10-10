@@ -70,7 +70,9 @@
           "title": "Lean Software Development",
           "slug": "lean-software-development",
           "path": "locales/en-001/topics/lean-software-development/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/lean-software-development/index.md"
+          }
         },
         {
           "number": "1.8",
