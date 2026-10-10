@@ -197,7 +197,9 @@
           "title": "Problem Management",
           "slug": "problem-management",
           "path": "locales/en-001/topics/problem-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/problem-management/index.md"
+          }
         },
         {
           "number": "3.4",
