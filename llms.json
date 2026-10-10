@@ -414,7 +414,9 @@
           "title": "Metrics and Measurement",
           "slug": "metrics-and-measurement",
           "path": "locales/en-001/topics/metrics-and-measurement/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/metrics-and-measurement/index.md"
+          }
         },
         {
           "number": "5.7",
