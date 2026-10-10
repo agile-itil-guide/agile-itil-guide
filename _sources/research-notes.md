@@ -67,7 +67,14 @@ Read in October 2026:
 
 ## Part 5 — Bringing agile and ITIL together
 
-_No notes yet._
+Read in October 2026:
+
+- Wikipedia (fetched, summaries only): DevOps, Site_reliability_engineering, Value-stream_mapping, Product_management, Goodhart's_law, Objectives_and_key_results, Net_promoter_score, Governance,_risk_management,_and_compliance, Risk_management (first 100,000 of 198,970 characters), Regulatory_compliance, Change_management (first 100,000 of 116,606; banner about unverified text), Diffusion_of_innovations (first 100,000 of 172,965), Community_of_practice. `Organizational_change` redirects to Organizational_behavior and does not describe change models.
+- DORA (dora.dev): capabilities list; work in process limits (`/capabilities/wip-limits/`); software delivery performance metrics; continuous delivery; streamlining change approval. Pages for "visibility of work in the value stream" returned 404 at the paths tried and are not cited.
+- Google SRE book: Introduction, Eliminating Toil, Embracing Risk.
+- Gene Kim, The Three Ways (itrevolution.com): URL returns 200; content known from search-result summaries, not read in full.
+- Werner Vogels / Jim Gray interview (ACM Queue, 2006): the ACM page returned 403; "you build it, you run it" is attributed from secondary summaries and the AWS News Blog URL (200); the text does not quote the interview.
+- Not verified, not stated as fact: the origin of CALMS; Kotter's and Hiatt's original publications (known only through Wikipedia); any numeric change-failure rate.
 
 ## Part 6 — People, conversations, and AI
 

@@ -432,7 +432,9 @@
           "title": "Organizational Change and Adoption",
           "slug": "organizational-change-and-adoption",
           "path": "locales/en-001/topics/organizational-change-and-adoption/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/organizational-change-and-adoption/index.md"
+          }
         }
       ]
     },
