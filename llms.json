@@ -206,7 +206,9 @@
           "title": "Change Enablement",
           "slug": "change-enablement",
           "path": "locales/en-001/topics/change-enablement/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/change-enablement/index.md"
+          }
         },
         {
           "number": "3.5",
