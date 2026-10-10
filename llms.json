@@ -287,7 +287,9 @@
           "title": "Information Security Management",
           "slug": "information-security-management",
           "path": "locales/en-001/topics/information-security-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/information-security-management/index.md"
+          }
         },
         {
           "number": "3.14",

@@ -76,7 +76,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] 3.10 Monitoring and Event Management — `monitoring-and-event-management`
 - [x] 3.11 Availability, Capacity, and Performance — `availability-capacity-and-performance`
 - [x] 3.12 Service Continuity Management — `service-continuity-management`
-- [ ] 3.13 Information Security Management — `information-security-management`
+- [x] 3.13 Information Security Management — `information-security-management`
 - [ ] 3.14 Supplier Management — `supplier-management`
 - [ ] 3.15 Continual Improvement — `continual-improvement`
 
