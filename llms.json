@@ -79,7 +79,9 @@
           "title": "Scaling Agile",
           "slug": "scaling-agile",
           "path": "locales/en-001/topics/scaling-agile/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/scaling-agile/index.md"
+          }
         },
         {
           "number": "1.9",
