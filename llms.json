@@ -305,7 +305,9 @@
           "title": "Continual Improvement",
           "slug": "continual-improvement",
           "path": "locales/en-001/topics/continual-improvement/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/continual-improvement/index.md"
+          }
         }
       ]
     },

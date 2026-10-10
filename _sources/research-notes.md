@@ -45,7 +45,14 @@ Read in October 2026:
 
 ## Part 3 — Service practices, the agile way
 
-_No notes yet._
+Read in October 2026:
+
+- Google *Site Reliability Engineering* book (sre.google/sre-book): Managing Incidents (Stribblehill), Postmortem Culture, Monitoring Distributed Systems, Practical Alerting from Time-Series Data, Service Level Objectives, Embracing Risk, Release Engineering. Treated as one organization's documented practice, not a universal rule.
+- DORA (dora.dev): Streamlining change approval; Continuous delivery; software delivery performance metrics (five measures, including failed deployment recovery time and deployment rework rate). The pages cite the 2019 State of DevOps Report and give no effect sizes or sample details.
+- Wikipedia (fetched, summaries only): Help_desk (short; no tiers, metrics, or history), Incident_management (multi-field), Root_cause_analysis, Service-level_agreement, Service_catalog, Knowledge_management (first 100,000 of 140,930 characters), Business_continuity_planning, Information_security (first 100,000 of 243,033 characters), ISO/IEC_27001, Supplier_relationship_management, Service_integration_and_management, Continual_improvement_process, PDCA, Capacity_planning.
+- Not found or unusable: Wikipedia has no article at `Problem_management` or `Knowledge-centered_service` (HTTP 404); `Disaster_recovery` is only a disambiguation page; `Service_portfolio_management` redirects to IT_portfolio_management (no definition).
+- ITIL vocabulary used in Part 3 (change types, known error, workaround, request model, event, underpinning contract, operational-level agreement, major incident) comes from widely published descriptions, not read from the framework owner; each topic says so. Verify against ITIL 4 publications before using exact definitions.
+- axelos.com and peoplecert.org owner pages for practices were not available beyond the certification catalog.
 
 ## Part 4 — IT asset and configuration management
 
