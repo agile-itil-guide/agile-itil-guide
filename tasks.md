@@ -216,7 +216,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 1.3 agile-software-development
 - [x] zh-cn 1.4 scrum
 - [x] zh-cn 1.5 kanban
-- [ ] zh-cn 1.6 extreme-programming
+- [x] zh-cn 1.6 extreme-programming
 - [ ] zh-cn 1.7 lean-software-development
 - [ ] zh-cn 1.8 scaling-agile
 - [ ] zh-cn 1.9 agile-management
