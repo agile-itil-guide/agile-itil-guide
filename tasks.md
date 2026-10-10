@@ -73,7 +73,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] 3.7 Service Level Management — `service-level-management`
 - [x] 3.8 Service Catalog Management — `service-catalog-management`
 - [x] 3.9 Knowledge Management — `knowledge-management`
-- [ ] 3.10 Monitoring and Event Management — `monitoring-and-event-management`
+- [x] 3.10 Monitoring and Event Management — `monitoring-and-event-management`
 - [ ] 3.11 Availability, Capacity, and Performance — `availability-capacity-and-performance`
 - [ ] 3.12 Service Continuity Management — `service-continuity-management`
 - [ ] 3.13 Information Security Management — `information-security-management`

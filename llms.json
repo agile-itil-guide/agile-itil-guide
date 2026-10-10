@@ -260,7 +260,9 @@
           "title": "Monitoring and Event Management",
           "slug": "monitoring-and-event-management",
           "path": "locales/en-001/topics/monitoring-and-event-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/monitoring-and-event-management/index.md"
+          }
         },
         {
           "number": "3.11",

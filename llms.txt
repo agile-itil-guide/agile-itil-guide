@@ -38,6 +38,7 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 - [Topic 3.7 — Service Level Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/service-level-management/index.md)
 - [Topic 3.8 — Service Catalog Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/service-catalog-management/index.md)
 - [Topic 3.9 — Knowledge Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/knowledge-management/index.md)
+- [Topic 3.10 — Monitoring and Event Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/monitoring-and-event-management/index.md)
 
 ## Part 4 — IT asset and configuration management
 
