@@ -251,7 +251,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 5.1 agile-service-management
 - [x] zh-cn 5.2 devops
 - [x] zh-cn 5.3 site-reliability-engineering
-- [ ] zh-cn 5.4 value-stream-management
+- [x] zh-cn 5.4 value-stream-management
 - [ ] zh-cn 5.5 product-and-service-ownership
 - [ ] zh-cn 5.6 metrics-and-measurement
 - [ ] zh-cn 5.7 governance-risk-and-compliance
