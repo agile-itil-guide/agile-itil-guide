@@ -160,7 +160,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 1.6 extreme-programming
 - [x] cy-gb 1.7 lean-software-development
 - [x] cy-gb 1.8 scaling-agile
-- [ ] cy-gb 1.9 agile-management
+- [x] cy-gb 1.9 agile-management
 - [ ] cy-gb 1.10 agile-learning
 - [ ] cy-gb 2.1 it-service-management
 - [ ] cy-gb 2.2 itil
