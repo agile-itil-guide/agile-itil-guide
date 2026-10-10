@@ -54,7 +54,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ### Part 2 — ITIL and IT service management foundations
 
-- [ ] 2.1 IT Service Management — `it-service-management`
+- [x] 2.1 IT Service Management — `it-service-management`
 - [ ] 2.2 ITIL — `itil`
 - [ ] 2.3 The ITIL Service Value System — `service-value-system`
 - [ ] 2.4 ITIL Guiding Principles — `itil-guiding-principles`
