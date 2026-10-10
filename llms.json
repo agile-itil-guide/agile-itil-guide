@@ -129,7 +129,9 @@
           "title": "The ITIL Service Value System",
           "slug": "service-value-system",
           "path": "locales/en-001/topics/service-value-system/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-value-system/index.md"
+          }
         },
         {
           "number": "2.4",
