@@ -51,6 +51,7 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 - [Topic 4.2 — Software Asset Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/software-asset-management/index.md)
 - [Topic 4.3 — Hardware Asset Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/hardware-asset-management/index.md)
 - [Topic 4.4 — Configuration Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/configuration-management/index.md)
+- [Topic 4.5 — IT Financial Management and FinOps](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/it-financial-management-and-finops/index.md)
 
 ## Part 5 — Bringing agile and ITIL together
 

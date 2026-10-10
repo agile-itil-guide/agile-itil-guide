@@ -56,7 +56,14 @@ Read in October 2026:
 
 ## Part 4 — IT asset and configuration management
 
-_No notes yet._
+Read in October 2026:
+
+- Wikipedia (fetched, summaries only): IT_asset_management (redirects to Data_center_management; short ITAM and hardware asset section), Software_asset_management, Configuration_management_database, Configuration_management, Infrastructure_as_code, Software_supply_chain (Software_bill_of_materials redirects here; no SBOM formats named), Open-source_software (first 100,000 of 209,473 characters), Data_erasure, Electronic_waste (first 100,000 of 273,639; figures conflict, maintenance tags), Cloud_computing (cost sections; maintenance notice about unverified text).
+- FinOps Foundation (finops.org/introduction/what-is-finops/): definition, personas, FOCUS specification, "Crawl, Walk, Run". Principles and phases not stated on the page read; not cited.
+- Not found: Wikipedia has no article at `FinOps` (HTTP 404).
+- ITIL vocabulary for IT financial management (budgeting, accounting, charging), showback and chargeback, and request-model style terms comes from common usage, not read from the framework owner.
+- The ISO/IEC 19770 part list is from the Software asset management article; the standards were not read.
+- ITAM sources remain thin; the spec's open item to find stronger primary ITAM sources is not closed.
 
 ## Part 5 — Bringing agile and ITIL together
 

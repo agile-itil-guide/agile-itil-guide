@@ -355,7 +355,9 @@
           "title": "IT Financial Management and FinOps",
           "slug": "it-financial-management-and-finops",
           "path": "locales/en-001/topics/it-financial-management-and-finops/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/it-financial-management-and-finops/index.md"
+          }
         }
       ]
     },
