@@ -189,7 +189,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 4.3 hardware-asset-management
 - [x] cy-gb 4.4 configuration-management
 - [x] cy-gb 4.5 it-financial-management-and-finops
-- [ ] cy-gb 5.1 agile-service-management
+- [x] cy-gb 5.1 agile-service-management
 - [ ] cy-gb 5.2 devops
 - [ ] cy-gb 5.3 site-reliability-engineering
 - [ ] cy-gb 5.4 value-stream-management
