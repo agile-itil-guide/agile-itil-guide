@@ -138,7 +138,9 @@
           "title": "ITIL Guiding Principles",
           "slug": "itil-guiding-principles",
           "path": "locales/en-001/topics/itil-guiding-principles/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/itil-guiding-principles/index.md"
+          }
         },
         {
           "number": "2.5",
