@@ -215,7 +215,9 @@
           "title": "Release and Deployment Management",
           "slug": "release-and-deployment-management",
           "path": "locales/en-001/topics/release-and-deployment-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/release-and-deployment-management/index.md"
+          }
         },
         {
           "number": "3.6",

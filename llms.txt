@@ -33,6 +33,7 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 - [Topic 3.2 — Incident Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/incident-management/index.md)
 - [Topic 3.3 — Problem Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/problem-management/index.md)
 - [Topic 3.4 — Change Enablement](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/change-enablement/index.md)
+- [Topic 3.5 — Release and Deployment Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/release-and-deployment-management/index.md)
 
 ## Part 4 — IT asset and configuration management
 
