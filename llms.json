@@ -396,7 +396,9 @@
           "title": "Value Stream Management",
           "slug": "value-stream-management",
           "path": "locales/en-001/topics/value-stream-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/value-stream-management/index.md"
+          }
         },
         {
           "number": "5.5",
