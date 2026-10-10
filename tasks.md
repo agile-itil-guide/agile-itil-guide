@@ -49,7 +49,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] 1.6 Extreme Programming — `extreme-programming`
 - [x] 1.7 Lean Software Development — `lean-software-development`
 - [x] 1.8 Scaling Agile — `scaling-agile`
-- [ ] 1.9 Agile Management — `agile-management`
+- [x] 1.9 Agile Management — `agile-management`
 - [ ] 1.10 Agile Learning — `agile-learning`
 
 ### Part 2 — ITIL and IT service management foundations

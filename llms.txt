@@ -14,6 +14,7 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 - [Topic 1.6 — Extreme Programming](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/extreme-programming/index.md)
 - [Topic 1.7 — Lean Software Development](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/lean-software-development/index.md)
 - [Topic 1.8 — Scaling Agile](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/scaling-agile/index.md)
+- [Topic 1.9 — Agile Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/agile-management/index.md)
 
 ## Part 2 — ITIL and IT service management foundations
 

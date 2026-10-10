@@ -88,7 +88,9 @@
           "title": "Agile Management",
           "slug": "agile-management",
           "path": "locales/en-001/topics/agile-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/agile-management/index.md"
+          }
         },
         {
           "number": "1.10",
