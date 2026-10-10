@@ -251,7 +251,9 @@
           "title": "Knowledge Management",
           "slug": "knowledge-management",
           "path": "locales/en-001/topics/knowledge-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/knowledge-management/index.md"
+          }
         },
         {
           "number": "3.10",
