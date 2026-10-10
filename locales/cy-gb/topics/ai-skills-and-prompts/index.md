@@ -1,3 +1,3 @@
-# AI Skills and Prompts
+# Sgiliau ac Anogwyr AI
 
 _Not yet written.

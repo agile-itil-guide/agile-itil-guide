@@ -1,3 +1,3 @@
-# Governance, Risk, and Compliance
+# Llywodraethu, Risg a Chydymffurfio
 
 _Not yet written.

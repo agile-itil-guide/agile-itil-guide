@@ -1,3 +1,3 @@
-# IT Financial Management and FinOps
+# Rheolaeth Ariannol TG a FinOps
 
 _Not yet written.

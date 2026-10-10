@@ -146,3 +146,60 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [ ] Create GitHub repositories and add the `site` remote (confirm names with the maintainer)
 - [ ] First `bin/deploy-site` subtree push; Pages site live and checked
 - [ ] All tasks above checked off
+
+## Phase 7 — Welsh (cy-gb) translation
+
+Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.md`. `bin/check` reads headings from `locales/cy-gb/locale.json`.
+
+- [x] Scaffold `locales/cy-gb/` (peer ids, symlinks, titled stubs, `locale.json`, `TERMINOLOGY.md`) and make `bin/check` locale-aware
+- [x] cy-gb 1.1 agile-manifesto
+- [ ] cy-gb 1.2 agile-principles
+- [ ] cy-gb 1.3 agile-software-development
+- [ ] cy-gb 1.4 scrum
+- [ ] cy-gb 1.5 kanban
+- [ ] cy-gb 1.6 extreme-programming
+- [ ] cy-gb 1.7 lean-software-development
+- [ ] cy-gb 1.8 scaling-agile
+- [ ] cy-gb 1.9 agile-management
+- [ ] cy-gb 1.10 agile-learning
+- [ ] cy-gb 2.1 it-service-management
+- [ ] cy-gb 2.2 itil
+- [ ] cy-gb 2.3 service-value-system
+- [ ] cy-gb 2.4 itil-guiding-principles
+- [ ] cy-gb 2.5 four-dimensions-of-service-management
+- [ ] cy-gb 2.6 service-value-chain
+- [ ] cy-gb 2.7 itsm-frameworks-and-standards
+- [ ] cy-gb 3.1 service-desk
+- [ ] cy-gb 3.2 incident-management
+- [ ] cy-gb 3.3 problem-management
+- [ ] cy-gb 3.4 change-enablement
+- [ ] cy-gb 3.5 release-and-deployment-management
+- [ ] cy-gb 3.6 service-request-management
+- [ ] cy-gb 3.7 service-level-management
+- [ ] cy-gb 3.8 service-catalog-management
+- [ ] cy-gb 3.9 knowledge-management
+- [ ] cy-gb 3.10 monitoring-and-event-management
+- [ ] cy-gb 3.11 availability-capacity-and-performance
+- [ ] cy-gb 3.12 service-continuity-management
+- [ ] cy-gb 3.13 information-security-management
+- [ ] cy-gb 3.14 supplier-management
+- [ ] cy-gb 3.15 continual-improvement
+- [ ] cy-gb 4.1 it-asset-management
+- [ ] cy-gb 4.2 software-asset-management
+- [ ] cy-gb 4.3 hardware-asset-management
+- [ ] cy-gb 4.4 configuration-management
+- [ ] cy-gb 4.5 it-financial-management-and-finops
+- [ ] cy-gb 5.1 agile-service-management
+- [ ] cy-gb 5.2 devops
+- [ ] cy-gb 5.3 site-reliability-engineering
+- [ ] cy-gb 5.4 value-stream-management
+- [ ] cy-gb 5.5 product-and-service-ownership
+- [ ] cy-gb 5.6 metrics-and-measurement
+- [ ] cy-gb 5.7 governance-risk-and-compliance
+- [ ] cy-gb 5.8 organizational-change-and-adoption
+- [ ] cy-gb 6.1 team-conversations
+- [ ] cy-gb 6.2 ai-in-it-service-management
+- [ ] cy-gb 6.3 ai-skills-and-prompts
+- [ ] cy-gb 6.4 learning-paths-and-certification
+- [ ] cy-gb GLOSSARY, INDEX, README, llms and site integration (locales.ts, messages, sync-content, search index)
+- [ ] Welsh-speaking reviewer reads every translated topic
