@@ -18,8 +18,8 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [ ] `bin/build-llms` adapted to read `spec/topics.tsv`
 - [ ] `bin/deploy-site` (`git subtree push --prefix=agile-itil.github.io site main`)
 - [ ] `locales/en-001/topics/.locale-peer-id`
-- [ ] For all 51 units: `locales/en-001/topics/<slug>/` with `index.md` stub, `README.md -> index.md` relative symlink, and `.locale-peer-id`
-- [ ] `README.md` (table of contents), `GLOSSARY.md`, `INDEX.md` skeletons
+- [ ] For all 50 topics: `locales/en-001/topics/<slug>/` with `index.md` stub, `README.md -> index.md` relative symlink, and `.locale-peer-id`
+- [ ] `README.md` (table of contents, who the guide is for, how to use it, trademark notice; no preface), `GLOSSARY.md`, `INDEX.md` skeletons
 - [ ] `CITATION.cff`
 - [ ] `_sources/research-notes.md` skeleton
 - [ ] Copy relevant skills from `~/git/skills-on-ai/skills-on-ai/skills` into `skills/` (whole directories, unchanged), and record them in `skills/README.md`. Starting list:
@@ -38,10 +38,6 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [ ] Confirm or revise the spec §4 manifest and scope notes before any prose is written
 
 ## Phase 2 — Canonical topics (`en-001`)
-
-### Front matter
-
-- [ ] 0.1 Preface — `preface`
 
 ### Part 1 — Agile foundations
 
@@ -128,7 +124,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ## Phase 5 — Website subproject (`agile-itil.github.io/`)
 
-- [ ] Scaffold SvelteKit 3 + Svelte 5 + adapter-static + TypeScript with npm (`package.json`, `package-lock.json`, `vite.config.ts`, `tsconfig.json`)
+- [ ] Scaffold SvelteKit 3 + Svelte 5 + adapter-static + TypeScript with pnpm (`package.json` with `packageManager`, `pnpm-lock.yaml`, `pnpm-workspace.yaml`, `vite.config.ts`, `tsconfig.json`)
 - [ ] Install `@lilydesignsystem/svelte-headless`, `@lilydesignsystem/svelte-picker-bar`, `@lilydesignsystem/themes` (check current versions on npmjs.com)
 - [ ] `scripts/sync-themes.sh` (postinstall; generic default themes only)
 - [ ] Confirm and install the Sveltia i18n package; `src/lib/locales/en-001.json` UI strings
@@ -138,9 +134,9 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [ ] Layout with `GrailLayout` and `PickerBar` (locale, theme, text size, search, links)
 - [ ] `scripts/build-search-index.mjs` and search UI
 - [ ] `static/assets/style.css`, favicon, `robots.txt`, `.nojekyll`
-- [ ] `.github/workflows/deploy.yml` (npm ci, build, deploy to Pages)
+- [ ] `.github/workflows/deploy.yml` (pnpm/action-setup, `pnpm install --frozen-lockfile`, `pnpm build`, deploy to Pages)
 - [ ] Subproject `README.md`, `AGENTS.md`, `spec/` (ported Lily picker-bar and search specs)
-- [ ] `npm run check` 0 errors; `npm run build` clean
+- [ ] `pnpm check` 0 errors; `pnpm build` clean
 - [ ] Browser check of `build/` served statically at 1440px and 390px
 
 ## Phase 6 — Release

@@ -2,7 +2,7 @@
 
 ## What we are building
 
-The *Agile ITIL Guide*: 6 parts, 50 topics, plus a preface, written in the canonical locale `en-001`. Every topic covers research, practices, a worked example, questions to discuss with your team, AI prompts, and links to AI skills. The monorepo also holds the AI skills (`skills/`), the tooling (`bin/`), and the reading website (`agile-itil.github.io/`), which is deployed by git subtree. Everything follows `spec/index.md`.
+The *Agile ITIL Guide*: 6 parts, 50 topics (no preface), written in the canonical locale `en-001`. Every topic covers research, practices, a worked example, questions to discuss with your team, AI prompts, and links to AI skills. The monorepo also holds the AI skills (`skills/`), the tooling (`bin/`), and the reading website (`agile-itil.github.io/`), which is deployed by git subtree. Everything follows `spec/index.md`.
 
 ## Reference implementation
 
@@ -10,9 +10,10 @@ The *Agile ITIL Guide*: 6 parts, 50 topics, plus a preface, written in the canon
 
 - Directory slugs carry no number (`agile-manifesto/`, not `01-01-agile-manifesto/`). Ordering lives in `spec/index.md` §4 and `spec/topics.tsv`.
 - Each topic directory has `README.md -> index.md` (relative symlink).
+- No preface: the guide opens with Topic 1.1, and preface-style material lives in `README.md`.
 - One locale (`en-001`) at launch, rather than many.
 - The topic template adds `## AI prompts` and `## AI skills`, and replaces the sector lenses with four perspectives (product and delivery, service and operations, leadership and governance, customers and users).
-- The website lives inside the monorepo as `agile-itil.github.io/`, uses npm (not pnpm), uses Sveltia i18n for UI strings, and is deployed with `git subtree push`.
+- The website lives inside the monorepo as `agile-itil.github.io/`, uses pnpm (as the reference site does), uses Sveltia i18n for UI strings, and is deployed with `git subtree push`.
 
 ## Grounding sources
 
@@ -21,13 +22,13 @@ The six Wikipedia articles named in `spec/index.md` §6 item 3 are the starting 
 ## Phases
 
 **Phase 0 — Scaffolding** (before any topic prose)
-Monorepo layout; `AGENTS.md`, `AGENTS/` role cards, `CLAUDE.md`; `STYLE_GUIDE.md`; `spec/maturity-model.md` and `spec/topics.tsv`; `bin/` tools vendored from public-value-guide and adapted (slug-only directories, 15-section template, symlink and skill-link checks); `locales/en-001/topics/<slug>/` for all 51 units, each with an empty `index.md` stub, `README.md -> index.md`, and `.locale-peer-id`; copied skills in `skills/` plus `skills/README.md`; skeletons for `README.md`, `GLOSSARY.md`, `INDEX.md`, `CITATION.cff`, `_sources/research-notes.md`, and `.gitignore`. Commit after each item.
+Monorepo layout; `AGENTS.md`, `AGENTS/` role cards, `CLAUDE.md`; `STYLE_GUIDE.md`; `spec/maturity-model.md` and `spec/topics.tsv`; `bin/` tools vendored from public-value-guide and adapted (slug-only directories, 15-section template, symlink and skill-link checks); `locales/en-001/topics/<slug>/` for all 50 topics, each with an empty `index.md` stub, `README.md -> index.md`, and `.locale-peer-id`; copied skills in `skills/` plus `skills/README.md`; skeletons for `README.md`, `GLOSSARY.md`, `INDEX.md`, `CITATION.cff`, `_sources/research-notes.md`, and `.gitignore`. Commit after each item.
 
 **Phase 1 — Research**
 Read the six core Wikipedia articles and their key primary sources; write `_sources/research-notes.md` by part, including verified Wikipedia slugs for each topic. Note topic boundaries where the sources overlap (for example ITIL change enablement versus DevOps continuous delivery) and confirm the scope notes in spec §4, changing the manifest now if needed: renumbering later costs much more.
 
 **Phase 2 — Canonical topics, part by part**
-Write the preface and then the topics in order, Part 1 to Part 6, one topic per commit. Later parts depend on earlier concepts (Part 5 assumes Parts 1–3), so do not skip ahead. Part 6 comes last because Topic 6.1 collects conversation starters and Topic 6.3 explains the prompt and skill conventions used throughout.
+Write the topics in order (there is no preface; spec §4), Part 1 to Part 6, one topic per commit. Later parts depend on earlier concepts (Part 5 assumes Parts 1–3), so do not skip ahead. Part 6 comes last because Topic 6.1 collects conversation starters and Topic 6.3 explains the prompt and skill conventions used throughout.
 
 **Phase 3 — Reference matter and skills**
 Each topic author adds their new terms to `GLOSSARY.md` and `INDEX.md` in the same commit; a reference-editor pass reconciles them at the end of each part. Write the two original skills (`agile-itil-guide-skill`, `agile-itil-guide-maintainer-skill`) once Part 2 is done, so they can reference real topics, and refine them at the end. Prune or add copied skills so that every copied skill is linked from at least one topic (spec §7).
@@ -53,8 +54,7 @@ Scaffold `agile-itil.github.io/` from the public-value-guide site: SvelteKit 3, 
 
 1. **Manifest size.** 50 topics is ambitious. Parts 3 and 4 could be trimmed (for example by merging hardware and software asset management) if a smaller first release is preferred.
 2. **GitHub organization and remotes.** The plan assumes `agile-itil/agile-itil-guide` for the monorepo and `agile-itil/agile-itil.github.io` for the site (remote name `site`). Both repositories need creating before the first push.
-3. **Sveltia i18n package.** Confirm the exact npm package and version before Phase 5 (spec §9).
-4. **Package manager.** The plan reads "NPM.js" as both the package source and the package manager (npm, with `package-lock.json`), departing from the reference site's pnpm.
+3. **Sveltia i18n package.** Confirm the exact npm registry package and version before Phase 5 (spec §9).
 
 ## Risks and mitigations
 
