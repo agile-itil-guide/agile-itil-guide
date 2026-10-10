@@ -455,7 +455,9 @@
           "title": "AI in IT Service Management",
           "slug": "ai-in-it-service-management",
           "path": "locales/en-001/topics/ai-in-it-service-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/ai-in-it-service-management/index.md"
+          }
         },
         {
           "number": "6.3",
