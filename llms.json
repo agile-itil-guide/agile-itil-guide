@@ -387,7 +387,9 @@
           "title": "Site Reliability Engineering",
           "slug": "site-reliability-engineering",
           "path": "locales/en-001/topics/site-reliability-engineering/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/site-reliability-engineering/index.md"
+          }
         },
         {
           "number": "5.4",
