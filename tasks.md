@@ -15,13 +15,13 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] `STYLE_GUIDE.md` (en-001 conventions, voice, prompt-writing style)
 - [x] `bin/` vendored from public-value-guide: `locale-peer-id`, `grep-locale-peer-id`, `slug-case`, `markdown-read-to-headline`
 - [x] `bin/check` adapted: slug-only directories, 15-section template, `README.md` symlink check, AI prompt and skill-link checks, `--links` Wikipedia check
-- [x] `bin/build-llms` adapted to read `spec/topics.tsv`
+- [x] `bin/build-llms` adapted to read `spec/topics.tsv`; `bin/build-readme` added
 - [x] `bin/deploy-site` (`git subtree push --prefix=agile-itil.github.io site main`)
 - [x] `locales/en-001/topics/.locale-peer-id`
 - [x] For all 49 topics: `locales/en-001/topics/<slug>/` with `index.md` stub, `README.md -> index.md` relative symlink, and `.locale-peer-id`
-- [ ] `README.md` (table of contents, who the guide is for, how to use it, trademark notice; no preface), `GLOSSARY.md`, `INDEX.md` skeletons
-- [ ] `CITATION.cff`
-- [ ] `_sources/research-notes.md` skeleton
+- [x] `README.md` (table of contents, who the guide is for, how to use it, trademark notice; no preface), `GLOSSARY.md`, `INDEX.md` skeletons
+- [x] `CITATION.cff`
+- [x] `_sources/research-notes.md` skeleton
 - [x] Copy relevant skills (84 copied; see `skills/README.md`; pruned in Phase 3) from `~/git/skills-on-ai/skills-on-ai/skills` into `skills/` (whole directories, unchanged), and record them in `skills/README.md`. Starting list:
   - Agile: `agile-charter`, `agile-coaching`, `agile-delivery`, `agile-discovery`, `agile-liftoff`, `agile-principles`, `agile-reflection`, `agile-showcase`, `agile-standown`, `agile-standup`, `scrum`, `scrum-of-scrums`, `scrumban`, `kanban`, `extreme-programming`, `large-scale-scrum`, `scaled-agile-framework`, `disciplined-agile`, `user-story`, `feature-prioritization`, `product-roadmap`, `futurespective`, `team-focus`
   - Lean and improvement: `kaizen`, `value-stream-map`, `six-sigma`, `dmaic`

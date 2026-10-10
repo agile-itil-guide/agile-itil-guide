@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Agile ITIL Guide"
+message: "If you use this guide, please cite it using the metadata below."
+type: dataset
+authors:
+  - given-names: "Joel Parker"
+    family-names: "Henderson"
+    email: "joel@joelparkerhenderson.com"
+abstract: >-
+  A practical handbook for running IT services the agile way: research,
+  practices, examples, ideas to talk about with teams, AI skills, and AI
+  prompts, combining agile methods, ITIL, IT service management, and IT asset
+  management.
+keywords:
+  - agile
+  - ITIL
+  - IT service management
+  - IT asset management
+  - DevOps
+  - AI skills
+  - AI prompts
+license: CC-BY-4.0
