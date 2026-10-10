@@ -120,7 +120,9 @@
           "title": "ITIL",
           "slug": "itil",
           "path": "locales/en-001/topics/itil/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/itil/index.md"
+          }
         },
         {
           "number": "2.3",
