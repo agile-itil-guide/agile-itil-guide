@@ -13,8 +13,8 @@ Verified research behind the topics (plan.md Phase 1). Rules (spec §6):
 | <https://en.wikipedia.org/wiki/Agile_software_development> | Parts 1, 5 | read (Oct 2026; partial: first ~100,000 characters of Agile_software_development) |
 | <https://en.wikipedia.org/wiki/Agile_learning> | Topic 1.10, Part 6 | read (Oct 2026; partial: first ~100,000 characters of Agile_software_development) |
 | <https://en.wikipedia.org/wiki/Agile_management> | Topic 1.9, Part 5 | read (Oct 2026; partial: first ~100,000 characters of Agile_software_development) |
-| <https://en.wikipedia.org/wiki/ITIL> | Parts 2, 3 | not yet |
-| <https://en.wikipedia.org/wiki/IT_service_management> | Parts 2, 3 | not yet |
+| <https://en.wikipedia.org/wiki/ITIL> | Parts 2, 3 | read (Oct 2026) |
+| <https://en.wikipedia.org/wiki/IT_service_management> | Parts 2, 3 | read (Oct 2026) |
 | <https://en.wikipedia.org/wiki/IT_asset_management> | Part 4 | not yet |
 
 ## Part 1 — Agile foundations
@@ -33,7 +33,15 @@ Read in October 2026 (each URL fetched and summarized this session):
 
 ## Part 2 — ITIL and IT service management foundations
 
-_No notes yet._
+Read in October 2026:
+
+- Wikipedia (fetched, summaries only): IT_service_management (no history, criticism, or agile content; lists frameworks), ITIL (versions, owners, ITIL 4 and an ITIL 5 section dated January 2026; no criticisms), ISO/IEC_20000 (parts, 2018 edition, 2024 ISO survey figure), COBIT (flagged for weak sourcing), FitSM.
+- <https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1> (owner): "The new ITIL is here!"; "Practical and AI-native by design"; ITIL Foundation / Product / Service / AI Governance (Version 5); ITIL 4 courses still listed; no release date; does not say whether ITIL 4 certificates are retired.
+- <https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565> (owner): lists the four dimensions by name; names the service value system, guiding principles, service value chain without naming their contents.
+- axelos.com pages fetched returned only a title (no usable body); not cited.
+- Secondary (training provider and vendor), used only for descriptions and labelled as secondary in the topics: purplegriffon.com ITIL service value system page (six value chain activities and value stream definition); manageengine.com SVS page (lists activities, no descriptions); itsm.tools four dimensions page and search-result summaries (dimension descriptions, PESTLE).
+- Wikipedia lists the seven guiding principles and the 34-practice count (22 + 12) under its ITIL 5 section; they match the widely published ITIL 4 structure, and the topics treat them as ITIL 4 concepts with a caution.
+- Not verified, not cited: exact owner wording of the SVS components, the guiding principles, and the six activities (owner publications not read).
 
 ## Part 3 — Service practices, the agile way
 
