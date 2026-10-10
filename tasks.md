@@ -142,7 +142,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ## Phase 6 — Release
 
-- [ ] `README.md`, `GLOSSARY.md`, `INDEX.md`, `spec/topics.tsv`, `llms.*` agree with spec §4
+- [x] `README.md`, `GLOSSARY.md`, `INDEX.md`, `spec/topics.tsv`, `llms.*` agree with spec §4
 - [ ] Create GitHub repositories and add the `site` remote (confirm names with the maintainer)
 - [ ] First `bin/deploy-site` subtree push; Pages site live and checked
 - [ ] All tasks above checked off
