@@ -224,7 +224,9 @@
           "title": "Service Request Management",
           "slug": "service-request-management",
           "path": "locales/en-001/topics/service-request-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-request-management/index.md"
+          }
         },
         {
           "number": "3.7",
