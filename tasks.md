@@ -255,7 +255,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 5.5 product-and-service-ownership
 - [x] zh-cn 5.6 metrics-and-measurement
 - [x] zh-cn 5.7 governance-risk-and-compliance
-- [ ] zh-cn 5.8 organizational-change-and-adoption
+- [x] zh-cn 5.8 organizational-change-and-adoption
 - [ ] zh-cn 6.1 team-conversations
 - [ ] zh-cn 6.2 ai-in-it-service-management
 - [ ] zh-cn 6.3 ai-skills-and-prompts
