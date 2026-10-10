@@ -337,7 +337,9 @@
           "title": "Hardware Asset Management",
           "slug": "hardware-asset-management",
           "path": "locales/en-001/topics/hardware-asset-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/hardware-asset-management/index.md"
+          }
         },
         {
           "number": "4.4",
