@@ -257,7 +257,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 5.7 governance-risk-and-compliance
 - [x] zh-cn 5.8 organizational-change-and-adoption
 - [x] zh-cn 6.1 team-conversations
-- [ ] zh-cn 6.2 ai-in-it-service-management
+- [x] zh-cn 6.2 ai-in-it-service-management
 - [ ] zh-cn 6.3 ai-skills-and-prompts
 - [ ] zh-cn 6.4 learning-paths-and-certification
 - [ ] zh-cn site integration (locales.ts, messages, spec table, llms)
