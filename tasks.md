@@ -196,7 +196,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 5.5 product-and-service-ownership
 - [x] cy-gb 5.6 metrics-and-measurement
 - [x] cy-gb 5.7 governance-risk-and-compliance
-- [ ] cy-gb 5.8 organizational-change-and-adoption
+- [x] cy-gb 5.8 organizational-change-and-adoption
 - [ ] cy-gb 6.1 team-conversations
 - [ ] cy-gb 6.2 ai-in-it-service-management
 - [ ] cy-gb 6.3 ai-skills-and-prompts
