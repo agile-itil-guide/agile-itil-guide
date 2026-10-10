@@ -200,6 +200,6 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 6.1 team-conversations
 - [x] cy-gb 6.2 ai-in-it-service-management
 - [x] cy-gb 6.3 ai-skills-and-prompts
-- [ ] cy-gb 6.4 learning-paths-and-certification
+- [x] cy-gb 6.4 learning-paths-and-certification
 - [ ] cy-gb GLOSSARY, INDEX, README, llms and site integration (locales.ts, messages, sync-content, search index)
 - [ ] Welsh-speaking reviewer reads every translated topic
