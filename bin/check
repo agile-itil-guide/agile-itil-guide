@@ -51,15 +51,15 @@ def h1(path):
 def titles_for(loc):
     return {r["number"]: h1(f"{L}/{loc}/topics/{r['slug']}/index.md") for r in manifest}
 
-H2 = [
+H2_EN = [
     "Why this matters", "Core concepts", "Best practices",
     "Questions to discuss with your team", "In practice: an agile ITIL example",
     "Four perspectives", "Common failure modes", "Maturity model", "Checklist",
     "AI prompts", "AI skills", "Key sources", "References",
 ]
-H3 = ["Product and delivery teams", "Service and operations teams",
+H3_EN = ["Product and delivery teams", "Service and operations teams",
       "Leadership and governance", "Customers and users"]
-MATURITY = ["Initiate", "Develop", "Standardize", "Manage", "Orchestrate"]
+MATURITY_EN = ["Initiate", "Develop", "Standardize", "Manage", "Orchestrate"]
 
 
 def split_h2(text):
@@ -88,8 +88,19 @@ for m in re.finditer(r"^\| (\d\.\d{1,2}) \| `([^`]+)` \| ([^|]+?) \|", open("spe
 warnings = []
 
 
+def locale_cfg(loc):
+    """Per-locale heading translations (locales/<loc>/locale.json); canonical locale uses the English names."""
+    path = f"{L}/{loc}/locale.json"
+    if os.path.isfile(path):
+        return json.load(open(path, encoding="utf-8"))
+    return {"h2": {}, "h3": {}, "maturity": {}, "topic_word": "Topic", "topics_word": "Topics"}
+
+
 def check_topic(loc, slug, text):
     r, k = by_slug[slug], f"{loc}/{slug}"
+    cfg = locale_cfg(loc)
+    H2, H3, MATURITY = ([cfg[n].get(x, x) for x in base] for n, base in (("h2", H2_EN), ("h3", H3_EN), ("maturity", MATURITY_EN)))
+    sec = lambda name: secs[cfg["h2"].get(name, name)]
     pre, secs, order = split_h2(text)
     lines = [x for x in pre.split("\n") if x.strip()]
     if not lines or not lines[0].startswith("# ") or not lines[0][2:].strip():
@@ -103,43 +114,43 @@ def check_topic(loc, slug, text):
     if order != H2:
         fail(f"{k}: H2 sections/order differ from spec §3 (got: {order})")
         return
-    bp = len(re.findall(r"^\d+\.\s+\*\*", secs["Best practices"], re.M))
+    bp = len(re.findall(r"^\d+\.\s+\*\*", sec("Best practices"), re.M))
     if not 8 <= bp <= 12:
         fail(f"{k}: best practices={bp} (need 8–12, each with a bold lead-in)")
-    q = len(re.findall(r"^\*\*[^*\n]+\*\*\s*$|^\*\*[^*\n]+\?\*\*", secs["Questions to discuss with your team"], re.M))
+    q = len(re.findall(r"^\*\*[^*\n]+\*\*\s*$|^\*\*[^*\n]+\?\*\*", sec("Questions to discuss with your team"), re.M))
     if q != 6:
         fail(f"{k}: questions={q} (need exactly 6 bold questions)")
-    h3 = re.findall(r"^### (.+?)\s*$", secs["Four perspectives"], re.M)
+    h3 = re.findall(r"^### (.+?)\s*$", sec("Four perspectives"), re.M)
     if h3 != H3:
         fail(f"{k}: perspectives {h3} should be {H3}")
-    fb = len(re.findall(r"^[-*] ", secs["Common failure modes"], re.M))
+    fb = len(re.findall(r"^[-*] ", sec("Common failure modes"), re.M))
     if not 5 <= fb <= 8:
         fail(f"{k}: failure modes={fb} (need 5–8)")
-    rows = [x for x in secs["Maturity model"].split("\n") if x.startswith("|")]
+    rows = [x for x in sec("Maturity model").split("\n") if x.startswith("|")]
     if rows:
         head = [c.strip() for c in rows[0].strip("|").split("|")]
         if head[-5:] != MATURITY:
             fail(f"{k}: maturity columns should end with {MATURITY}")
     if not 3 <= len(rows) - 2 <= 5:
         fail(f"{k}: maturity rows={len(rows) - 2} (need 3–5)")
-    cl = len(re.findall(r"^- \[ \] ", secs["Checklist"], re.M))
+    cl = len(re.findall(r"^- \[ \] ", sec("Checklist"), re.M))
     if not 6 <= cl <= 12:
         fail(f"{k}: checklist items={cl} (need 6–12)")
-    blocks = re.findall(r"^```text\n(.*?)^```", secs["AI prompts"], re.M | re.S)
+    blocks = re.findall(r"^```text\n(.*?)^```", sec("AI prompts"), re.M | re.S)
     if not 3 <= len(blocks) <= 5:
         fail(f"{k}: AI prompts={len(blocks)} (need 3–5 fenced text blocks)")
     for i, b in enumerate(blocks, 1):
         if not re.search(r"\[[^\]\n]+\]", b):
             fail(f"{k}: AI prompt {i} has no [placeholder]")
-    sk = re.findall(r"\]\(([^)]*skills/[^)]*)\)", secs["AI skills"])
+    sk = re.findall(r"\]\(([^)]*skills/[^)]*)\)", sec("AI skills"))
     if not 1 <= len(sk) <= 5:
         fail(f"{k}: AI skill links={len(sk)} (need 1–5)")
     for href in sk:
         target = os.path.normpath(os.path.join(L, loc, "topics", slug, href))
         if not os.path.isfile(target) or not target.endswith("SKILL.md"):
             fail(f"{k}: AI skill link does not resolve: {href}")
-    wiki = set(re.findall(r"https://en\.wikipedia\.org/wiki/[^\s)\]>]+", text.split("\n## References")[0]))
-    refs = secs["References"]
+    wiki = set(re.findall(r"https://en\.wikipedia\.org/wiki/[^\s)\]>]+", text.split("\n## " + cfg["h2"].get("References", "References"))[0]))
+    refs = sec("References")
     n_wiki = len(set(re.findall(r"https://en\.wikipedia\.org/wiki/[^\s)\]>]+", refs)))
     if not 5 <= n_wiki <= 12:
         fail(f"{k}: Wikipedia links in References={n_wiki} (need 5–12)")
@@ -211,8 +222,10 @@ for loc in locales:
         text = open(p, encoding="utf-8").read()
         if STUB in text:
             continue
-        body = text.split("\n## References")[0].split("\n", 1)[-1]
-        for m in re.finditer(r"Topics? (\d\.\d{1,2})(?![\d.]\d)", body):
+        cfg = locale_cfg(loc)
+        body = text.split("\n## " + cfg["h2"].get("References", "References"))[0].split("\n", 1)[-1]
+        tw = re.escape(cfg["topic_word"]) + "|" + re.escape(cfg["topics_word"])
+        for m in re.finditer(r"(?:%s) (\d\.\d{1,2})(?![\d.]\d)" % tw, body):
             n = m.group(1)
             if n not in by_number:
                 fail(f"{p}: cross-reference to unknown topic {n}")
