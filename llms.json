@@ -346,7 +346,9 @@
           "title": "Configuration Management",
           "slug": "configuration-management",
           "path": "locales/en-001/topics/configuration-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/configuration-management/index.md"
+          }
         },
         {
           "number": "4.5",
