@@ -237,7 +237,7 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 3.7 service-level-management
 - [x] zh-cn 3.8 service-catalog-management
 - [x] zh-cn 3.9 knowledge-management
-- [ ] zh-cn 3.10 monitoring-and-event-management
+- [x] zh-cn 3.10 monitoring-and-event-management
 - [ ] zh-cn 3.11 availability-capacity-and-performance
 - [ ] zh-cn 3.12 service-continuity-management
 - [ ] zh-cn 3.13 information-security-management
