@@ -181,7 +181,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 3.10 monitoring-and-event-management
 - [x] cy-gb 3.11 availability-capacity-and-performance
 - [x] cy-gb 3.12 service-continuity-management
-- [ ] cy-gb 3.13 information-security-management
+- [x] cy-gb 3.13 information-security-management
 - [ ] cy-gb 3.14 supplier-management
 - [ ] cy-gb 3.15 continual-improvement
 - [ ] cy-gb 4.1 it-asset-management
