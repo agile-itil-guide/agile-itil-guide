@@ -423,7 +423,9 @@
           "title": "Governance, Risk, and Compliance",
           "slug": "governance-risk-and-compliance",
           "path": "locales/en-001/topics/governance-risk-and-compliance/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/governance-risk-and-compliance/index.md"
+          }
         },
         {
           "number": "5.8",
