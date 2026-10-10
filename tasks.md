@@ -32,10 +32,10 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ## Phase 1 — Research
 
-- [ ] Read and take notes on the six core Wikipedia articles (spec §6 item 3)
-- [ ] Verify primary sources per part (Agile Manifesto, Scrum Guide, Kanban Guide, ITIL 4 owner material, ISO/IEC scope statements, DORA, SRE books)
-- [ ] Record verified Wikipedia slugs for every topic in `_sources/research-notes.md`
-- [ ] Confirm or revise the spec §4 manifest and scope notes before any prose is written
+- [x] Read and take notes on the six core Wikipedia articles (spec §6 item 3)
+- [x] Verify primary sources per part (Agile Manifesto, Scrum Guide, Kanban Guide, ITIL 4 owner material, ISO/IEC scope statements, DORA, SRE books)
+- [x] Record verified Wikipedia slugs for every topic in `_sources/research-notes.md`
+- [x] Confirm or revise the spec §4 manifest and scope notes before any prose is written
 
 ## Phase 2 — Canonical topics (`en-001`)
 
@@ -108,20 +108,20 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ## Phase 3 — Reference matter and skills
 
-- [ ] `GLOSSARY.md` reconciled after each part (1–6)
-- [ ] `INDEX.md` reconciled after each part (1–6)
-- [ ] `skills/agile-itil-guide-skill/SKILL.md` (for readers)
-- [ ] `skills/agile-itil-guide-maintainer-skill/SKILL.md` (for maintainers)
-- [ ] Prune unlinked copied skills; every copied skill is linked from at least one topic (spec §7)
+- [x] `GLOSSARY.md` reconciled after each part (1–6)
+- [x] `INDEX.md` reconciled after each part (1–6)
+- [x] `skills/agile-itil-guide-skill/SKILL.md` (for readers)
+- [x] `skills/agile-itil-guide-maintainer-skill/SKILL.md` (for maintainers)
+- [x] Prune unlinked copied skills; every copied skill is linked from at least one topic (spec §7)
 - [x] `bin/build-llms` run; `llms.txt` and `llms.json` committed
 
 ## Phase 4 — Quality gates
 
 - [x] `bin/check` passes for all topics (structural and offline consistency)
-- [ ] `bin/check --links` passes (Wikipedia links live, skill links resolve)
-- [ ] Source gate review on every topic (no invented sources or figures; no long copyrighted excerpts)
-- [ ] Consistency gate review (cross-references carry number and title; acronyms expanded)
-- [ ] Style pass: add the one-time "service catalogue" parenthetical at first use of "service catalog" in each topic (STYLE_GUIDE.md, Language)
+- [x] `bin/check --links` passes (Wikipedia links live, skill links resolve)
+- [ ] Source gate review on every topic (no invented sources or figures; no long copyrighted excerpts) — sources were read per topic and recorded in `_sources/research-notes.md`; a second-reader review is still open
+- [x] Consistency gate review (cross-references carry number and title; acronyms expanded)
+- [x] Style pass: add the one-time "service catalogue" parenthetical at first use of "service catalog" in each topic (STYLE_GUIDE.md, Language)
 
 ## Phase 5 — Website subproject (`agile-itil.github.io/`)
 

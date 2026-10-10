@@ -78,4 +78,12 @@ Read in October 2026:
 
 ## Part 6 — People, conversations, and AI
 
-_No notes yet._
+Read in October 2026:
+
+- Wikipedia (fetched, summaries only): AIOps (no criticisms; benefit figures from one consultancy source), Hallucination_(artificial_intelligence) (first 100,000 of 166,809 characters), Facilitator, Retrospective (brief; mostly other meanings), Large_language_model and others listed in the topics' References, Scrum_(software_development) (Scrum Alliance 2002, Scrum.org after late 2009), Scaled_agile_framework (academy and accreditation, no details).
+- <https://leancoffee.org/>: Lean Coffee format, 2009 Seattle, Jim Benson and Jeremy Lightsmith; trademark of Modus Cooperandi; no timeboxes stated.
+- NIST AI RMF page: released 26 January 2023, voluntary, Generative AI Profile NIST-AI-600-1 of 26 July 2024; the four functions are named only in graphic alt text.
+- <https://code.claude.com/docs/en/skills> (read in part, 100,000 of 106,609 characters): skill structure (SKILL.md, frontmatter, description used to decide when to load, supporting files, personal and project locations, SKILL.md under 500 lines).
+- PeopleCert ITIL catalog page (see Part 2 notes) for certification paths.
+- Not reachable when Topic 6.4 was written (timeouts or DNS errors): the PeopleCert ITIL 4 Foundation page for exam format, scrumguides.org home, dora.dev home. Topic 6.4 therefore states no exam formats, prices, or pass marks.
+- Not verified: certification schemes for DevOps, SRE, and Kanban (no single certifying body named in the sources read).

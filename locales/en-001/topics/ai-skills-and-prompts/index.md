@@ -240,8 +240,8 @@ List every statement in the draft, say whether the source supports it (quote the
 - [prompt-engineering](../../../../skills/prompt-engineering/SKILL.md): use to write, test, and improve prompts so that they give reliable results.
 - [machine-learning-model-card](../../../../skills/machine-learning-model-card/SKILL.md): use to document what a model is for and what its limits are when your team relies on one.
 - [agile-coaching](../../../../skills/agile-coaching/SKILL.md): use when helping a team build habits around prompts and skills over time.
-- [getting-feedback](../../../../skills/getting-feedback/SKILL.md): use to gather feedback from users on whether AI-assisted output helps them.
-- [data-governance](../../../../skills/data-governance/SKILL.md): use to decide what data may be used with which tools.
+- [agile-itil-guide-skill](../../../../skills/agile-itil-guide-skill/SKILL.md): use to find topics in this guide, run a team conversation from its questions, or adapt one of its prompts.
+- [agile-itil-guide-maintainer-skill](../../../../skills/agile-itil-guide-maintainer-skill/SKILL.md): use when writing or checking a topic, prompt, or skill link for this guide.
 
 ## Key sources
 
