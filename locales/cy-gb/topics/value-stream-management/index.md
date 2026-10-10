@@ -6,7 +6,7 @@
 
 Mae'r rhan fwyaf o dimau'n mesur eu gwaith eu hunain: tocynnau a gaewyd, straeon a orffennwyd, newidiadau a ryddhawyd. Gall y rhifau hyn edrych yn dda tra bo'r cwsmer yn aros wythnosau. Y rheswm yw bod y rhan fwyaf o'r amser a aeth heibio mewn cais nodweddiadol yn cael ei dreulio yn aros: mewn ciwiau, am gymeradwyaethau, rhwng timau. Gall tîm sy'n cyflymu ei gam ei hun newid dim i'r person a ofynnodd.
 
-Mae gan feddwl main ddull o weld hyn: y map ffrwd werth, sy'n tynnu llun o bob cam o ddechrau proses i'r cwsmer ac yn cofnodi amser a chyfaint ym mhob cam. Mae gan ITIL 4 ei syniad ei hun o ffrwd werth, set o weithgareddau sy'n creu ac yn cyflawni gwasanaeth, gan gyfuno gweithgareddau'r gadwyn werth mewn gwahanol drefnau (gweler Pwnc 2.6 — Y Gadwyn Werth Gwasanaeth). Mae'r ddau'n cyd-fynd. Mae syniad ITIL yn dweud beth yw ffrwd, ac mae'r dull main yn dangos sut i fesur a gwella un.
+Mae gan feddwl main ddull o weld hyn: y map ffrwd werth, sy'n tynnu llun o bob cam o ddechrau proses i'r cwsmer ac yn cofnodi amser a chyfaint ym mhob cam. Mae gan ITIL 4 ei syniad ei hun o ffrwd werth, set o weithgareddau sy'n creu ac yn cyflawni gwasanaeth, gan gyfuno gweithgareddau'r gadwyn werth mewn gwahanol drefnau (gweler Pwnc 2.6 — Y Gadwyn Gwerth Gwasanaeth). Mae'r ddau'n cyd-fynd. Mae syniad ITIL yn dweud beth yw ffrwd, ac mae'r dull main yn dangos sut i fesur a gwella un.
 
 Mae rheoli ffrydiau gwerth yn mynd y tu hwnt i weithdy mapio untro. Mae'n golygu rheoli llif gwaith yn barhaus, gyda mesurau a rennir, perchennog a enwir ac adolygiadau rheolaidd sy'n cynnwys pob tîm yn y ffrwd. Mae rhestr galluoedd DORA yn cynnwys gwelededd gwaith yn y ffrwd werth a therfynau ar waith ar y gweill, ac mae ei harweiniad ar derfynau yn disgrifio gwneud yr holl waith yn weladwy, gan gynnwys gwaith y tu allan i'r tîm. Mae'r pwnc hwn yn tynnu ar yr erthygl Wikipedia ar fapio ffrydiau gwerth, DORA, a'r Kanban Guide, ac yn datgan lle mae'r ffynonellau'n dawel.
 
@@ -14,7 +14,7 @@ Mae rheoli ffrydiau gwerth yn mynd y tu hwnt i weithdy mapio untro. Mae'n golygu
 
 ### Beth yw ffrwd werth
 
-**Ffrwd werth** yw'r dilyniant o gamau y mae cais yn dod yn werth a gyflawnir drwyddynt. Mae'r [erthygl Wikipedia ar fapio ffrydiau gwerth](https://en.wikipedia.org/wiki/Value-stream_mapping) (yn Saesneg) yn disgrifio'r dull fel techneg rheoli main sy'n dadansoddi'r cyflwr presennol ac yn dylunio cyflwr dyfodol ar gyfer y digwyddiadau sy'n mynd â chynnyrch neu wasanaeth o ddechrau proses i'r cwsmer. Yn y farn ITIL, ffrwd werth yw set benodol o weithgareddau sy'n creu ac yn cyflawni gwasanaeth neu gynnyrch penodol i gwsmeriaid (gweler Pwnc 2.6 — Y Gadwyn Werth Gwasanaeth).
+**Ffrwd werth** yw'r dilyniant o gamau y mae cais yn dod yn werth a gyflawnir drwyddynt. Mae'r [erthygl Wikipedia ar fapio ffrydiau gwerth](https://en.wikipedia.org/wiki/Value-stream_mapping) (yn Saesneg) yn disgrifio'r dull fel techneg rheoli main sy'n dadansoddi'r cyflwr presennol ac yn dylunio cyflwr dyfodol ar gyfer y digwyddiadau sy'n mynd â chynnyrch neu wasanaeth o ddechrau proses i'r cwsmer. Yn y farn ITIL, ffrwd werth yw set benodol o weithgareddau sy'n creu ac yn cyflawni gwasanaeth neu gynnyrch penodol i gwsmeriaid (gweler Pwnc 2.6 — Y Gadwyn Gwerth Gwasanaeth).
 
 Enghreifftiau mewn sefydliad gwasanaeth: trin digwyddiad o adroddiad i adfer, cyflawni newid o syniad i gynhyrchu, ymuno â chwsmer newydd, neu gyflawni cais am fynediad.
 
