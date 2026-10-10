@@ -124,19 +124,19 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ## Phase 5 — Website subproject (`agile-itil.github.io/`)
 
-- [ ] Scaffold SvelteKit 3 + Svelte 5 + adapter-static + TypeScript with pnpm (`package.json` with `packageManager`, `pnpm-lock.yaml`, `pnpm-workspace.yaml`, `vite.config.ts`, `tsconfig.json`)
-- [ ] Install `@lilydesignsystem/svelte-headless`, `@lilydesignsystem/svelte-picker-bar`, `@lilydesignsystem/themes` (check current versions on npmjs.com)
-- [ ] `scripts/sync-themes.sh` (postinstall; generic default themes only)
-- [ ] Confirm and install the Sveltia i18n package; `src/lib/locales/en-001.json` UI strings
-- [ ] `scripts/sync-content.sh` (copies locales, glossary, index, skills, topics.tsv, llms files from the monorepo)
-- [ ] `src/lib/book.ts` (parts, locales) reading `spec/topics.tsv`; `src/lib/server/book.ts`; `src/lib/markdown.ts`
-- [ ] Routes: `/` locale redirect and search, `/[locale]/contents/`, `/[locale]/topics/[slug]/`, `/glossary/`, `/index/`, `/skills/`, `/sitemap.xml`
-- [ ] Layout with `GrailLayout` and `PickerBar` (locale, theme, text size, search, links)
-- [ ] `scripts/build-search-index.mjs` and search UI
-- [ ] `static/assets/style.css`, favicon, `robots.txt`, `.nojekyll`
-- [ ] `.github/workflows/deploy.yml` (pnpm/action-setup, `pnpm install --frozen-lockfile`, `pnpm build`, deploy to Pages)
-- [ ] Subproject `README.md`, `AGENTS.md`, `spec/` (ported Lily picker-bar and search specs)
-- [ ] `pnpm check` 0 errors; `pnpm build` clean
+- [x] Scaffold SvelteKit 3 + Svelte 5 + adapter-static + TypeScript with pnpm (`package.json` with `packageManager`, `pnpm-lock.yaml`, `pnpm-workspace.yaml`, `vite.config.ts`, `tsconfig.json`)
+- [x] Install `@lilydesignsystem/svelte-headless`, `@lilydesignsystem/svelte-picker-bar`, `@lilydesignsystem/themes` (check current versions on npmjs.com)
+- [x] `scripts/sync-themes.sh` (postinstall; generic default themes only)
+- [x] Confirm and install the Sveltia i18n package; `src/lib/locales/en-001.json` UI strings
+- [x] `scripts/sync-content.sh` (copies locales, glossary, index, skills, topics.tsv, llms files from the monorepo)
+- [x] `src/lib/book.ts` (parts, locales) reading `spec/topics.tsv`; `src/lib/server/book.ts`; `src/lib/markdown.ts`
+- [x] Routes: `/` locale redirect and search, `/[locale]/contents/`, `/[locale]/topics/[slug]/`, `/glossary/`, `/index/`, `/skills/`, `/sitemap.xml`
+- [x] Layout with `GrailLayout` and `PickerBar` (locale, theme, text size, search, links)
+- [x] `scripts/build-search-index.mjs` and search UI
+- [x] `static/assets/style.css`, favicon, `robots.txt`, `.nojekyll`
+- [x] `.github/workflows/deploy.yml` (pnpm/action-setup, `pnpm install --frozen-lockfile`, `pnpm build`, deploy to Pages)
+- [x] Subproject `README.md`, `AGENTS.md`, `spec/` (ported Lily picker-bar and search specs)
+- [x] `pnpm check` 0 errors; `pnpm build` clean
 - [ ] Browser check of `build/` served statically at 1440px and 390px
 
 ## Phase 6 — Release
