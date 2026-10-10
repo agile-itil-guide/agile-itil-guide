@@ -464,7 +464,9 @@
           "title": "AI Skills and Prompts",
           "slug": "ai-skills-and-prompts",
           "path": "locales/en-001/topics/ai-skills-and-prompts/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/ai-skills-and-prompts/index.md"
+          }
         },
         {
           "number": "6.4",
