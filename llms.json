@@ -52,7 +52,9 @@
           "title": "Kanban",
           "slug": "kanban",
           "path": "locales/en-001/topics/kanban/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/kanban/index.md"
+          }
         },
         {
           "number": "1.6",
