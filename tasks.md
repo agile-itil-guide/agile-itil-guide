@@ -94,7 +94,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] 5.2 DevOps — `devops`
 - [x] 5.3 Site Reliability Engineering — `site-reliability-engineering`
 - [x] 5.4 Value Stream Management — `value-stream-management`
-- [ ] 5.5 Product and Service Ownership — `product-and-service-ownership`
+- [x] 5.5 Product and Service Ownership — `product-and-service-ownership`
 - [ ] 5.6 Metrics and Measurement — `metrics-and-measurement`
 - [ ] 5.7 Governance, Risk, and Compliance — `governance-risk-and-compliance`
 - [ ] 5.8 Organizational Change and Adoption — `organizational-change-and-adoption`

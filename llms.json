@@ -405,7 +405,9 @@
           "title": "Product and Service Ownership",
           "slug": "product-and-service-ownership",
           "path": "locales/en-001/topics/product-and-service-ownership/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/product-and-service-ownership/index.md"
+          }
         },
         {
           "number": "5.6",
