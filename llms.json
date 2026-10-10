@@ -269,7 +269,9 @@
           "title": "Availability, Capacity, and Performance",
           "slug": "availability-capacity-and-performance",
           "path": "locales/en-001/topics/availability-capacity-and-performance/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/availability-capacity-and-performance/index.md"
+          }
         },
         {
           "number": "3.12",
