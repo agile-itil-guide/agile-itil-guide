@@ -328,7 +328,9 @@
           "title": "Software Asset Management",
           "slug": "software-asset-management",
           "path": "locales/en-001/topics/software-asset-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/software-asset-management/index.md"
+          }
         },
         {
           "number": "4.3",
