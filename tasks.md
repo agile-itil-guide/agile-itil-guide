@@ -184,7 +184,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 3.13 information-security-management
 - [x] cy-gb 3.14 supplier-management
 - [x] cy-gb 3.15 continual-improvement
-- [ ] cy-gb 4.1 it-asset-management
+- [x] cy-gb 4.1 it-asset-management
 - [ ] cy-gb 4.2 software-asset-management
 - [ ] cy-gb 4.3 hardware-asset-management
 - [ ] cy-gb 4.4 configuration-management
