@@ -2,7 +2,7 @@
 
 Governed by `spec/index.md`, which points here. Every topic has exactly these sections, in this order, with these exact headings:
 
-1. `# Title`: the topic title exactly as listed in the manifest (`spec/index.md` §4). Topic numbers live in the manifest and the table of contents, not in headings or directory names.
+1. `# Title`: the first headline of the topic's `index.md` is the topic title and the single source of truth for it. Nothing else (a manifest, a table of contents, a cross-reference) defines the title; those copy it from here. Topic numbers live in the table of contents, not in headings or directory names.
 2. A bold one-sentence thesis (no heading above it).
 3. `## Why this matters`
 4. `## Core concepts`
