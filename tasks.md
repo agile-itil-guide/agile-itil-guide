@@ -205,3 +205,60 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [ ] cy-gb GLOSSARY and INDEX translations (root reference files are English-only for now)
 - [ ] cy-gb review by a fluent Welsh speaker
 - [ ] Welsh-speaking reviewer reads every translated topic
+
+## Phase 8 — Simplified Chinese (zh-cn) translation
+
+Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.md`. `bin/check` reads headings from `locales/zh-cn/locale.json`.
+
+- [x] Scaffold `locales/zh-cn/` (peer ids, symlinks, titled stubs, `locale.json`, `TERMINOLOGY.md`)
+- [ ] zh-cn 1.1 agile-manifesto
+- [ ] zh-cn 1.2 agile-principles
+- [ ] zh-cn 1.3 agile-software-development
+- [ ] zh-cn 1.4 scrum
+- [ ] zh-cn 1.5 kanban
+- [ ] zh-cn 1.6 extreme-programming
+- [ ] zh-cn 1.7 lean-software-development
+- [ ] zh-cn 1.8 scaling-agile
+- [ ] zh-cn 1.9 agile-management
+- [ ] zh-cn 1.10 agile-learning
+- [ ] zh-cn 2.1 it-service-management
+- [ ] zh-cn 2.2 itil
+- [ ] zh-cn 2.3 service-value-system
+- [ ] zh-cn 2.4 itil-guiding-principles
+- [ ] zh-cn 2.5 four-dimensions-of-service-management
+- [ ] zh-cn 2.6 service-value-chain
+- [ ] zh-cn 2.7 itsm-frameworks-and-standards
+- [ ] zh-cn 3.1 service-desk
+- [ ] zh-cn 3.2 incident-management
+- [ ] zh-cn 3.3 problem-management
+- [ ] zh-cn 3.4 change-enablement
+- [ ] zh-cn 3.5 release-and-deployment-management
+- [ ] zh-cn 3.6 service-request-management
+- [ ] zh-cn 3.7 service-level-management
+- [ ] zh-cn 3.8 service-catalog-management
+- [ ] zh-cn 3.9 knowledge-management
+- [ ] zh-cn 3.10 monitoring-and-event-management
+- [ ] zh-cn 3.11 availability-capacity-and-performance
+- [ ] zh-cn 3.12 service-continuity-management
+- [ ] zh-cn 3.13 information-security-management
+- [ ] zh-cn 3.14 supplier-management
+- [ ] zh-cn 3.15 continual-improvement
+- [ ] zh-cn 4.1 it-asset-management
+- [ ] zh-cn 4.2 software-asset-management
+- [ ] zh-cn 4.3 hardware-asset-management
+- [ ] zh-cn 4.4 configuration-management
+- [ ] zh-cn 4.5 it-financial-management-and-finops
+- [ ] zh-cn 5.1 agile-service-management
+- [ ] zh-cn 5.2 devops
+- [ ] zh-cn 5.3 site-reliability-engineering
+- [ ] zh-cn 5.4 value-stream-management
+- [ ] zh-cn 5.5 product-and-service-ownership
+- [ ] zh-cn 5.6 metrics-and-measurement
+- [ ] zh-cn 5.7 governance-risk-and-compliance
+- [ ] zh-cn 5.8 organizational-change-and-adoption
+- [ ] zh-cn 6.1 team-conversations
+- [ ] zh-cn 6.2 ai-in-it-service-management
+- [ ] zh-cn 6.3 ai-skills-and-prompts
+- [ ] zh-cn 6.4 learning-paths-and-certification
+- [ ] zh-cn site integration (locales.ts, messages, spec table, llms)
+- [ ] zh-cn review by a fluent Chinese speaker
