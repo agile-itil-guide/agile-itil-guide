@@ -1,0 +1,40 @@
+{
+  "name": "한국어 (대한민국)",
+  "topic_word": "주제",
+  "topics_word": "주제",
+  "h2": {
+    "Why this matters": "왜 중요한가",
+    "Core concepts": "핵심 개념",
+    "Best practices": "모범 사례",
+    "Questions to discuss with your team": "팀과 논의할 질문",
+    "In practice: an agile ITIL example": "실전 사례: 애자일 ITIL 예시",
+    "Four perspectives": "네 가지 관점",
+    "Common failure modes": "흔한 실패 유형",
+    "Maturity model": "성숙도 모델",
+    "Checklist": "체크리스트",
+    "AI prompts": "AI 프롬프트",
+    "AI skills": "AI 스킬",
+    "Key sources": "주요 출처",
+    "References": "참고 문헌"
+  },
+  "h3": {
+    "Product and delivery teams": "제품 및 전달 팀",
+    "Service and operations teams": "서비스 및 운영 팀",
+    "Leadership and governance": "리더십과 거버넌스",
+    "Customers and users": "고객과 사용자"
+  },
+  "maturity": {
+    "Initiate": "시작",
+    "Develop": "발전",
+    "Standardize": "표준화",
+    "Manage": "관리",
+    "Orchestrate": "최적화"
+  },
+  "dirs": {
+    "topics": "주제",
+    "glossary": "용어집",
+    "index": "색인",
+    "terminology": "용어",
+    "contents": "목차"
+  }
+}
