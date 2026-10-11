@@ -166,6 +166,7 @@ Full contract in `STYLE_GUIDE.md`. Key points:
 - Cross-references always give number *and* title: "(see Topic 3.4 — Change Enablement)". A bare number is never enough.
 - Neutral between frameworks: no "agile good, ITIL bad" (or the reverse). Name the trade-off.
 - No hype words: revolutionary, game-changing, cutting-edge, seamless, disruptive, best-in-class.
+- Never say "agile delivery": the phrase is wrong, misleading, and cargo cult. Say "continuous delivery" (or "continuous software delivery"). Agile is a set of values and methods, and delivery is what continuous delivery practices do. The only exception is a proper name or title that contains the words, such as the Disciplined Agile Delivery article, which is quoted as written.
 
 ## 6. Grounding and citation rules (non-negotiable)
 

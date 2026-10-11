@@ -5,6 +5,7 @@ Subordinate to `spec/index.md`. Where the two disagree, the spec wins.
 ## Voice
 
 - Practical, calm, and plain. Show evidence and name the trade-off rather than hiding it.
+- Never say "agile delivery": it is wrong, misleading, and cargo cult. Say "continuous delivery" (or "continuous software delivery"). Proper names and titles that contain the words, such as the Disciplined Agile Delivery article, are quoted as written.
 - Neutral between frameworks. Do not write "agile good, ITIL bad" or the reverse. Say what each is good at and where it is weak.
 - Second person ("you") when guiding the reader. Third person when describing how practice works in general. No first person.
 - Banned words: revolutionary, game-changing, cutting-edge, seamless, disruptive, best-in-class, robust (as filler), leverage (as a verb), synergy.
