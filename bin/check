@@ -48,6 +48,14 @@ def h1(path):
     return first[2:].strip() if first.startswith("# ") and first[2:].strip() else None
 
 
+def tdir(loc):
+    """The directory under locales/<loc>/ that holds the topics: "topics", or the name given in locale.json "dirs"."""
+    path = f"{L}/{loc}/locale.json"
+    if os.path.isfile(path):
+        return json.load(open(path, encoding="utf-8")).get("dirs", {}).get("topics", "topics")
+    return "topics"
+
+
 def peer_id(path):
     try:
         v = open(path).read()
@@ -58,10 +66,10 @@ def peer_id(path):
 
 def dir_of(loc):
     """Canonical slug -> this locale's directory name. A translated directory is matched to its canonical topic by .locale-peer-id."""
-    base = f"{L}/{loc}/topics"
+    base = f"{L}/{loc}/{tdir(loc)}"
     ids = {}
-    for x in os.listdir(f"{L}/{CANON}/topics"):
-        v = peer_id(f"{L}/{CANON}/topics/{x}/.locale-peer-id")
+    for x in os.listdir(f"{L}/{CANON}/{tdir(CANON)}"):
+        v = peer_id(f"{L}/{CANON}/{tdir(CANON)}/{x}/.locale-peer-id")
         if v:
             ids[v] = x
     out = {}
@@ -74,7 +82,7 @@ def dir_of(loc):
 
 def titles_for(loc):
     dirs = dir_of(loc)
-    return {r["number"]: h1(f"{L}/{loc}/topics/{dirs.get(r['slug'], r['slug'])}/index.md") for r in manifest}
+    return {r["number"]: h1(f"{L}/{loc}/{tdir(loc)}/{dirs.get(r['slug'], r['slug'])}/index.md") for r in manifest}
 
 H2_EN = [
     "Why this matters", "Core concepts", "Best practices",
@@ -172,7 +180,7 @@ def check_topic(loc, slug, text, dirname=None):
     if not 1 <= len(sk) <= 5:
         fail(f"{k}: AI skill links={len(sk)} (need 1–5)")
     for href in sk:
-        target = os.path.normpath(os.path.join(L, loc, "topics", dirname, href))
+        target = os.path.normpath(os.path.join(L, loc, tdir(loc), dirname, href))
         if not os.path.isfile(target) or not target.endswith("SKILL.md"):
             fail(f"{k}: AI skill link does not resolve: {href}")
     wiki = set(re.findall(r"https://en\.wikipedia\.org/wiki/[^\s)\]>]+", text.split("\n## " + cfg["h2"].get("References", "References"))[0]))
@@ -198,12 +206,12 @@ if CANON not in locales:
 seen_ids, stubs, written = {}, [], 0
 canon_ids = {}
 canon_slug_of = {}
-for _x in os.listdir(f"{L}/{CANON}/topics"):
-    _v = peer_id(f"{L}/{CANON}/topics/{_x}/.locale-peer-id")
+for _x in os.listdir(f"{L}/{CANON}/{tdir(CANON)}"):
+    _v = peer_id(f"{L}/{CANON}/{tdir(CANON)}/{_x}/.locale-peer-id")
     if _v:
         canon_slug_of[_v] = _x
 for loc in locales:
-    base = f"{L}/{loc}/topics"
+    base = f"{L}/{loc}/{tdir(loc)}"
     if not os.path.isdir(base):
         fail(f"{loc}: topics/ missing")
         continue
@@ -252,7 +260,7 @@ for loc in locales:
 bare = 0
 for loc in locales:
     loc_titles = titles_for(loc)
-    for p in sorted(glob.glob(f"{L}/{loc}/topics/*/index.md")):
+    for p in sorted(glob.glob(f"{L}/{loc}/{tdir(loc)}/*/index.md")):
         text = open(p, encoding="utf-8").read()
         if STUB in text:
             continue
@@ -288,7 +296,7 @@ if os.path.isdir("skills"):
 # --- optional link gate -------------------------------------------------------
 if "--links" in sys.argv:
     wslugs = set()
-    for p in glob.glob(f"{L}/*/topics/*/index.md"):
+    for p in [q for l in locales for q in glob.glob(f"{L}/{l}/{tdir(l)}/*/index.md")]:
         for u in re.findall(r"https://en\.wikipedia\.org/wiki/([\w%()\-.,:'~!+;=@/$&]+)", open(p, encoding="utf-8").read(), re.A):
             depth, end = 0, len(u)
             for n, ch in enumerate(u):

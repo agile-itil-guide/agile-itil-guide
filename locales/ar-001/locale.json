@@ -29,5 +29,12 @@
     "Standardize": "التوحيد",
     "Manage": "الإدارة",
     "Orchestrate": "التنسيق"
+  },
+  "dirs": {
+    "topics": "المواضيع",
+    "glossary": "المسرد",
+    "index": "الفهرس",
+    "terminology": "المصطلحات",
+    "contents": "المحتويات"
   }
 }
