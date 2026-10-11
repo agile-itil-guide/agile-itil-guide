@@ -56,7 +56,7 @@ Numbering is `Part.Topic` and is used in the table of contents, `index/index.md`
 |---|---|---|---|
 | 1.1 | `agile-manifesto` | Agile Manifesto | The 2001 Manifesto for Agile Software Development: its four value statements, its authors and context, and what the values mean for running services as well as for building software. The home topic for the four values. |
 | 1.2 | `agile-principles` | Agile Principles | The twelve principles behind the manifesto, each restated for live-service work. The home topic for the twelve principles. |
-| 1.3 | `agile-software-development` | Agile Software Development | An overview of the field: history (iterative and incremental development, lightweight methods of the 1990s), the family of methods, common practices (iterations, backlogs, retrospectives, test-driven development), and criticisms. Introduces each method briefly; the depth belongs in 1.4–1.8. |
+| 1.3 | `agile-software-development` | Agile Software Development | An overview of the field: history (iterative and incremental development, lightweight methods of the 1990s), the family of methods, common practices (continuous software delivery, backlogs, retrospectives, test-driven development), and criticisms. Introduces each method briefly; the depth belongs in 1.4–1.8. |
 | 1.4 | `scrum` | Scrum | Roles, events, and artifacts; Scrum for teams that also carry operational work. |
 | 1.5 | `kanban` | Kanban | Visualizing work, work-in-progress limits, flow metrics, classes of service. The home topic for flow, and the natural fit for interrupt-driven service teams. |
 | 1.6 | `extreme-programming` | Extreme Programming | XP practices (pair programming, test-driven development, continuous integration, small releases) and how they lower operational risk. |
@@ -77,7 +77,7 @@ Numbering is `Part.Topic` and is used in the table of contents, `index/index.md`
 | 2.6 | `service-value-chain` | The Service Value Chain | The six value chain activities (plan; improve; engage; design and transition; obtain/build; deliver and support) and how value streams pass through them. |
 | 2.7 | `itsm-frameworks-and-standards` | ITSM Frameworks and Standards | ISO/IEC 20000, COBIT, Microsoft Operations Framework (MOF), FitSM, and VeriSM, compared with ITIL. Not a compliance manual. |
 
-**Part 3 — Service practices, the agile way**: *ITIL practices made lean, iterative, and collaborative*
+**Part 3 — Service practices, the agile way**: *ITIL practices made lean, continuously delivered, and collaborative*
 
 | # | Slug | Title | Scope note |
 |---|---|---|---|
@@ -111,7 +111,7 @@ Numbering is `Part.Topic` and is used in the table of contents, `index/index.md`
 
 | # | Slug | Title | Scope note |
 |---|---|---|---|
-| 5.1 | `agile-service-management` | Agile Service Management | Applying agile values and methods to designing and improving ITSM processes themselves: process owners as product owners, process backlogs, iterative process design. |
+| 5.1 | `agile-service-management` | Agile Service Management | Applying agile values and methods to designing and improving ITSM processes themselves: process owners as product owners, process backlogs, process design by continuous software delivery. |
 | 5.2 | `devops` | DevOps | The DevOps movement, the "three ways," CALMS, and how ITIL 4 and DevOps relate. The home topic for "DevOps." |
 | 5.3 | `site-reliability-engineering` | Site Reliability Engineering | Site reliability engineering (SRE): SLOs, error budgets, toil reduction, and how SRE implements ITIL practices in engineering terms. |
 | 5.4 | `value-stream-management` | Value Stream Management | Value stream mapping for services, flow metrics, and ITIL value streams. The home topic for "value stream." |
