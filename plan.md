@@ -22,7 +22,7 @@ The six Wikipedia articles named in `spec/index.md` §6 item 3 are the starting 
 ## Phases
 
 **Phase 0 — Scaffolding** (before any topic prose)
-Monorepo layout; `AGENTS.md`, `AGENTS/` role cards, `CLAUDE.md`; `STYLE_GUIDE.md`; `spec/maturity-model.md` and `spec/topics.tsv`; `bin/` tools vendored from public-value-guide and adapted (slug-only directories, 15-section template, symlink and skill-link checks); `locales/en-001/topics/<slug>/` for all 49 topics, each with an empty `index.md` stub, `README.md -> index.md`, and `.locale-peer-id`; copied skills in `skills/` plus `skills/README.md`; skeletons for `README.md`, `GLOSSARY.md`, `INDEX.md`, `CITATION.cff`, `_sources/research-notes.md`, and `.gitignore`. Commit after each item.
+Monorepo layout; `AGENTS.md`, `AGENTS/` role cards, `CLAUDE.md`; `STYLE_GUIDE.md`; `spec/maturity-model.md` and `spec/topics.tsv`; `bin/` tools vendored from public-value-guide and adapted (slug-only directories, 15-section template, symlink and skill-link checks); `locales/en-001/topics/<slug>/` for all 49 topics, each with an empty `index.md` stub, `README.md -> index.md`, and `.locale-peer-id`; copied skills in `skills/` plus `skills/README.md`; skeletons for `README.md`, `glossary/index.md`, `INDEX.md`, `CITATION.cff`, `_sources/research-notes.md`, and `.gitignore`. Commit after each item.
 
 **Phase 1 — Research**
 Read the six core Wikipedia articles and their key primary sources; write `_sources/research-notes.md` by part, including verified Wikipedia slugs for each topic. Note topic boundaries where the sources overlap (for example ITIL change enablement versus DevOps continuous delivery) and confirm the scope notes in spec §4, changing the manifest now if needed: renumbering later costs much more.
@@ -31,7 +31,7 @@ Read the six core Wikipedia articles and their key primary sources; write `_sour
 Write the topics in order (there is no preface; spec §4), Part 1 to Part 6, one topic per commit. Later parts depend on earlier concepts (Part 5 assumes Parts 1–3), so do not skip ahead. Part 6 comes last because Topic 6.1 collects conversation starters and Topic 6.3 explains the prompt and skill conventions used throughout.
 
 **Phase 3 — Reference matter and skills**
-Each topic author adds their new terms to `GLOSSARY.md` and `INDEX.md` in the same commit; a reference-editor pass reconciles them at the end of each part. Write the two original skills (`agile-itil-guide-skill`, `agile-itil-guide-maintainer-skill`) once Part 2 is done, so they can reference real topics, and refine them at the end. Prune or add copied skills so that every copied skill is linked from at least one topic (spec §7).
+Each topic author adds their new terms to `glossary/index.md` and `INDEX.md` in the same commit; a reference-editor pass reconciles them at the end of each part. Write the two original skills (`agile-itil-guide-skill`, `agile-itil-guide-maintainer-skill`) once Part 2 is done, so they can reference real topics, and refine them at the end. Prune or add copied skills so that every copied skill is linked from at least one topic (spec §7).
 
 **Phase 4 — Quality gates**
 A reviewer runs the four gates (spec §11) on every topic, using `bin/check` and `bin/check --links`, and fixes findings, worst first.
@@ -40,7 +40,7 @@ A reviewer runs the four gates (spec §11) on every topic, using `bin/check` and
 Scaffold `agile-itil.github.io/` from the public-value-guide site: SvelteKit 3, adapter-static, `@lilydesignsystem/svelte-headless`, `svelte-picker-bar`, and `themes`, Sveltia i18n, the build-time search index, sitemap, and `/skills/` pages; `scripts/sync-content.sh` pulling from the monorepo; the GitHub Actions Pages workflow; `bin/deploy-site` for `git subtree push`. The site can be built in parallel with Phase 2 once enough topics exist (Part 1) to exercise the templates; it ships only after Phase 4.
 
 **Phase 6 — Release**
-`README.md`, `GLOSSARY.md`, `INDEX.md`, `spec/topics.tsv`, and `llms.txt`/`llms.json` agree with spec §4; `bin/check --links` passes; the site builds and has been checked in a browser; first subtree deploy; `tasks.md` fully checked off.
+`README.md`, `glossary/index.md`, `INDEX.md`, `spec/topics.tsv`, and `llms.txt`/`llms.json` agree with spec §4; `bin/check --links` passes; the site builds and has been checked in a browser; first subtree deploy; `tasks.md` fully checked off.
 
 ## Working method
 

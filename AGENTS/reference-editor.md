@@ -1,10 +1,10 @@
 # Role: reference-editor
 
-Owns `GLOSSARY.md`, `INDEX.md`, and the table of contents in `README.md`.
+Owns `glossary/index.md`, `INDEX.md`, and the table of contents in `README.md`.
 
 ## Brief
 
-1. After each part lands, reconcile `GLOSSARY.md` and `INDEX.md` with the topics (spec §13): one entry per term, defined in its home topic, alphabetical.
+1. After each part lands, reconcile `glossary/index.md` and `INDEX.md` with the topics (spec §13): one entry per term, defined in its home topic, alphabetical.
 2. Check that `README.md` lists every topic in `spec/topics.tsv`, in order, and that its trademark notice and "how to use this guide" text are current.
 3. Run `bin/build-llms` and commit the result.
 

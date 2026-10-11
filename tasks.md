@@ -19,7 +19,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] `bin/deploy-site` (`git subtree push --prefix=agile-itil.github.io site main`)
 - [x] `locales/en-001/topics/.locale-peer-id`
 - [x] For all 49 topics: `locales/en-001/topics/<slug>/` with `index.md` stub, `README.md -> index.md` relative symlink, and `.locale-peer-id`
-- [x] `README.md` (table of contents, who the guide is for, how to use it, trademark notice; no preface), `GLOSSARY.md`, `INDEX.md` skeletons
+- [x] `README.md` (table of contents, who the guide is for, how to use it, trademark notice; no preface), `glossary/index.md`, `INDEX.md` skeletons
 - [x] `CITATION.cff`
 - [x] `_sources/research-notes.md` skeleton
 - [x] Copy relevant skills (84 copied; see `skills/README.md`; pruned in Phase 3) from `~/git/skills-on-ai/skills-on-ai/skills` into `skills/` (whole directories, unchanged), and record them in `skills/README.md`. Starting list:
@@ -108,7 +108,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ## Phase 3 — Reference matter and skills
 
-- [x] `GLOSSARY.md` reconciled after each part (1–6)
+- [x] `glossary/index.md` reconciled after each part (1–6)
 - [x] `INDEX.md` reconciled after each part (1–6)
 - [x] `skills/agile-itil-guide-skill/SKILL.md` (for readers)
 - [x] `skills/agile-itil-guide-maintainer-skill/SKILL.md` (for maintainers)
@@ -142,7 +142,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ## Phase 6 — Release
 
-- [x] `README.md`, `GLOSSARY.md`, `INDEX.md`, `spec/topics.tsv`, `llms.*` agree with spec §4
+- [x] `README.md`, `glossary/index.md`, `INDEX.md`, `spec/topics.tsv`, `llms.*` agree with spec §4
 - [ ] Create GitHub repositories and add the `site` remote (confirm names with the maintainer)
 - [ ] First `bin/deploy-site` subtree push; Pages site live and checked
 - [ ] All tasks above checked off

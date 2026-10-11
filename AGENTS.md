@@ -27,7 +27,7 @@ This repository is a book and a website: the *Agile ITIL Guide*, 49 Markdown top
 3. **Follow the 15-section topic template** (spec §3) exactly: section names, order, and counts (six questions; four perspectives in order; 8–12 best practices; 3–5 maturity rows; 6–12 checklist items; 3–5 AI prompts; 1–5 AI skills).
 4. **Directory names are slugs only**, with no numbers. Every topic directory has `index.md`, `README.md -> index.md` (relative symlink), and `.locale-peer-id`.
 5. **One writer per file.** Work serially.
-6. **Consistency updates travel together** (spec §8): a change that adds, renames, or removes a topic or term updates the manifest, `spec/topics.tsv`, `README.md`, `GLOSSARY.md`, `INDEX.md`, and `llms.*` in the same commit.
+6. **Consistency updates travel together** (spec §8): a change that adds, renames, or removes a topic or term updates the manifest, `spec/topics.tsv`, `README.md`, `glossary/index.md`, `INDEX.md`, and `llms.*` in the same commit.
 7. **Cross-references carry number and title**: "(see Topic 3.4 — Change Enablement)". Never a bare number.
 8. **Every `## AI skills` link must resolve** to a real `skills/<name>/SKILL.md`. Copied skills are never edited here; change them upstream and copy again.
 9. **AI prompts never ask an AI to invent** metrics, sources, or compliance claims; they use `[placeholders]` and a verification step.
@@ -41,7 +41,7 @@ This repository is a book and a website: the *Agile ITIL Guide*, 49 Markdown top
 - [`AGENTS/researcher.md`](AGENTS/researcher.md): gathers and verifies sources before drafting.
 - [`AGENTS/topic-author.md`](AGENTS/topic-author.md): writes one topic to the template.
 - [`AGENTS/reviewer.md`](AGENTS/reviewer.md): runs the four quality gates.
-- [`AGENTS/reference-editor.md`](AGENTS/reference-editor.md): owns `GLOSSARY.md`, `INDEX.md`, `README.md` coherence.
+- [`AGENTS/reference-editor.md`](AGENTS/reference-editor.md): owns `glossary/index.md`, `INDEX.md`, `README.md` coherence.
 - [`AGENTS/site-developer.md`](AGENTS/site-developer.md): builds and maintains `agile-itil.github.io/`.
 
 A single agent may wear several hats but must meet each role's exit criteria.
@@ -51,7 +51,7 @@ A single agent may wear several hats but must meet each role's exit criteria.
 1. Read spec §3–§6 and your topic's manifest entry and its neighbours' scope notes.
 2. Read your topic's entry in `_sources/research-notes.md`; verify sources and Wikipedia slugs live.
 3. Draft `locales/en-001/topics/<slug>/index.md` to the template. Self-check against spec §10.
-4. Register new terms in `GLOSSARY.md` and `INDEX.md`; tick `tasks.md`.
+4. Register new terms in `glossary/index.md` and `INDEX.md`; tick `tasks.md`.
 5. Run `bin/check` (and `bin/check --links` when online), then `bin/build-llms`.
 6. Commit.
 

@@ -19,7 +19,7 @@ Agile ways of working (the Agile Manifesto, Scrum, Kanban, Lean, Extreme Program
 - **Use the AI prompts.** Each topic has copy-and-paste prompts. Fill in the `[placeholders]` with your own context, and check the answers: the prompts ask the AI to flag its assumptions and never to invent metrics or sources.
 - **Use the AI skills.** The [`skills/`](skills/) folder holds skills in Claude Code format that topics link to. See [`skills/README.md`](skills/README.md).
 - **Check where you are** with each topic's five-level maturity table (Initiate, Develop, Standardize, Manage, Orchestrate). It is a conversation tool, not a certification.
-- **Look things up** in the [glossary](GLOSSARY.md) and the [index](INDEX.md).
+- **Look things up** in the [glossary](glossary/index.md) and the [index](INDEX.md).
 
 ## Contents
 
