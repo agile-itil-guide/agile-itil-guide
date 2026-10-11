@@ -1,0 +1,33 @@
+{
+  "name": "العربية (العالم)",
+  "topic_word": "الموضوع",
+  "topics_word": "المواضيع",
+  "h2": {
+    "Why this matters": "لماذا يهم هذا",
+    "Core concepts": "المفاهيم الأساسية",
+    "Best practices": "أفضل الممارسات",
+    "Questions to discuss with your team": "أسئلة للنقاش مع فريقك",
+    "In practice: an agile ITIL example": "في الممارسة: مثال على ITIL بأسلوب أجايل",
+    "Four perspectives": "أربعة منظورات",
+    "Common failure modes": "أنماط الإخفاق الشائعة",
+    "Maturity model": "نموذج النضج",
+    "Checklist": "قائمة التحقق",
+    "AI prompts": "مطالبات الذكاء الاصطناعي",
+    "AI skills": "مهارات الذكاء الاصطناعي",
+    "Key sources": "المصادر الرئيسية",
+    "References": "المراجع"
+  },
+  "h3": {
+    "Product and delivery teams": "فرق المنتج والتسليم",
+    "Service and operations teams": "فرق الخدمة والعمليات",
+    "Leadership and governance": "القيادة والحوكمة",
+    "Customers and users": "العملاء والمستخدمون"
+  },
+  "maturity": {
+    "Initiate": "البدء",
+    "Develop": "التطوير",
+    "Standardize": "التوحيد",
+    "Manage": "الإدارة",
+    "Orchestrate": "التنسيق"
+  }
+}
