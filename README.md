@@ -31,7 +31,7 @@ The guide has 6 parts and 49 topics, written in English (World), locale `en-001`
 - Topic 1.1 — [Agile Manifesto](locales/en-001/topics/agile-manifesto/)
 - Topic 1.2 — [Agile Principles](locales/en-001/topics/agile-principles/)
 - Topic 1.3 — [Agile Software Development](locales/en-001/topics/agile-software-development/)
-- Topic 1.4 — [Scrum](locales/en-001/topics/scrum/)
+- Topic 1.4 — [Delivery Forecasting and Planning Metrics](locales/en-001/topics/delivery-forecasting-and-planning-metrics/)
 - Topic 1.5 — [Kanban](locales/en-001/topics/kanban/)
 - Topic 1.6 — [Extreme Programming](locales/en-001/topics/extreme-programming/)
 - Topic 1.7 — [Lean Software Development](locales/en-001/topics/lean-software-development/)

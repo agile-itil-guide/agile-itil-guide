@@ -9,7 +9,7 @@ Translators use these choices consistently. Where no established Welsh term is k
 | 1.1 | Maniffesto Ystwyth | | 3.8 | Rheoli'r Catalog Gwasanaethau |
 | 1.2 | Egwyddorion Ystwyth | | 3.9 | Rheoli Gwybodaeth |
 | 1.3 | Datblygu Meddalwedd Ystwyth | | 3.10 | Monitro a Rheoli Hysbysiadau |
-| 1.4 | Scrum | | 3.11 | Argaeledd, Capasiti a Pherfformiad |
+| 1.4 | Rhagweld Cyflawni a Metrigau Cynllunio | | 3.11 | Argaeledd, Capasiti a Pherfformiad |
 | 1.5 | Kanban | | 3.12 | Rheoli Parhad Gwasanaeth |
 | 1.6 | Rhaglennu Eithafol | | 3.13 | Rheoli Diogelwch Gwybodaeth |
 | 1.7 | Datblygu Meddalwedd Main | | 3.14 | Rheoli Cyflenwyr |

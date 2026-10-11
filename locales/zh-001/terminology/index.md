@@ -33,7 +33,7 @@ Translators use these choices consistently. Proper names (ITIL, Scrum, Kanban, D
 | 1.1 | 敏捷宣言 |
 | 1.2 | 敏捷原则 |
 | 1.3 | 敏捷软件开发 |
-| 1.4 | Scrum |
+| 1.4 | 交付预测与规划指标 |
 | 1.5 | Kanban |
 | 1.6 | 极限编程 |
 | 1.7 | 精益软件开发 |
