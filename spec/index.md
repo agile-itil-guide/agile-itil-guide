@@ -168,6 +168,7 @@ Full contract in `STYLE_GUIDE.md`. Key points:
 - Neutral between frameworks: no "agile good, ITIL bad" (or the reverse). Name the trade-off.
 - No hype words: revolutionary, game-changing, cutting-edge, seamless, disruptive, best-in-class.
 - Never say "agile delivery": the phrase is wrong, misleading, and cargo cult. Say "continuous delivery" (or "continuous software delivery"). Agile is a set of values and methods, and delivery is what continuous delivery practices do. The only exception is a proper name or title that contains the words, such as the Disciplined Agile Delivery article, which is quoted as written.
+- De-emphasize "sprint", "Scrum", and "Kanban": naming them as the substance of agile is wrong and cargo cult. Emphasize what agile aims for instead: continuous stakeholder involvement, continuous improvement, ongoing evolution of the product and the way of working, a sustainable pace, motivated people, and continuous software delivery. Mention Scrum, sprints, and Kanban only where a topic is specifically about them (Topic 1.5 — Kanban, and the short Scrum section in Topic 1.4 — Delivery Forecasting and Planning Metrics), where a reader may meet them in practice, or where a source names them. Describe them accurately as particular frameworks, never as what agile is.
 
 ## 6. Grounding and citation rules (non-negotiable)
 
