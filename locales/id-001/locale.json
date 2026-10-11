@@ -1,0 +1,40 @@
+{
+  "name": "Bahasa Indonesia (dunia)",
+  "topic_word": "Topik",
+  "topics_word": "Topik",
+  "h2": {
+    "Why this matters": "Mengapa ini penting",
+    "Core concepts": "Konsep inti",
+    "Best practices": "Praktik terbaik",
+    "Questions to discuss with your team": "Pertanyaan untuk dibahas bersama tim Anda",
+    "In practice: an agile ITIL example": "Dalam praktik: contoh ITIL agile",
+    "Four perspectives": "Empat perspektif",
+    "Common failure modes": "Pola kegagalan umum",
+    "Maturity model": "Model kematangan",
+    "Checklist": "Daftar periksa",
+    "AI prompts": "Prompt AI",
+    "AI skills": "Keterampilan AI",
+    "Key sources": "Sumber utama",
+    "References": "Referensi"
+  },
+  "h3": {
+    "Product and delivery teams": "Tim produk dan pengiriman",
+    "Service and operations teams": "Tim layanan dan operasi",
+    "Leadership and governance": "Kepemimpinan dan tata kelola",
+    "Customers and users": "Pelanggan dan pengguna"
+  },
+  "maturity": {
+    "Initiate": "Memulai",
+    "Develop": "Mengembangkan",
+    "Standardize": "Menstandarkan",
+    "Manage": "Mengelola",
+    "Orchestrate": "Mengorkestrasi"
+  },
+  "dirs": {
+    "topics": "topik",
+    "glossary": "glosarium",
+    "index": "indeks",
+    "terminology": "terminologi",
+    "contents": "daftar-isi"
+  }
+}
