@@ -1,0 +1,33 @@
+{
+  "name": "हिन्दी (विश्व)",
+  "topic_word": "विषय",
+  "topics_word": "विषय",
+  "h2": {
+    "Why this matters": "यह क्यों मायने रखता है",
+    "Core concepts": "मूल अवधारणाएँ",
+    "Best practices": "सर्वोत्तम प्रथाएँ",
+    "Questions to discuss with your team": "टीम के साथ चर्चा के प्रश्न",
+    "In practice: an agile ITIL example": "व्यवहार में: एक एजाइल ITIL उदाहरण",
+    "Four perspectives": "चार दृष्टिकोण",
+    "Common failure modes": "आम विफलता के तरीके",
+    "Maturity model": "परिपक्वता मॉडल",
+    "Checklist": "जाँच-सूची",
+    "AI prompts": "AI प्रॉम्प्ट",
+    "AI skills": "AI कौशल",
+    "Key sources": "प्रमुख स्रोत",
+    "References": "संदर्भ"
+  },
+  "h3": {
+    "Product and delivery teams": "उत्पाद और डिलीवरी टीमें",
+    "Service and operations teams": "सेवा और संचालन टीमें",
+    "Leadership and governance": "नेतृत्व और शासन",
+    "Customers and users": "ग्राहक और उपयोगकर्ता"
+  },
+  "maturity": {
+    "Initiate": "आरंभ",
+    "Develop": "विकास",
+    "Standardize": "मानकीकरण",
+    "Manage": "प्रबंधन",
+    "Orchestrate": "समन्वय"
+  }
+}

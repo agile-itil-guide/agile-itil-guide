@@ -146,6 +146,8 @@ The guide is written once, in the canonical locale, and may be translated later.
 | `en-gb` | **English (United Kingdom).** Copy of `en-001` with British spelling (-ise, colour, centre). Maturity column headings stay `Standardize` for the gates. Peer ids reused. |
 | `zh-001` | **Simplified Chinese (World).** Copy of `zh-cn`. Peer ids reused. |
 | `cy-001` | **Welsh (World).** Copy of `cy-gb`. Peer ids reused. |
+| `hi-in` | **Hindi (हिन्दी, भारत).** Translated serially by hand from `en-001`, one topic per commit. Section, perspective, and maturity-stage names are mapped in `locales/hi-in/locale.json`; the Hindi titles and term choices are in `locales/hi-in/terminology/index.md`. Cross-references use "विषय N.N — <Hindi title>". Source titles and skill names stay in English, and topic directory names stay as the English manifest slugs. `locales/hi-in/glossary/index.md` and `index/index.md` are Hindi, ordered by the English term (shown in parentheses). Awaiting review by a fluent Hindi speaker. |
+| `hi-001` | **Hindi (World).** Copy of `hi-in`. Peer ids reused. |
 
 Locale directory names are `<language>-<region>` (lowercase language code, hyphen, lowercase country code or three-digit UN M.49 region). Language-only directories such as `locales/en/` are never created. `bin/check` fails on any directory that does not match.
 
