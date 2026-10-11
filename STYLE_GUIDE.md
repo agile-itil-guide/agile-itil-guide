@@ -7,6 +7,7 @@ Subordinate to `spec/index.md`. Where the two disagree, the spec wins.
 - Practical, calm, and plain. Show evidence and name the trade-off rather than hiding it.
 - Never say "agile delivery": it is wrong, misleading, and cargo cult. Say "continuous delivery" (or "continuous software delivery"). Proper names and titles that contain the words, such as the Disciplined Agile Delivery article, are quoted as written.
 - De-emphasize "sprint", "Scrum", and "Kanban": treating them as the substance of agile is wrong and cargo cult. Emphasize continuous stakeholder involvement, continuous improvement, ongoing evolution, a sustainable pace, motivated people, and continuous software delivery. Mention the three only where a topic is about them, where readers may meet them in practice, or where a source names them, and describe them as particular frameworks, never as what agile is.
+- Prefer conditional phrasing when you mention them: "If your team chooses to use sprints", "If your team chooses to use Scrum", "If your team chooses to use Kanban". It shows that the practice is a choice, not a requirement of agile.
 - Neutral between frameworks. Do not write "agile good, ITIL bad" or the reverse. Say what each is good at and where it is weak.
 - Second person ("you") when guiding the reader. Third person when describing how practice works in general. No first person.
 - Banned words: revolutionary, game-changing, cutting-edge, seamless, disruptive, best-in-class, robust (as filler), leverage (as a verb), synergy.
