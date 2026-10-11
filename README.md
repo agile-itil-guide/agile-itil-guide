@@ -2,7 +2,7 @@
 
 A practical handbook for running IT services the agile way: research, practices, examples, ideas to talk about with teams, AI skills, and AI prompts.
 
-Read it online at <https://agile-itil.github.io>.
+Read it online at <https://agile-itil-guide.github.io>.
 
 ## Who this is for
 

@@ -8,7 +8,7 @@ import csv, json, os
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = "https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/"
-SITE = "https://agile-itil.github.io"
+SITE = "https://agile-itil-guide.github.io"
 CANON = "en-001"
 STUB = "_Not yet written."
 
