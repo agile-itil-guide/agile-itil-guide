@@ -149,9 +149,9 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ## Phase 7 — Welsh (cy-gb) translation
 
-Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.md`. `bin/check` reads headings from `locales/cy-gb/locale.json`.
+Translate serially, one topic per commit, following `locales/cy-gb/terminology/index.md`. `bin/check` reads headings from `locales/cy-gb/locale.json`.
 
-- [x] Scaffold `locales/cy-gb/` (peer ids, symlinks, titled stubs, `locale.json`, `TERMINOLOGY.md`) and make `bin/check` locale-aware
+- [x] Scaffold `locales/cy-gb/` (peer ids, symlinks, titled stubs, `locale.json`, `terminology/index.md`) and make `bin/check` locale-aware
 - [x] cy-gb 1.1 agile-manifesto
 - [x] cy-gb 1.2 agile-principles
 - [x] cy-gb 1.3 agile-software-development
@@ -202,15 +202,15 @@ Translate serially, one topic per commit, following `locales/cy-gb/TERMINOLOGY.m
 - [x] cy-gb 6.3 ai-skills-and-prompts
 - [x] cy-gb 6.4 learning-paths-and-certification
 - [x] cy-gb site integration (locales.ts, cy-gb.json messages, sync-content, per-locale search index) and llms
-- [x] cy-gb GLOSSARY and INDEX translations (`locales/cy-gb/GLOSSARY.md`, `INDEX.md`)
+- [x] cy-gb GLOSSARY and INDEX translations (`locales/cy-gb/glossary/index.md`, `INDEX.md`)
 - [ ] cy-gb review by a fluent Welsh speaker
 - [ ] Welsh-speaking reviewer reads every translated topic
 
 ## Phase 8 — Simplified Chinese (zh-cn) translation
 
-Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.md`. `bin/check` reads headings from `locales/zh-cn/locale.json`.
+Translate serially, one topic per commit, following `locales/zh-cn/terminology/index.md`. `bin/check` reads headings from `locales/zh-cn/locale.json`.
 
-- [x] Scaffold `locales/zh-cn/` (peer ids, symlinks, titled stubs, `locale.json`, `TERMINOLOGY.md`)
+- [x] Scaffold `locales/zh-cn/` (peer ids, symlinks, titled stubs, `locale.json`, `terminology/index.md`)
 - [x] zh-cn 1.1 agile-manifesto
 - [x] zh-cn 1.2 agile-principles
 - [x] zh-cn 1.3 agile-software-development
@@ -262,4 +262,4 @@ Translate serially, one topic per commit, following `locales/zh-cn/TERMINOLOGY.m
 - [x] zh-cn 6.4 learning-paths-and-certification
 - [x] zh-cn site integration (locales.ts, messages, spec table, llms)
 - [ ] zh-cn review by a fluent Chinese speaker
-- [x] zh-cn GLOSSARY and INDEX translations (`locales/zh-cn/GLOSSARY.md`, `INDEX.md`)
+- [x] zh-cn GLOSSARY and INDEX translations (`locales/zh-cn/glossary/index.md`, `INDEX.md`)
