@@ -7,7 +7,7 @@
 #
 # One-time setup:
 #
-#   git remote add site git@github.com:agile-itil/agile-itil.github.io.git
+#   git remote add site git@github.com:agile-itil-guide/agile-itil-guide.github.io.git
 #
 # Never push to the site repository directly: all site changes are made here.
 set -eu
