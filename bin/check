@@ -48,8 +48,33 @@ def h1(path):
     return first[2:].strip() if first.startswith("# ") and first[2:].strip() else None
 
 
+def peer_id(path):
+    try:
+        v = open(path).read()
+    except OSError:
+        return None
+    return v if re.fullmatch(r"[0-9a-f]{32}\n", v) else None
+
+
+def dir_of(loc):
+    """Canonical slug -> this locale's directory name. A translated directory is matched to its canonical topic by .locale-peer-id."""
+    base = f"{L}/{loc}/topics"
+    ids = {}
+    for x in os.listdir(f"{L}/{CANON}/topics"):
+        v = peer_id(f"{L}/{CANON}/topics/{x}/.locale-peer-id")
+        if v:
+            ids[v] = x
+    out = {}
+    if os.path.isdir(base):
+        for x in os.listdir(base):
+            if os.path.isdir(f"{base}/{x}"):
+                out[ids.get(peer_id(f"{base}/{x}/.locale-peer-id"), x)] = x
+    return out
+
+
 def titles_for(loc):
-    return {r["number"]: h1(f"{L}/{loc}/topics/{r['slug']}/index.md") for r in manifest}
+    dirs = dir_of(loc)
+    return {r["number"]: h1(f"{L}/{loc}/topics/{dirs.get(r['slug'], r['slug'])}/index.md") for r in manifest}
 
 H2_EN = [
     "Why this matters", "Core concepts", "Best practices",
@@ -96,8 +121,9 @@ def locale_cfg(loc):
     return {"h2": {}, "h3": {}, "maturity": {}, "topic_word": "Topic", "topics_word": "Topics"}
 
 
-def check_topic(loc, slug, text):
-    r, k = by_slug[slug], f"{loc}/{slug}"
+def check_topic(loc, slug, text, dirname=None):
+    dirname = dirname or slug
+    r, k = by_slug[slug], f"{loc}/{dirname}"
     cfg = locale_cfg(loc)
     H2, H3, MATURITY = ([cfg[n].get(x, x) for x in base] for n, base in (("h2", H2_EN), ("h3", H3_EN), ("maturity", MATURITY_EN)))
     sec = lambda name: secs[cfg["h2"].get(name, name)]
@@ -146,7 +172,7 @@ def check_topic(loc, slug, text):
     if not 1 <= len(sk) <= 5:
         fail(f"{k}: AI skill links={len(sk)} (need 1–5)")
     for href in sk:
-        target = os.path.normpath(os.path.join(L, loc, "topics", slug, href))
+        target = os.path.normpath(os.path.join(L, loc, "topics", dirname, href))
         if not os.path.isfile(target) or not target.endswith("SKILL.md"):
             fail(f"{k}: AI skill link does not resolve: {href}")
     wiki = set(re.findall(r"https://en\.wikipedia\.org/wiki/[^\s)\]>]+", text.split("\n## " + cfg["h2"].get("References", "References"))[0]))
@@ -171,6 +197,11 @@ if CANON not in locales:
 
 seen_ids, stubs, written = {}, [], 0
 canon_ids = {}
+canon_slug_of = {}
+for _x in os.listdir(f"{L}/{CANON}/topics"):
+    _v = peer_id(f"{L}/{CANON}/topics/{_x}/.locale-peer-id")
+    if _v:
+        canon_slug_of[_v] = _x
 for loc in locales:
     base = f"{L}/{loc}/topics"
     if not os.path.isdir(base):
@@ -204,15 +235,18 @@ for loc in locales:
                 fail(f"{loc}/{s}: .locale-peer-id duplicates {seen_ids[val]}")
             seen_ids[val] = s
             canon_ids[s] = val
-        elif canon_ids.get(s) is not None and canon_ids[s] != val:
+        elif s in canon_ids and canon_ids[s] != val:
             fail(f"{loc}/{s}: .locale-peer-id differs from canonical")
         text = open(idx, encoding="utf-8").read()
         if STUB in text:
             stubs.append(f"{loc}/{s}")
             continue
-        if s in by_slug:
+        cs = canon_slug_of.get(val, s) if loc != CANON else s
+        if loc != CANON and val not in canon_slug_of and s not in by_slug:
+            fail(f"{loc}/{s}: .locale-peer-id matches no canonical topic")
+        if cs in by_slug:
             written += 1
-            check_topic(loc, s, text)
+            check_topic(loc, cs, text, s)
 
 # --- cross-reference titles -------------------------------------------------
 bare = 0
