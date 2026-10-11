@@ -19,7 +19,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 - [x] `bin/deploy-site` (`git subtree push --prefix=agile-itil.github.io site main`)
 - [x] `locales/en-001/topics/.locale-peer-id`
 - [x] For all 49 topics: `locales/en-001/topics/<slug>/` with `index.md` stub, `README.md -> index.md` relative symlink, and `.locale-peer-id`
-- [x] `README.md` (table of contents, who the guide is for, how to use it, trademark notice; no preface), `glossary/index.md`, `INDEX.md` skeletons
+- [x] `README.md` (table of contents, who the guide is for, how to use it, trademark notice; no preface), `glossary/index.md`, `index/index.md` skeletons
 - [x] `CITATION.cff`
 - [x] `_sources/research-notes.md` skeleton
 - [x] Copy relevant skills (84 copied; see `skills/README.md`; pruned in Phase 3) from `~/git/skills-on-ai/skills-on-ai/skills` into `skills/` (whole directories, unchanged), and record them in `skills/README.md`. Starting list:
@@ -109,7 +109,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 ## Phase 3 — Reference matter and skills
 
 - [x] `glossary/index.md` reconciled after each part (1–6)
-- [x] `INDEX.md` reconciled after each part (1–6)
+- [x] `index/index.md` reconciled after each part (1–6)
 - [x] `skills/agile-itil-guide-skill/SKILL.md` (for readers)
 - [x] `skills/agile-itil-guide-maintainer-skill/SKILL.md` (for maintainers)
 - [x] Prune unlinked copied skills; every copied skill is linked from at least one topic (spec §7)
@@ -142,7 +142,7 @@ Live checklist. Update in the same commit as the work it tracks. Governed by `sp
 
 ## Phase 6 — Release
 
-- [x] `README.md`, `glossary/index.md`, `INDEX.md`, `spec/topics.tsv`, `llms.*` agree with spec §4
+- [x] `README.md`, `glossary/index.md`, `index/index.md`, `spec/topics.tsv`, `llms.*` agree with spec §4
 - [ ] Create GitHub repositories and add the `site` remote (confirm names with the maintainer)
 - [ ] First `bin/deploy-site` subtree push; Pages site live and checked
 - [ ] All tasks above checked off
@@ -202,7 +202,7 @@ Translate serially, one topic per commit, following `locales/cy-gb/terminology/i
 - [x] cy-gb 6.3 ai-skills-and-prompts
 - [x] cy-gb 6.4 learning-paths-and-certification
 - [x] cy-gb site integration (locales.ts, cy-gb.json messages, sync-content, per-locale search index) and llms
-- [x] cy-gb GLOSSARY and INDEX translations (`locales/cy-gb/glossary/index.md`, `INDEX.md`)
+- [x] cy-gb GLOSSARY and INDEX translations (`locales/cy-gb/glossary/index.md`, `index/index.md`)
 - [ ] cy-gb review by a fluent Welsh speaker
 - [ ] Welsh-speaking reviewer reads every translated topic
 
@@ -262,4 +262,4 @@ Translate serially, one topic per commit, following `locales/zh-cn/terminology/i
 - [x] zh-cn 6.4 learning-paths-and-certification
 - [x] zh-cn site integration (locales.ts, messages, spec table, llms)
 - [ ] zh-cn review by a fluent Chinese speaker
-- [x] zh-cn GLOSSARY and INDEX translations (`locales/zh-cn/glossary/index.md`, `INDEX.md`)
+- [x] zh-cn GLOSSARY and INDEX translations (`locales/zh-cn/glossary/index.md`, `index/index.md`)

@@ -24,12 +24,12 @@ Writes exactly one topic, to one file. Never edits another topic's file.
    14. `## Key sources`
    15. `## References` (numbered, `Title — Publisher/Author — URL`)
 5. Aim for about 2,500–3,500 words of real content, reached by depth.
-6. Register new terms in `glossary/index.md` and `INDEX.md`; tick `tasks.md`.
+6. Register new terms in `glossary/index.md` and `index/index.md`; tick `tasks.md`.
 
 ## Hard limits
 
 - Only cite sources verified this session.
-- Do not edit files outside your topic directory except `glossary/index.md`, `INDEX.md`, and `tasks.md`.
+- Do not edit files outside your topic directory except `glossary/index.md`, `index/index.md`, and `tasks.md`.
 - Never touch `.locale-peer-id` or replace the `README.md` symlink.
 - Stop and flag, do not guess, if your scope note conflicts with what you find.
 
