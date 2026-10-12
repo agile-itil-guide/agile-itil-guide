@@ -1,22 +1,17 @@
 Agile ITIL Guide
 
 • Link: https://agile-itil-guide.github.io
-• Tags: #agile #itil #itsm #devops #servicemanagement
+• Tags: #agile #itil #guide #itsm #devops #servicemanagement
 • Keywords: agile, ITIL 4, ITSM, DevOps, service management, Kanban
 
-Summary:
-The Agile ITIL Guide is a free, open handbook that shows IT teams how to run live services the agile way. It combines the Agile Manifesto, Scrum, Kanban, Lean and DevOps with ITIL 4 practices such as incident, problem, change and service desk. Anyone can read it online today. The problem it solves is simple: teams that deliver fast and teams that keep services stable rarely share a plan.
+Summary: The Agile ITIL Guide is a free, open handbook that shows IT teams how to run live services the agile way. It combines the Agile Manifesto, Scrum, Kanban, Lean and DevOps with ITIL 4 practices such as incident, problem, change and service desk. Anyone can read it online today. The problem it solves is simple: teams that deliver fast and teams that keep services stable rarely share a plan.
 
-Benefits:
-Delivery teams get a shared language with operations. Service desk staff see how fast feedback and stable service fit together. Managers find a maturity table for every topic, so a team can say where it stands and choose a next step. Each topic includes a worked example, discussion questions and prompts that you can copy and paste. One example follows a small team as it organizes on-call duty, and another shows how to prioritize problems after a rough week.
+Benefits: Delivery teams get a shared language with operations. Service desk staff see how fast feedback and stable service fit together. Managers find a maturity table for every topic, so a team can say where it stands and choose a next step. Each topic includes a worked example, discussion questions and prompts that you can copy and paste. One example follows a small team as it organizes on-call duty, and another shows how to prioritize problems after a rough week.
 
-Why this matters:
-Agile and ITIL often sound like rivals. One promises speed and the other promises control. Real services need both. A team that ships weekly still needs a calm way to handle an outage at midnight. This guide treats the two as partners and gives teams concrete practices to try on Monday morning.
+Why this matters: Agile and ITIL often sound like rivals. One promises speed and the other promises control. Real services need both. This guide treats the two as partners and gives teams concrete practices.
 
-Please share:
-Send the link to a colleague who lives between delivery and operations. Post a topic in your team channel before a retrospective. Use the discussion questions in a workshop or a lunch-and-learn. Mention it to a coach, a service owner or a student preparing for certification. Each share helps one more team stop arguing and start improving.
+Please share: Send the link to a colleague who lives between delivery and operations. Post a topic in your team channel before a retrospective. Use the discussion questions in a workshop or a lunch-and-learn. Mention it to a coach, a service owner or a student preparing for certification. Each share helps one more team stop arguing and start improving.
 
-Advice welcome:
-I am still learning, and this guide is still growing. Tell me which practice I explained poorly. Tell me which example felt unreal. Tell me what your team needed and could not find. Message me directly, and I will read every note and improve the guide with your help.
+Advice welcome: This guide is improving. Tell me which practices work well for you, and which don't. Tell me what you wanted and what you could not find her. Message me directly, and I will improve the project for everyone.
 
 Associated skills: Agile Methodologies, ITIL, IT Service Management, DevOps, Process Improvement
