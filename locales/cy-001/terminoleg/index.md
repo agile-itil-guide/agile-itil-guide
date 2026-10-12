@@ -1,10 +1,10 @@
-# Terminology for cy-gb (Cymraeg)
+# Terminoleg ar gyfer y Gymraeg
 
-Translators use these choices consistently. Where no established Welsh term is known, give the English term in parentheses at first use in each topic. Proper names (ITIL, Scrum, Kanban, DevOps, DORA, SRE, tool and product names) stay as written. English Wikipedia links, reference titles and skill file names stay in English. Currency in examples: £; dates DD/MM/YYYY; metric units.
+Mae cyfieithwyr yn defnyddio'r dewisiadau hyn yn gyson. Lle nad oes term Cymraeg sefydledig yn hysbys, rhowch y term Saesneg mewn cromfachau wrth ei ddefnyddio am y tro cyntaf ym mhob pwnc. Mae enwau priod (ITIL, Scrum, Kanban, DevOps, DORA, SRE, enwau offer a chynhyrchion) yn aros fel y'u hysgrifennwyd. Mae dolenni Wikipedia Saesneg, teitlau cyfeiriadau ac enwau ffeiliau sgiliau yn aros yn Saesneg. Arian cyfred mewn enghreifftiau: £; dyddiadau DD/MM/YYYY; unedau metrig.
 
-## Topic titles (the first headline of each cy-gb `index.md`; cross-references use "Pwnc N.N — Teitl")
+## Teitlau'r pynciau (pennawd cyntaf pob `index.md` yn y Gymraeg; mae croesgyfeiriadau yn defnyddio "Pwnc N.N — Teitl")
 
-| No. | Title | | No. | Title |
+| Rhif | Teitl | | Rhif | Teitl |
 |---|---|---|---|---|
 | 1.1 | Maniffesto Ystwyth | | 3.8 | Rheoli'r Catalog Gwasanaethau |
 | 1.2 | Egwyddorion Ystwyth | | 3.9 | Rheoli Gwybodaeth |
@@ -32,7 +32,7 @@ Translators use these choices consistently. Where no established Welsh term is k
 | 3.7 | Rheoli Lefelau Gwasanaeth | | 6.3 | Sgiliau ac Anogwyr AI |
 | | | | 6.4 | Llwybrau Dysgu ac Ardystio |
 
-## Terms
+## Termau
 
 | English | Cymraeg |
 |---|---|

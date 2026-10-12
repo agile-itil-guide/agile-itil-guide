@@ -29,5 +29,12 @@
     "Standardize": "标准化",
     "Manage": "管理",
     "Orchestrate": "协同"
+  },
+  "dirs": {
+    "topics": "主题",
+    "glossary": "术语表",
+    "index": "索引",
+    "terminology": "术语",
+    "contents": "目录"
   }
 }

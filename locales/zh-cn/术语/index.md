@@ -1,8 +1,8 @@
-# Terminology for zh-cn (简体中文)
+# 简体中文用词约定
 
-Translators use these choices consistently. Proper names (ITIL, Scrum, Kanban, DevOps, DORA, SRE, tool and product names) stay as written. At first use in each topic, give the English term in parentheses where no settled Chinese term exists. English Wikipedia links, reference titles and skill file names stay in English. Use full-width Chinese punctuation in Chinese prose, a space between Chinese and Latin letters or digits, and Arabic numerals. Currency in examples: ¥ (CNY); dates YYYY-MM-DD; metric units. Cross-references: "主题 N.N — 标题".
+译者统一采用下列选择。专有名称（ITIL、Scrum、Kanban、DevOps、DORA、SRE，以及工具和产品名称）保持原文写法。在每个主题中首次使用时，若没有约定俗成的中文术语，则在括号中给出英文术语。英文维基百科链接、参考文献标题和技能文件名保持英文。中文行文使用全角中文标点，中文与拉丁字母或数字之间留一个空格，并使用阿拉伯数字。示例中的货币：¥（CNY）；日期格式 YYYY-MM-DD；使用公制单位。交叉引用格式：“主题 N.N — 标题”。
 
-## Key terms
+## 关键术语
 
 | English | 中文 |
 |---|---|
@@ -26,9 +26,9 @@ Translators use these choices consistently. Proper names (ITIL, Scrum, Kanban, D
 | prompt | 提示词 |
 | skill (AI) | 技能 |
 
-## Topic titles
+## 主题标题
 
-| No. | 标题 |
+| 编号 | 标题 |
 |---|---|
 | 1.1 | 敏捷宣言 |
 | 1.2 | 敏捷原则 |

@@ -29,5 +29,12 @@
     "Standardize": "Safoni",
     "Manage": "Rheoli",
     "Orchestrate": "Cydlynu"
+  },
+  "dirs": {
+    "topics": "pynciau",
+    "glossary": "geirfa",
+    "index": "mynegai",
+    "terminology": "terminoleg",
+    "contents": "cynnwys"
   }
 }
