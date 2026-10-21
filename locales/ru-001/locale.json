@@ -1,0 +1,40 @@
+{
+  "name": "Русский (весь мир)",
+  "topic_word": "Тема",
+  "topics_word": "Темы",
+  "h2": {
+    "Why this matters": "Почему это важно",
+    "Core concepts": "Основные понятия",
+    "Best practices": "Лучшие практики",
+    "Questions to discuss with your team": "Вопросы для обсуждения с командой",
+    "In practice: an agile ITIL example": "На практике: пример agile ITIL",
+    "Four perspectives": "Четыре точки зрения",
+    "Common failure modes": "Типичные причины неудач",
+    "Maturity model": "Модель зрелости",
+    "Checklist": "Контрольный список",
+    "AI prompts": "ИИ-промпты",
+    "AI skills": "ИИ-навыки",
+    "Key sources": "Ключевые источники",
+    "References": "Источники"
+  },
+  "h3": {
+    "Product and delivery teams": "Продуктовые команды и команды поставки",
+    "Service and operations teams": "Сервисные и операционные команды",
+    "Leadership and governance": "Руководство и управление",
+    "Customers and users": "Заказчики и пользователи"
+  },
+  "maturity": {
+    "Initiate": "Инициация",
+    "Develop": "Развитие",
+    "Standardize": "Стандартизация",
+    "Manage": "Управление",
+    "Orchestrate": "Оркестрация"
+  },
+  "dirs": {
+    "topics": "темы",
+    "glossary": "глоссарий",
+    "index": "указатель",
+    "terminology": "терминология",
+    "contents": "содержание"
+  }
+}
