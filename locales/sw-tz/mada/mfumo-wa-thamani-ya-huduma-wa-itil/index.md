@@ -63,7 +63,7 @@ PeopleCert ilitangaza ITIL 5 mwaka 2026, na vyanzo vingine hutumia "mifumo ya th
 5. **Bainisha utawala kwa maneno rahisi.** Taja nani anaweka mwelekeo, timu zinafanya kazi ndani ya mipaka gani, na matokeo yanakaguliwa vipi. Utawala ulio wazi kwa timu huziwezesha kutenda haraka (tazama Mada 5.7 — Utawala, Hatari, na Uzingatiaji).
 6. **Fikiria mitiririko ya thamani, si idara.** Fuatilia jinsi kazi inavyotiririka kutoka mahitaji hadi thamani kwa huduma moja, kupitia timu. Imarisha kiungo dhaifu zaidi na si idara iliyoendeshwa vizuri zaidi.
 7. **Chukulia mazoea kama rasilimali za pamoja.** Ruhusu timu kadhaa kutumia zoezi lilelile, kama usimamizi wa matukio ya hitilafu, katika mitiririko yao ya thamani. Tunza zoezi kwa kati vya kutosha kuwa thabiti na kienyeji vya kutosha kuwa na manufaa.
-8. **Kagua vipimo vyote vinne.** Kitu kisipofanya kazi, uliza kama pengo liko katika watu, taarifa na teknolojia, washirika na wasambazaji, au michakato. Kurekebisha kipimo kisicho sahihi ni upotevu wa kawaida.
+8. **Kagua nyanja zote nne.** Kitu kisipofanya kazi, uliza kama pengo liko katika watu, taarifa na teknolojia, washirika na wasambazaji, au michakato. Kurekebisha kipimo kisicho sahihi ni upotevu wa kawaida.
 9. **Fanya uboreshaji endelevu uonekane.** Weka orodha ya uboreshaji yenye wamiliki na tarehe, na uipitie mara kwa mara. Mchakato wa uboreshaji ambao hakuna anayeuona ni nia njema.
 10. **Weka modeli ndogo.** Mchoro au hati kuhusu SVS ikizidi ukurasa mmoja, simama na uulize nani ataitumia. Modeli ambayo hakuna anayetumia haina thamani.
 11. **Tumia machapisho ya sasa ya mmiliki kwa fasili.** Unapohitaji fasili kamili kwa ukaguzi au mkataba, ichukue kutoka kwa mmiliki wa mfumo na si kutoka muhtasari, ikijumuisha huu.
