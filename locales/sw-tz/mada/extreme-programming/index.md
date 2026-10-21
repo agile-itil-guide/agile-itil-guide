@@ -77,7 +77,7 @@ Zoezi la ITIL la uwezeshaji wa mabadiliko (tazama Mada 3.4 — Uwezeshaji wa Mab
 9. **Dumisha mwendo endelevu.** Panga kazi ili saa za ziada ziwe nadra na zisirudiwe wiki baada ya wiki. Mhandisi aliyechoka aliye zamu ni hatari kwa huduma (tazama Mada 1.2 — Kanuni za Agile kuhusu mwendo).
 10. **Fanya mteja kuwa sehemu ya timu.** Tafuta mtumiaji halisi au mwakilishi wa mtumiaji anayeweza kujibu maswali wakati wa kazi. Kumbuka ukosoaji kwamba mtu mmoja ni nukta moja ya kushindwa, kwa hiyo shirikisha sauti zaidi ya moja.
 11. **Andika vigezo vya kukubalika kama majaribio pale inapowezekana.** Geuza matarajio ya mteja kuwa ukaguzi wa kiotomatiki unaoendeshwa kwa kila ujenzi. Kisha unaandika tabia na kuilinda kwa wakati mmoja.
-12. **Jumuisha ukaguzi wa uendeshaji kwenye majaribio.** Ongeza ukaguzi wa ufuatiliaji, uwekaji kumbukumbu na tabia ya kurejesha kwenye bomba, ili utayari wa uendeshaji uthibitishwe kwa kila badiliko (tazama Mada 3.5 — Usimamizi wa Matoleo na Usambazaji).
+12. **Jumuisha ukaguzi wa uendeshaji kwenye majaribio.** Ongeza ukaguzi wa ufuatiliaji, uwekaji kumbukumbu na tabia ya kurejesha kwenye bomba, ili utayari wa uendeshaji uthibitishwe kwa kila badiliko (tazama Mada 3.5 — Usimamizi wa Matoleo na Upelekaji).
 
 ## Maswali ya kujadili na timu yako
 

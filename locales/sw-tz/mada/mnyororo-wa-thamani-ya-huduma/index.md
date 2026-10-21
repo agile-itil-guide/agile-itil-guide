@@ -63,7 +63,7 @@ Kurasa zilizosomwa kwa mwongozo huu hazitoi mbinu ya kubuni au kuchagua mitiriri
 3. **Tafuta shughuli zinazokosekana.** Kama mtiririko hauna hatua ya kushirikisha, hakuna anayezungumza na watumiaji. Kama hauna hatua ya kuboresha, hakuna kinachojifunzwa. Ziongeze pale zinapojalisha.
 4. **Pima kusubiri.** Kwa mtiririko mmoja, rekodi kazi inasubiri muda gani kati ya shughuli na inapovuka mpaka wa timu. Kusubiri kwa muda mrefu zaidi ndicho kitu cha kwanza cha kuchunguza (tazama Mada 5.4 — Usimamizi wa Mtiririko wa Thamani).
 5. **Changanya shughuli kwa uhuru.** Ruhusu mitiririko tofauti itumie njia tofauti. Marekebisho ya hitilafu ndogo yanaweza kwenda moja kwa moja kutoka kutoa na kuunga mkono hadi kupata/kujenga na kurudi, bila hatua ya upangaji.
-6. **Weka sanifu na hamisha ndani ya kazi ya timu.** Jumuisha maelezo ya msaada, ufuatiliaji na mafunzo kama sehemu ya kujenga, si makabidhiano mwishoni (tazama Mada 3.5 — Usimamizi wa Matoleo na Usambazaji).
+6. **Weka sanifu na hamisha ndani ya kazi ya timu.** Jumuisha maelezo ya msaada, ufuatiliaji na mafunzo kama sehemu ya kujenga, si makabidhiano mwishoni (tazama Mada 3.5 — Usimamizi wa Matoleo na Upelekaji).
 7. **Fanya "shirikisha" kuwa shughuli endelevu.** Usiweke mawasiliano na watumiaji mwanzoni na mwishoni mwa mradi tu. Jumuisha dawati la huduma na maoni ya wateja katika upangaji.
 8. **Unganisha upangaji na ushahidi kutoka uendeshaji.** Tumia data ya matukio ya hitilafu na maombi katika mazungumzo ya upangaji ili malengo yaakisi watumiaji wanachopitia kweli (tazama Mada 5.1 — Usimamizi wa Huduma wa Agile).
 9. **Taja mmiliki kwa kila mtiririko.** Mtu mmoja anapaswa kuweza kusema mtiririko unafanyaje, na kuweza kuleta timu pamoja kuuboresha.

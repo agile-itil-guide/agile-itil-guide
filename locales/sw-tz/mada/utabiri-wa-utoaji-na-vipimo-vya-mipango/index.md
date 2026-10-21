@@ -57,7 +57,7 @@ Timu za huduma hupokea matukio ya hitilafu, maombi ya dharura na mabadiliko amba
 
 ### Mtiririko wa utoaji endelevu na mdundo wa matoleo
 
-Timu zinazotoa kwa mfululizo hutoa mabadiliko madogo yanapokuwa tayari, badala ya kusubiri mwisho wa kipindi cha upangaji. Hili hufupisha muda kati ya kumaliza na kutoa, na hufanya utabiri kuwa rahisi kuhakiki: kila kipengele kilichokamilika ni nukta ya data. Mabadiliko bado yanafuata mbinu ya shirika ya uwezeshaji wa mabadiliko, na mabadiliko ya kawaida yaliyoidhinishwa mapema husaidia hapa (tazama Mada 3.4 — Uwezeshaji wa Mabadiliko na Mada 3.5 — Usimamizi wa Matoleo na Usambazaji).
+Timu zinazotoa kwa mfululizo hutoa mabadiliko madogo yanapokuwa tayari, badala ya kusubiri mwisho wa kipindi cha upangaji. Hili hufupisha muda kati ya kumaliza na kutoa, na hufanya utabiri kuwa rahisi kuhakiki: kila kipengele kilichokamilika ni nukta ya data. Mabadiliko bado yanafuata mbinu ya shirika ya uwezeshaji wa mabadiliko, na mabadiliko ya kawaida yaliyoidhinishwa mapema husaidia hapa (tazama Mada 3.4 — Uwezeshaji wa Mabadiliko na Mada 3.5 — Usimamizi wa Matoleo na Upelekaji).
 
 ### Ukitumia Scrum, mbio fupi, na kasi
 

@@ -52,7 +52,7 @@ Mfasiri hutumia maamuzi yafuatayo kila mara. Majina maalum (ITIL, Scrum, Kanban,
 | 3.2 | Usimamizi wa Matukio ya Hitilafu |
 | 3.3 | Usimamizi wa Matatizo |
 | 3.4 | Uwezeshaji wa Mabadiliko |
-| 3.5 | Usimamizi wa Matoleo na Usambazaji |
+| 3.5 | Usimamizi wa Matoleo na Upelekaji |
 | 3.6 | Usimamizi wa Maombi ya Huduma |
 | 3.7 | Usimamizi wa Kiwango cha Huduma |
 | 3.8 | Usimamizi wa Katalogi ya Huduma |

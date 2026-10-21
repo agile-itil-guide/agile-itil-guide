@@ -66,7 +66,7 @@ Rekodi ya badiliko inapaswa kusema nini kilibadilika, kwa nini, nani aliidhinish
 
 ### Badiliko na toleo
 
-Uwezeshaji wa mabadiliko huamua kama badiliko linaweza kuendelea. Usimamizi wa matoleo na upelekaji huliingiza uzalishajini (tazama Mada 3.5 — Usimamizi wa Matoleo na Usambazaji). Katika utoaji endelevu hivi viwili huungana kivitendo, idhini zikiwa zimejengwa ndani ya bomba.
+Uwezeshaji wa mabadiliko huamua kama badiliko linaweza kuendelea. Usimamizi wa matoleo na upelekaji huliingiza uzalishajini (tazama Mada 3.5 — Usimamizi wa Matoleo na Upelekaji). Katika utoaji endelevu hivi viwili huungana kivitendo, idhini zikiwa zimejengwa ndani ya bomba.
 
 ## Mazoea bora
 
