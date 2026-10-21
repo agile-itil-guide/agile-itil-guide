@@ -138,7 +138,7 @@ Wateja wametajwa katika thamani mbili kati ya nne. Kwao, Ilani inaahidi ushiriki
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Uelewa wa pamoja wa thamani | Watu wachache wamesoma Ilani | Baadhi ya timu huijadili, kwa usomaji unaotofautiana | Timu zinashiriki usomaji mfupi ulioandikwa wa thamani kwa mazingira yao | Timu hukagua maamuzi ya hivi karibuni dhidi ya thamani katika mapitio ya kawaida | Timu, wasambazaji na wateja hutumia msamiati wa pamoja wa maridhiano |
 | Usawa wa mchakato na watu | Michakato inafuatwa au kupuuzwa, kulingana na mtu | Baadhi ya michakato hurahisishwa na timu moja moja | Kila mchakato una mmiliki na njia ya maombi ya mabadiliko | Msuguano wa michakato hupimwa, kwa mfano muda wa kusubiri kwa kila badiliko | Michakato hurekebishwa katika timu zote kwa kutegemea ushahidi wa pamoja |

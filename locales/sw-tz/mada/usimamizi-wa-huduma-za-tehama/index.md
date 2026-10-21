@@ -148,7 +148,7 @@ Wateja na watumiaji ndio sababu ITSM ipo. Tarajia njia wazi ya kuomba msaada, ta
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Ufafanuzi wa huduma | Huduma zinaelezwa kwa teknolojia au hazielezwi kabisa | Baadhi ya huduma zimeorodheshwa na wamiliki | Huduma zote zinaelezwa kwa maneno ya wateja na wamiliki waliotajwa | Maelezo ya huduma hukaguliwa dhidi ya matumizi na maoni | Ufafanuzi wa huduma hushirikiwa na wateja na wasambazaji na kurekebishwa pamoja |
 | Msaada na maombi | Msaada huombwa kwa njia zisizo rasmi | Baadhi ya timu zina zana ya tiketi au sanduku la pamoja | Mlango mmoja wa mbele wenye aina wazi za matukio ya hitilafu na maombi | Mahitaji na nyakati za utatuzi hufuatiliwa na kupitiwa | Msaada huratibiwa katika timu na wasambazaji kwa data ya pamoja |

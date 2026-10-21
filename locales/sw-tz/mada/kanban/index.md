@@ -135,7 +135,7 @@ Wateja hunufaika kwa utabiri ulio wazi zaidi na maombi machache yanayopotea. Iom
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Kuonyesha mtiririko wa kazi | Kazi iko kwenye sanduku za barua za watu binafsi na vichwani | Baadhi ya timu zina mbao zinazoonyesha hali zao | Timu zinashiriki Ufafanuzi wa Mtiririko wa Kazi wenye aina za vipengele na sera | Ubao hupitiwa na kusahihishwa dhidi ya kinachotokea kweli | Mbao katika timu zinaonyesha vipengele na makabidhiano ya timu mbalimbali |
 | Kudhibiti kazi inayoendelea | Hakuna mipaka; watu huanza zaidi ya wanavyomaliza | Baadhi ya timu huweka mipaka isiyo rasmi | Mipaka huwekwa na ukiukaji hujadiliwa | Mipaka hurekebishwa kutokana na data ya mtiririko | Mipaka na uwezo husawazishwa katika timu na wasambazaji |

@@ -148,7 +148,7 @@ Wateja wanapaswa kuona huduma iliyoshikamana na si mishono kati ya timu. Tarajia
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Mpangilio na vipaumbele | Kila timu huweka vipaumbele vyake | Baadhi ya timu hushiriki orodha au hukutana kuoanisha | Bidhaa zina orodha moja yenye mpangilio na upangaji wa pamoja kwa mdundo wa kawaida | Mpangilio hukaguliwa dhidi ya matokeo na utegemezi hupimwa | Vipaumbele hurekebishwa katika timu, wateja na wasambazaji kila mara |
 | Utegemezi | Kusubiri timu nyingine hakusimamiwi | Baadhi ya timu huorodhesha utegemezi wao | Utegemezi unaonekana na makubaliano yapo kati ya timu | Nyakati za kusubiri utegemezi hupimwa na kupunguzwa | Mipaka ya timu hubuniwa upya kutokana na ushahidi ili kuondoa utegemezi |

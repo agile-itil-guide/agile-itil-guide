@@ -45,7 +45,7 @@ Mfasiri hutumia maamuzi yafuatayo kila mara. Majina maalum (ITIL, Scrum, Kanban,
 | 2.2 | ITIL |
 | 2.3 | Mfumo wa Thamani ya Huduma wa ITIL |
 | 2.4 | Kanuni Elekezi za ITIL |
-| 2.5 | Vipimo Vinne vya Usimamizi wa Huduma |
+| 2.5 | Nyanja Nne za Usimamizi wa Huduma |
 | 2.6 | Mnyororo wa Thamani ya Huduma |
 | 2.7 | Mifumo na Viwango vya ITSM |
 | 3.1 | Dawati la Huduma |

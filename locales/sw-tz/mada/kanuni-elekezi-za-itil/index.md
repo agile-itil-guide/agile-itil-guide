@@ -47,7 +47,7 @@ Kanuni za agile zimehesabiwa kama kwenye agilemanifesto.org. Uoanishaji ni uamuz
 Mwingiliano ni mkubwa, lakini msisitizo unatofautiana kwa njia zenye manufaa.
 
 - **ITIL inasisitiza mzima.** "Fikiri na ufanye kazi kwa jumla" inakuomba uzingatie huduma ya mwanzo hadi mwisho, ikijumuisha wasambazaji na watumiaji. Kanuni za Ilani zinazungumza zaidi kuhusu timu na mteja, na kusema kidogo kuhusu mfumo mpana.
-- **Agile inasisitiza timu na mwendo.** Kanuni za agile zinaomba watu wenye motisha, mwendo endelevu, na timu zinazojipanga zenyewe. Kanuni za ITIL hazitaji hali za kazi za watu moja kwa moja, ingawa kipimo cha "mashirika na watu" kinazifunika (tazama Mada 2.5 — Vipimo Vinne vya Usimamizi wa Huduma).
+- **Agile inasisitiza timu na mwendo.** Kanuni za agile zinaomba watu wenye motisha, mwendo endelevu, na timu zinazojipanga zenyewe. Kanuni za ITIL hazitaji hali za kazi za watu moja kwa moja, ingawa nyanja ya "mashirika na watu" kinazifunika (tazama Mada 2.5 — Nyanja Nne za Usimamizi wa Huduma).
 - **ITIL inasisitiza uwazi.** "Shirikiana na kuendeleza uwazi" inaomba kushiriki kwa uwazi. Timu za agile hufanya hivi kwa mbao na maonyesho, lakini zinaweza kuacha makundi yanayounga mkono huduma.
 - **Agile inasisitiza ubora wa kiufundi.** Kanuni ya agile ya ubora wa kiufundi haina mwenzake wa moja kwa moja, ingawa "boresha na weka kiotomatiki" inahusiana.
 
@@ -143,7 +143,7 @@ Wateja na watumiaji hunufaika kanuni zinapofuatwa: huduma huzingatia thamani yao
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Ufahamu | Watu wachache wanajua kanuni | Baadhi ya timu zinazijua na kuzinukuu | Timu zote zinajua orodha ya pamoja na usomaji rahisi | Matumizi ya kanuni katika maamuzi hupitiwa | Timu, wasambazaji na wateja hushiriki lugha ileile ya kanuni |
 | Matumizi katika maamuzi | Maamuzi yanategemea mazoea au mamlaka | Baadhi ya mapendekezo hukaguliwa dhidi ya kanuni | Mapendekezo yanajumuisha ukaguzi mfupi wa kanuni | Ukaguzi wa kanuni hulinganishwa na matokeo | Kanuni huunda maamuzi katika shirika zima kama kawaida |

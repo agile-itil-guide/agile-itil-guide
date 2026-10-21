@@ -154,7 +154,7 @@ Wateja huona faida ya mbinu za agile kama uboreshaji unaoonekana kwa mdundo thab
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Utoaji endelevu wa programu | Kazi hutolewa kwa matoleo makubwa | Baadhi ya timu hutoa kwa mizunguko mifupi | Timu zinashiriki mdundo wa kawaida wa utoaji na ufafanuzi wa kukamilika | Muda wa kukamilisha na matokeo ya matoleo hupimwa na kupitiwa | Midundo ya matoleo huratibiwa katika timu na wasambazaji |
 | Mazoea ya uhandisi | Majaribio na ujenzi kwa kiasi kikubwa ni wa mkono | Baadhi ya timu zina majaribio na ujenzi wa kiotomatiki | Bomba la pamoja huendesha majaribio kwa kila badiliko | Ufunikaji wa majaribio na viwango vya kushindwa hufuatiliwa na mapengo hurekebishwa | Mabomba na mazoea huboreshwa katika timu kutokana na ushahidi wa pamoja |

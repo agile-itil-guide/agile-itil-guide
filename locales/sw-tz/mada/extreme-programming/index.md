@@ -144,7 +144,7 @@ Wateja wana jukumu la moja kwa moja zaidi katika XP: ni sehemu ya mzunguko wa ma
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Majaribio | Majaribio ni ya mkono na ya kuchelewa | Baadhi ya timu zina majaribio ya vipimo ya kiotomatiki | Timu huandika majaribio pamoja na msimbo na kuyaendesha kwa kila badiliko | Matokeo ya majaribio na kasoro zilizotoroka hufuatiliwa na kupitiwa | Mkakati wa majaribio huratibiwa katika huduma na kushirikiwa na uendeshaji |
 | Uunganishaji na toleo | Uunganishaji ni wa nadra na matoleo ni makubwa | Baadhi ya timu hutumia uunganishaji endelevu | Bomba la pamoja hujenga, hujaribu na kupeleka kila badiliko | Mzunguko wa matoleo na kiwango cha kushindwa hupimwa na kuboreshwa | Mabomba huratibiwa katika timu na wasambazaji |

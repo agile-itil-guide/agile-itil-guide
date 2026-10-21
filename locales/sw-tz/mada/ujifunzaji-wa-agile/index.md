@@ -147,7 +147,7 @@ Wateja hunufaika wafanyakazi wa huduma wanapoendelea kujifunza, ingawa mara chac
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Kupanga kujifunza | Kujifunza ni bila mpangilio na kunaachiwa watu binafsi | Baadhi ya timu huweka malengo ya kujifunza | Timu hupanga kujifunza kwa mizunguko mifupi yenye malengo yaliyofungamana na kazi | Malengo ya kujifunza hupitiwa dhidi ya uwezo na matokeo | Vipaumbele vya kujifunza huratibiwa katika timu na washirika |
 | Msaada na majukumu | Hakuna anayewajibika kwa kujifunza | Baadhi ya timu zina mkufunzi asiye rasmi | Kila timu ina mfadhili na mkufunzi wenye muda wa kutenda | Ufanisi wa ukufunzi na wafadhili hupitiwa | Wakufunzi na jumuiya za mazoezi huunga mkono kujifunza katika timu |

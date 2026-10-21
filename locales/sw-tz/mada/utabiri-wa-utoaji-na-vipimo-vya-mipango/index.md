@@ -25,7 +25,7 @@ Aina mbili za utabiri ni za kawaida:
 
 Kanban Guide inafafanua vipimo vinne, na ndivyo malighafi ya utabiri wa utoaji:
 
-| Kipimo | Kinakuambia nini | Kinalisha vipi utabiri |
+| Nyanja | Kinakuambia nini | Kinalisha vipi utabiri |
 |---|---|---|
 | **Muda wa mzunguko (cycle time)** | Kipengele kilichokamilika kilichukua muda gani kutoka kuanza hadi kumaliza | Usambaaji wa nyakati za mzunguko za hivi karibuni unatoa kipindi cha muda ambao kipengele kipya kitachukua |
 | **Kiwango cha kukamilisha (throughput)** | Vipengele vingapi vilikamilika katika kipindi | Kipindi cha viwango vya hivi karibuni kinatoa kipindi cha kiasi kitakachokamilika katika kipindi cha baadaye |
@@ -151,7 +151,7 @@ Wateja na watumiaji hunufaika kwa matarajio wazi zaidi na tarehe chache zilizoko
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Utabiri | Tarehe hutokana na maoni | Baadhi ya timu hutumia data ya zamani | Timu hutabiri kama vipindi kutokana na data yao ya mtiririko | Usahihi wa utabiri hufuatiliwa na mbinu huboreshwa | Utabiri huratibiwa katika timu na wasambazaji |
 | Vipimo vya mtiririko | Vipimo vichache hukusanywa | Baadhi ya timu hurekodi muda wa mzunguko au kiwango cha kukamilisha | Vipimo vinne vya mtiririko hukusanywa kwa uthabiti | Vipimo hupitiwa na kutumika kuweka matarajio | Data ya mtiririko hushirikiwa katika timu na kutumika kupanga pamoja |

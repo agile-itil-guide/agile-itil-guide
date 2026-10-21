@@ -46,7 +46,7 @@ Wikipedia inafuatilia umiliki hivi. CCTA ilianzisha ITIL. Aprili 2001 CCTA iliun
 ITIL 4, iliyotolewa mwaka 2019, inaelezwa katika mada zinazofuata, kuanzia Mada 2.3 — Mfumo wa Thamani ya Huduma wa ITIL. Kwa muhtasari, ina:
 
 - **mfumo wa thamani ya huduma (SVS)**, modeli ya jinsi sehemu za shirika zinavyofanya kazi pamoja kuunda thamani;
-- **vipimo vinne** vya usimamizi wa huduma, ambavyo ukurasa wa PeopleCert wa ITIL 4 Foundation unaviorodhesha kama mashirika na watu, taarifa na teknolojia, washirika na wasambazaji, na mitiririko ya thamani na michakato;
+- **nyanja nne** za usimamizi wa huduma, ambavyo ukurasa wa PeopleCert wa ITIL 4 Foundation unaviorodhesha kama mashirika na watu, taarifa na teknolojia, washirika na wasambazaji, na mitiririko ya thamani na michakato;
 - **kanuni saba elekezi**, ambazo Wikipedia inaziorodhesha kama zingatia thamani; anza ulipo; endelea kwa kurudiarudia na maoni; shirikiana na kuendeleza uwazi; fikiri na ufanye kazi kwa jumla; weka rahisi na ya kivitendo; na boresha na weka kiotomatiki;
 - **mnyororo wa thamani ya huduma** wa shughuli, ambao muhtasari unaotumiwa sana na watoa mafunzo unaziorodhesha kama panga, boresha, shirikisha, sanifu na hamisha, pata/jenga, na toa na unga mkono;
 - seti ya **mazoea**, ambayo Wikipedia inayahesabu kuwa 34, yaliyogawanywa katika mazoea 22 ya usimamizi wa bidhaa na huduma na 12 ya usimamizi wa jumla.
@@ -147,7 +147,7 @@ Wateja na watumiaji mara chache hujali mtoa huduma anafuata toleo gani la ITIL. 
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Uelewa wa ITIL | Wafanyakazi wanajua jina na kidogo zaidi | Watu wengine wamefunzwa na hutumia msamiati wa ITIL | Timu zinashiriki usomaji ulioandikwa wa mawazo gani ya ITIL wanayotumia na toleo gani | Matumizi ya mawazo ya ITIL hupitiwa dhidi ya matokeo | Timu, wasambazaji na wateja hutumia msamiati wa pamoja na kuupitia pamoja |
 | Kurekebisha zoezi | Michakato inarithiwa na haibadiliki | Baadhi ya timu hurahisisha michakato kienyeji | Kila zoezi lina mmiliki na njia ya mabadiliko | Msuguano wa michakato na matokeo hupimwa | Mazoea hurekebishwa katika timu kwa msingi wa ushahidi wa pamoja |
@@ -221,7 +221,7 @@ Using only the pasted text, list what appears to have changed that might affect 
 
 - **ITIL** (Wikipedia): historia, umiliki, matoleo na uthibitisho wa mfumo, wenye nukuu.
 - **ITIL certifications** (PeopleCert): katalogi ya umma ya mmiliki wa sasa ya uthibitisho wa ITIL 4 na ITIL Version 5; ihakiki kwa hali ya sasa.
-- **ITIL 4 Foundation** (PeopleCert): muhtasari wa mmiliki wa kinachofunikwa na ngazi ya Foundation, ikijumuisha vipimo vinne.
+- **ITIL 4 Foundation** (PeopleCert): muhtasari wa mmiliki wa kinachofunikwa na ngazi ya Foundation, ikijumuisha nyanja nne.
 - **IT service management** (Wikipedia): muktadha kuhusu mahali ITIL ilipo miongoni mwa mifumo na viwango vya ITSM.
 
 ## Marejeo

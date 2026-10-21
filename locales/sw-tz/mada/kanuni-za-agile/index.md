@@ -136,7 +136,7 @@ Kwa wateja, kanuni zinaahidi mabadiliko ya mara kwa mara yenye manufaa na sauti 
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Mdundo wa utoaji (kanuni 1–3) | Matoleo ni nadra na makubwa | Baadhi ya timu hutoa kwa hatua ndogo | Timu zinashiriki mdundo mfupi wa matoleo na njia ya mabadiliko ya kuchelewa | Muda kati ya matoleo na muda wa kukamilisha hufuatiliwa na kupitiwa | Midundo ya matoleo huratibiwa katika huduma na wasambazaji |
 | Ushirikiano (kanuni 4–6) | Wafanyakazi wa biashara na wa kiufundi hukutana kwenye hatua kuu | Baadhi ya timu hukutana kila siku na wawakilishi wa biashara | Kila huduma ina mmiliki aliyetajwa na mawasiliano ya kawaida na watumiaji wake | Mapengo ya ushirikiano hupatikana katika mapitio na kurekebishwa | Wateja na wasambazaji hushiriki katika upangaji na mapitio ya matukio |

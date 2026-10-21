@@ -42,9 +42,9 @@ Mazoea ni uwezo ambao shirika huuchota. Vyanzo vinataja mazoea 34, kama usimamiz
 
 Katika mazingira ya agile, zoezi si hati ya mchakato. Ni rasilimali, iliyotengenezwa kwa watu, taarifa, teknolojia na njia za kufanya kazi, ambayo timu inaweza kuitumia. Zoezi lilelile linaweza kuonekana katika mitiririko mingi ya thamani.
 
-### SVS inahusianaje na vipimo vinne
+### SVS inahusianaje na nyanja nne
 
-PeopleCert inaorodhesha vipimo vinne vya usimamizi wa huduma: mashirika na watu, taarifa na teknolojia, washirika na wasambazaji, na mitiririko ya thamani na michakato. Vinatumika kwa kila sehemu ya SVS. Zoezi, shughuli ya mnyororo wa thamani, au kanuni elekezi kila moja inaweza kuchunguzwa kupitia vipimo vinne kuona kinachokosekana: labda ujuzi, labda zana, labda mpangilio wa msambazaji, labda mtiririko ulioainishwa wa kazi (tazama Mada 2.5 — Vipimo Vinne vya Usimamizi wa Huduma).
+PeopleCert inaorodhesha nyanja nne za usimamizi wa huduma: mashirika na watu, taarifa na teknolojia, washirika na wasambazaji, na mitiririko ya thamani na michakato. Zinatumika kwa kila sehemu ya SVS. Zoezi, shughuli ya mnyororo wa thamani, au kanuni elekezi kila moja inaweza kuchunguzwa kupitia nyanja nne kuona kinachokosekana: labda ujuzi, labda zana, labda mpangilio wa msambazaji, labda mtiririko ulioainishwa wa kazi (tazama Mada 2.5 — Nyanja Nne za Usimamizi wa Huduma).
 
 ### SVS si nini
 
@@ -111,7 +111,7 @@ Timu za utoaji zinaweza kutumia SVS kuona njia nzima kutoka mahitaji hadi thaman
 
 ### Timu za huduma na uendeshaji
 
-Timu za uendeshaji hubeba mazoea mengi ya SVS. Tumia modeli kuonyesha jinsi mazoea yako yanavyohudumia mitiririko ya thamani na si malengo ya ndani tu. Eleza unachohitaji kutoka kwa timu za utoaji na wasambazaji, na utumie vipimo vinne kueleza mapengo.
+Timu za uendeshaji hubeba mazoea mengi ya SVS. Tumia modeli kuonyesha jinsi mazoea yako yanavyohudumia mitiririko ya thamani na si malengo ya ndani tu. Eleza unachohitaji kutoka kwa timu za utoaji na wasambazaji, na utumie nyanja nne kueleza mapengo.
 
 ### Uongozi na utawala
 
@@ -127,14 +127,14 @@ Wateja na watumiaji hutoa mahitaji na hupokea thamani. Tarajia kuulizwa thamani 
 - **Kuchukulia mazoea kama michakato kwa mfululizo.** Timu huendesha mpangilio mkali wa hatua kwa kila kitu. Badala yake, changanya mazoea kuwa mitiririko ya thamani inayofaa hali.
 - **Kupuuza fursa.** Mahitaji pekee ndiyo yanafuatiliwa, na mawazo ya uboreshaji hayapati muda. Badala yake, weka orodha inayoonekana ya fursa na uipitie.
 - **Utawala usio wazi.** Hakuna anayejua nani anaamua. Badala yake, andika mwelekeo, mipaka na haki za kuamua kwa lugha rahisi.
-- **Kuboresha kipengele kimoja.** Maktaba nzuri ya mazoea haisaidii kama mtiririko wa thamani umevunjika. Badala yake, kagua vipengele vyote na vipimo vyote vinne.
+- **Kuboresha kipengele kimoja.** Maktaba nzuri ya mazoea haisaidii kama mtiririko wa thamani umevunjika. Badala yake, kagua vipengele vyote na nyanja zote nne.
 - **Kuchanganya muhtasari na mfumo.** Slaidi ya mafunzo inachukuliwa kuwa fasili. Badala yake, tumia machapisho ya mmiliki usahihi unapojalisha.
 - **Hakuna kipimo cha thamani.** Timu huripoti shughuli na haziwezi kuonyesha faida. Badala yake, chagua angalau kipimo kimoja kinachoakisi watumiaji wanachopata.
 - **Kunakili modeli kwenye kila hati.** Matumizi kupita kiasi huzaa kejeli. Badala yake, itumie kwa ufupi pale inaposaidia na uache kazi ya kila siku ionyeshe matokeo.
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Thamani na mahitaji | Thamani inadhaniwa; mahitaji yanashughulikiwa yanapofika | Baadhi ya huduma zinataja thamani yao | Kila huduma ina thamani iliyotajwa na njia ya kuona mahitaji na fursa | Thamani na mahitaji hupimwa na kupitiwa | Thamani hufafanuliwa pamoja na wateja na mahitaji hupangwa kwa pamoja |
 | Vipengele vilivyopo | Vipengele vipo kwa bahati | Baadhi ya vipengele vimeandikwa | Vipengele vitano vimeelezwa na vina wamiliki | Afya ya vipengele hupitiwa na mapengo hupangwa | Vipengele hurekebishwa katika timu na wasambazaji hali zinapobadilika |
@@ -149,7 +149,7 @@ Wateja na watumiaji hutoa mahitaji na hupokea thamani. Tarajia kuulizwa thamani 
 - [ ] Utawala (mwelekeo, mipaka, haki za kuamua) umeandikwa kwa lugha rahisi.
 - [ ] Tumechora ramani ya angalau mtiririko mmoja wa thamani katika timu.
 - [ ] Mazoea ni rasilimali za pamoja zenye wamiliki, hayarudiwi na kila timu.
-- [ ] Tunakagua vipimo vinne tunapotambua tatizo.
+- [ ] Tunakagua nyanja nne tunapotambua tatizo.
 - [ ] Kuna orodha inayoonekana ya uboreshaji yenye wamiliki na tarehe.
 - [ ] Tunatumia machapisho ya mmiliki wa mfumo kwa fasili kamili.
 - [ ] Ramani hupitiwa angalau mara moja kwa mwaka.
@@ -208,7 +208,7 @@ Produce a simple text diagram of the stream. Mark each handoff and each wait, us
 
 ## Vyanzo muhimu
 
-- **ITIL 4 Foundation** (PeopleCert): ukurasa wa mmiliki unaoorodhesha mfumo wa thamani ya huduma na vipimo vinne miongoni mwa mada zinazosomwa.
+- **ITIL 4 Foundation** (PeopleCert): ukurasa wa mmiliki unaoorodhesha mfumo wa thamani ya huduma na nyanja nne miongoni mwa mada zinazosomwa.
 - **ITIL** (Wikipedia): historia ya ITIL 4 na idadi ya mazoea, pamoja na dokezo kuhusu kuhama kutoka modeli ya mzunguko wa maisha.
 - **Service value system explainer** (Purple Griffon): muhtasari wa mtoa mafunzo wa vipengele; wenye manufaa, lakini wa pili.
 - **The ITIL 4 Service Value System** (ManageEngine): muhtasari wa muuzaji wa programu; wenye manufaa kwa muhtasari wa haraka, lakini wa pili.

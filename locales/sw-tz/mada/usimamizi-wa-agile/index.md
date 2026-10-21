@@ -137,7 +137,7 @@ Wateja hunufaika mameneja wanaposikiliza matokeo na si mipango tu. Omba kuwa seh
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Malengo na upangaji | Mipango ni ya kila mwaka na ya kina | Baadhi ya timu hutumia mipango mifupi na malengo ya matokeo | Malengo ya matokeo na upangaji wa kipindi kifupi ni wa kawaida | Maendeleo ya malengo hupitiwa na mipango hubadilika kwa ushahidi | Malengo huoanishwa katika timu, wateja na wasambazaji kila mara |
 | Haki za kuamua | Mameneja huamua mambo mengi | Baadhi ya maamuzi hukabidhiwa kwa njia isiyo rasmi | Mipaka ya maamuzi imeandikwa kwa kila timu | Maamuzi na matokeo yake hupitiwa | Haki za kuamua hubadilika katika shirika kutokana na ushahidi |

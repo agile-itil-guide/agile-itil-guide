@@ -156,7 +156,7 @@ Wateja hufafanua thamani katika fikra ya lean, na huhisi upotevu kama kuchelewa.
 
 ## Modeli ya ukomavu
 
-| Kipimo | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
+| Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
 | Kuona upotevu | Upotevu unahisiwa lakini haujaelezwa | Baadhi ya timu huchora ramani ya kazi yao | Timu hutumia kategoria za upotevu zilizoshirikiwa na ramani za mtiririko wa thamani | Kusubiri na kurudia kazi hupimwa kando ya mtiririko wa thamani | Ramani na vipimo vinavuka timu na wasambazaji |
 | Mtiririko na kuvuta | Kazi inasukumwa na kuanzishwa kwa wingi | Baadhi ya timu hudhibiti kazi inayoendelea | Kanuni za kuvuta na mipaka ni za kawaida | Vipimo vya mtiririko huongoza mabadiliko ya mipaka na sera | Mtiririko huratibiwa katika mkondo mzima |
