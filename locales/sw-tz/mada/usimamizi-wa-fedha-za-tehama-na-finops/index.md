@@ -53,11 +53,11 @@ Bili ya jumla inasema kidogo. Gawanya gharama kwa kitu chenye maana kwa biashara
 
 ### Gharama, kutegemewa, na kasi
 
-Fedha hununua kutegemewa na kasi, na kila ngazi ya ziada ina bei (tazama Mada 3.11 — Upatikanaji, Uwezo na Utendaji). Timu inayopunguza gharama bila uangalifu inaweza kupunguza ustahimilivu. Timu isiyotazama gharama kamwe inaweza kujenga kupita kiasi. Mazungumzo ya FinOps ni mahali pa kufanya mabadilishano hayo kuwa wazi, huku wahandisi wakieleza chaguzi na fedha na biashara wakizipima.
+Fedha hununua kutegemewa na kasi, na kila ngazi ya ziada ina bei (tazama Mada 3.11 — Upatikanaji, Uwezo, na Utendaji). Timu inayopunguza gharama bila uangalifu inaweza kupunguza ustahimilivu. Timu isiyotazama gharama kamwe inaweza kujenga kupita kiasi. Mazungumzo ya FinOps ni mahali pa kufanya mabadilishano hayo kuwa wazi, huku wahandisi wakieleza chaguzi na fedha na biashara wakizipima.
 
 ### Utawala na hatari
 
-Udhibiti wa kifedha unajumuisha bajeti na tahadhari, idhini kwa ahadi kubwa, mipaka ya nani anaweza kuunda rasilimali ghali, na mapitio ya mara kwa mara. Ahadi kwa watoa huduma, kama mikataba ya muda mrefu ya ununuzi, inaweza kupunguza gharama na kuongeza hatari matumizi yakipungua. Haya ni maamuzi kwa fedha, ununuzi, na uhandisi pamoja (tazama Mada 5.7 — Utawala, Hatari na Uzingatiaji na Mada 3.14 — Usimamizi wa Wasambazaji).
+Udhibiti wa kifedha unajumuisha bajeti na tahadhari, idhini kwa ahadi kubwa, mipaka ya nani anaweza kuunda rasilimali ghali, na mapitio ya mara kwa mara. Ahadi kwa watoa huduma, kama mikataba ya muda mrefu ya ununuzi, inaweza kupunguza gharama na kuongeza hatari matumizi yakipungua. Haya ni maamuzi kwa fedha, ununuzi, na uhandisi pamoja (tazama Mada 5.7 — Utawala, Hatari, na Uzingatiaji na Mada 3.14 — Usimamizi wa Wasambazaji).
 
 ### Mipaka ya vyanzo
 
