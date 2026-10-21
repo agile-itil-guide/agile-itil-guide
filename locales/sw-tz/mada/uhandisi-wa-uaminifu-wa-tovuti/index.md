@@ -92,7 +92,7 @@ Makala ya Wikipedia hayataji ukosoaji, gharama, wala njia za kushindwa, na kitab
 ## Mazoea bora
 
 1. **Chagua huduma moja na uweke lengo.** Chagua viashiria viwili hadi vinne vinavyoakisi uzoefu wa mtumiaji, weka lengo la kwanza lisilobana, na upime kwa miezi michache kabla ya kulibana.
-2. **Kubaliana sera ya bajeti ya makosa.** Andika nini kinatokea bajeti inapokaribia kwisha na inapokwisha, na nani anaweza kupitisha. Ifanye kanuni ya pamoja ya bidhaa na uendeshaji.
+2. **Kubaliana sera ya bajeti ya makosa.** Andika nini kinatokea bajeti inapokaribia kwisha na inapokwisha, na nani anaweza kupuuza. Ifanye kanuni ya pamoja ya bidhaa na uendeshaji.
 3. **Pima toil.** Waombe watu kurekodi kiasi cha muda wao kinachoenda kwa kazi ya uendeshaji ya mkono, inayojirudia. Tumia sifa sita kuiainisha. Tazama vyanzo vikuu.
 4. **Weka kikomo cha kazi ya mkono.** Weka dari ya toil, kama nusu ya muda wa mtu, na uipitie. Kikomo kinapozidiwa, rudisha kazi ya ziada kwa timu zinazomiliki sababu au punguza wigo.
 5. **Weka toil kubwa zaidi kiotomatiki kwanza.** Chagua kipengee kinachogharimu muda mwingi zaidi na kinachojirudia zaidi, kiweke kiotomatiki kwa majaribio, na upime akiba. Pendelea kubuni hitaji liondoke kuliko kulifanya kiotomatiki.
@@ -136,7 +136,7 @@ Msambazaji wa umeme wa kikanda anaendesha programu ya kuripoti kukatika kwa umem
 
 Kiongozi wa timu anapendekeza mbinu iliyovuviwa na SRE. Kwa programu ya kuripoti kukatika, timu inaweka viashiria viwili: sehemu ya mawasilisho ya ripoti yanayofanikiwa na muda wa kuonyesha uthibitisho. Inakubaliana lengo lisilobana na bajeti ya makosa ya kila mwezi na meneja wa huduma kwa wateja, na kuandika sera ya ukurasa mmoja: zaidi ya robo tatu ya bajeti inapotumika, matoleo ya hatari husubiri. Timu inawaomba wahandisi wahifadhi kumbukumbu ya toil kwa mwezi. Kumbukumbu inaonyesha theluthi moja ya muda wao inaenda kuanzisha upya kazi ya kuingiza data inayoshindwa na marekebisho ya mkono baada ya dhoruba, mahitaji yanapopanda. Wanaweka kikomo cha nusu ya muda wao kwa toil, wanaamua kurekebisha chanzo cha kazi ya kuingiza data kwanza, na kuweka kiotomatiki marekebisho ya dhoruba kwa hati yenye mipaka na kumbukumbu. Miito inarekebishwa ili dalili zinazoonekana kwa mtumiaji tu zimwite mhandisi aliye kwenye mwito wa dharura.
 
-Miezi minne baadaye, toil inashuka hadi takriban theluthi ya muda wa timu, kazi ya kuingiza data haishindwi tena, na sera ya bajeti ya makosa imetumika mara moja, katika mwezi wenye kukatika kwa msambazaji, kuahirisha toleo la kipengele. Ugumu unabaki. Mfumo wa kutuma wafanyakazi bado hauna malengo, na meneja wa huduma kwa wateja ameshawishika mara mbili kupuuza sera ya bajeti kwa vipengele vya dharura. Kiongozi wa timu na meneja wanakubaliana kupitia kila kupuuza kila mwezi na kuweka malengo kwa mfumo wa kutuma wafanyakazi baadaye. Pia wanajifunza kuwa "kikomo" ni mwongozo, si ahadi: baada ya dhoruba kubwa, toil ilipanda zaidi ya nusu kwa wiki mbili, na wanalazimika kuamua nini cha kukata.
+Miezi minne baadaye, toil inashuka hadi takriban theluthi ya muda wa timu, kazi ya kuingiza data haishindwi tena, na sera ya bajeti ya makosa imetumika mara moja, katika mwezi wenye kukatika kwa msambazaji, kuahirisha toleo la kipengele. Ugumu unabaki. Mfumo wa kutuma wafanyakazi bado hauna malengo, na meneja wa huduma kwa wateja ameshawishika mara mbili kupuuza sera ya bajeti kwa vipengele vya dharura. Kiongozi wa timu na meneja wanakubaliana kupitia kila kupuuza sera kila mwezi na kuweka malengo kwa mfumo wa kutuma wafanyakazi baadaye. Pia wanajifunza kuwa "kikomo" ni mwongozo, si ahadi: baada ya dhoruba kubwa, toil ilipanda zaidi ya nusu kwa wiki mbili, na wanalazimika kuamua nini cha kukata.
 
 ## Mitazamo minne
 
@@ -159,7 +159,7 @@ Wateja na watumiaji hunufaika na viwango wazi vya huduma na kupona kwa haraka ma
 ## Sababu za kawaida za kushindwa
 
 - **Kunakili cheo.** Uendeshaji unapewa jina jipya na hakuna kinachobadilika. Badala yake, pokea malengo, bajeti, na vipimo vya toil kwanza.
-- **Bajeti ya makosa ambayo hakuna anayeiheshimu.** Vipengele huipitisha kila mara. Badala yake, kubaliana kanuni na wamiliki wa bidhaa na upitie mapitisho.
+- **Bajeti ya makosa ambayo hakuna anayeiheshimu.** Vipengele huipuuza kila mara. Badala yake, kubaliana kanuni na wamiliki wa bidhaa na upitie kila kupuuza.
 - **Hakuna muda wa uhandisi.** Toil inajaza wiki. Badala yake, iwekee kikomo na ulinde muda wa miradi.
 - **Kuweka kiotomatiki kitu kisicho sahihi.** Kazi ya nadra inawekwa kiotomatiki huku ya mara kwa mara ikibaki. Badala yake, panga kwa muda na mara kwa mara.
 - **Shabaha za ukamilifu.** Malengo yanadai asilimia 100. Badala yake, weka shabaha zisizobana kutoka mahitaji ya watumiaji na ubane kwa data.
@@ -171,7 +171,7 @@ Wateja na watumiaji hunufaika na viwango wazi vya huduma na kupona kwa haraka ma
 
 | Nyanja | Kuanza | Kukua | Kusanifisha | Kusimamia | Kuratibu |
 |---|---|---|---|---|---|
-| Malengo na bajeti | Malengo ya kutegemewa si rasmi | Baadhi ya huduma zina malengo | Huduma muhimu zina malengo na sera ya bajeti ya makosa iliyokubaliwa | Bajeti huongoza matoleo na mapitisho ya sera hupitiwa | Malengo na bajeti zimeoanishwa katika huduma tegemezi |
+| Malengo na bajeti | Malengo ya kutegemewa si rasmi | Baadhi ya huduma zina malengo | Huduma muhimu zina malengo na sera ya bajeti ya makosa iliyokubaliwa | Bajeti huongoza matoleo na kupuuza sera kunapitiwa | Malengo na bajeti zimeoanishwa katika huduma tegemezi |
 | Toil na otomatiki | Toil haipimwi | Baadhi ya timu hukadiria toil | Toil hupimwa na kuwekewa kikomo; kazi ya otomatiki imepangwa | Vyanzo vya toil na akiba hufuatiliwa na kupunguzwa | Otomatiki hushirikiwa na toil hupunguzwa katika timu |
 | Mwitikio wa dharura | Mwitikio hubuniwa papo hapo | Baadhi ya miongozo ya kazi na ratiba zipo | Majukumu, miongozo ya kazi, na mapitio ya baada ya tukio bila lawama ni sanifu | Mzigo wa matukio na muda wa kurekebisha hupimwa na kuboreshwa | Mwitikio hufanyiwa mazoezi na kuratibiwa katika timu na wasambazaji |
 | Mabadiliko na uwezo | Mabadiliko ni ya hatari na ya mkono | Baadhi ya usambazaji ni wa hatua | Usambazaji wa taratibu na upangaji wa uwezo ni wa kawaida | Kushindwa kwa mabadiliko na utabiri wa uwezo hupimwa | Mazoea ya mabadiliko na uwezo hushirikiwa katika shirika zima |
