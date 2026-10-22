@@ -1,0 +1,40 @@
+{
+  "name": "Tiếng Việt (Việt Nam)",
+  "topic_word": "Chủ đề",
+  "topics_word": "Các chủ đề",
+  "h2": {
+    "Why this matters": "Vì sao điều này quan trọng",
+    "Core concepts": "Các khái niệm cốt lõi",
+    "Best practices": "Thực hành tốt",
+    "Questions to discuss with your team": "Câu hỏi để thảo luận với nhóm của bạn",
+    "In practice: an agile ITIL example": "Trong thực tế: một ví dụ agile ITIL",
+    "Four perspectives": "Bốn góc nhìn",
+    "Common failure modes": "Các kiểu thất bại thường gặp",
+    "Maturity model": "Mô hình trưởng thành",
+    "Checklist": "Danh mục kiểm tra",
+    "AI prompts": "Lời nhắc AI",
+    "AI skills": "Kỹ năng AI",
+    "Key sources": "Nguồn chính",
+    "References": "Tài liệu tham khảo"
+  },
+  "h3": {
+    "Product and delivery teams": "Nhóm sản phẩm và phân phối",
+    "Service and operations teams": "Nhóm dịch vụ và vận hành",
+    "Leadership and governance": "Lãnh đạo và quản trị",
+    "Customers and users": "Khách hàng và người dùng"
+  },
+  "maturity": {
+    "Initiate": "Khởi đầu",
+    "Develop": "Phát triển",
+    "Standardize": "Chuẩn hóa",
+    "Manage": "Quản lý",
+    "Orchestrate": "Điều phối"
+  },
+  "dirs": {
+    "topics": "chủ-đề",
+    "glossary": "bảng-chú-giải",
+    "index": "chỉ-mục",
+    "terminology": "đối-chiếu-thuật-ngữ",
+    "contents": "nội-dung"
+  }
+}
