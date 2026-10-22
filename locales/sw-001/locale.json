@@ -1,0 +1,40 @@
+{
+  "name": "Kiswahili (Tanzania)",
+  "topic_word": "Mada",
+  "topics_word": "Mada",
+  "h2": {
+    "Why this matters": "Kwa nini hili ni muhimu",
+    "Core concepts": "Dhana kuu",
+    "Best practices": "Mazoea bora",
+    "Questions to discuss with your team": "Maswali ya kujadili na timu yako",
+    "In practice: an agile ITIL example": "Kwa vitendo: mfano wa agile ITIL",
+    "Four perspectives": "Mitazamo minne",
+    "Common failure modes": "Sababu za kawaida za kushindwa",
+    "Maturity model": "Modeli ya ukomavu",
+    "Checklist": "Orodha hakiki",
+    "AI prompts": "Maelekezo ya AI",
+    "AI skills": "Ujuzi wa AI",
+    "Key sources": "Vyanzo muhimu",
+    "References": "Marejeo"
+  },
+  "h3": {
+    "Product and delivery teams": "Timu za bidhaa na utoaji",
+    "Service and operations teams": "Timu za huduma na uendeshaji",
+    "Leadership and governance": "Uongozi na utawala",
+    "Customers and users": "Wateja na watumiaji"
+  },
+  "maturity": {
+    "Initiate": "Kuanza",
+    "Develop": "Kukua",
+    "Standardize": "Kusanifisha",
+    "Manage": "Kusimamia",
+    "Orchestrate": "Kuratibu"
+  },
+  "dirs": {
+    "topics": "mada",
+    "glossary": "faharasa",
+    "index": "kielezo",
+    "terminology": "istilahi",
+    "contents": "yaliyomo"
+  }
+}
