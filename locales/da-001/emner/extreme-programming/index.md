@@ -60,9 +60,9 @@ Hvad angår skala, siger artiklen, at Industrial XP, introduceret i 2004, udvide
 
 Artiklen diskuterer ikke deployment eller produktionsovervågning ud over kontinuerlig integration og små releases. XP siger lidt om at drive software. Det bringer du fra servicestyringen, og du bruger XP til at gøre overdragelsen mindre risikabel.
 
-### XP og ITIL's syn på ændring
+### XP og ITILs syn på ændring
 
-ITIL's praksis for ændringsunderstøttelse (se Emne 3.4 — Ændringsunderstøttelse) handler om at sikre, at ændringer vurderes, godkendes og planlægges, så risikoen kontrolleres. XP kontrollerer risiko et andet sted: i koden, gennem tests, små skridt og delt viden. En ændring, der er lille, automatisk testet, integreret og let at fortryde, er en ændring med lavere risiko efter enhver rimelig vurdering. De to syn passer sammen, når evidensen fra XP's praksisser bruges i ændringsbeslutningen.
+ITILs praksis for ændringsunderstøttelse (se Emne 3.4 — Ændringsunderstøttelse) handler om at sikre, at ændringer vurderes, godkendes og planlægges, så risikoen kontrolleres. XP kontrollerer risiko et andet sted: i koden, gennem tests, små skridt og delt viden. En ændring, der er lille, automatisk testet, integreret og let at fortryde, er en ændring med lavere risiko efter enhver rimelig vurdering. De to syn passer sammen, når evidensen fra XP's praksisser bruges i ændringsbeslutningen.
 
 ## God praksis
 

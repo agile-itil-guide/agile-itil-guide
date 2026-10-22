@@ -8,7 +8,7 @@ ITIL er det mest udbredt kendte navn inden for IT-servicestyring (ITSM). Stillin
 
 ITIL har også ændret sig. Det rammeværk, du måske husker, med en livscyklus af servicestrategi, -design, -overgang, -drift og -forbedring, blev i 2019 erstattet af ITIL 4, som blev skrevet for at stemme overens med agile, DevOps og lean arbejdsmåder. I 2026 annoncerede ejeren endnu en version, kaldet ITIL 5. En vejledning, der behandlede ITIL som fast, ville vildlede dig, og det ville en, der behandlede alle versioner som ens, også.
 
-Dette emne beskriver ITILs historie, ejerskab, versioner og certificering, med afsæt i [Wikipedia-artiklen om ITIL](https://en.wikipedia.org/wiki/ITIL) og rammeværksejerens offentlige sider. Det er omhyggeligt med datoer og med, hvad de offentlige kilder faktisk siger. Detaljerne om, hvordan ITIL 4 virker, begynder med Emne 2.3 — ITIL's serviceværdisystem.
+Dette emne beskriver ITILs historie, ejerskab, versioner og certificering, med afsæt i [Wikipedia-artiklen om ITIL](https://en.wikipedia.org/wiki/ITIL) og rammeværksejerens offentlige sider. Det er omhyggeligt med datoer og med, hvad de offentlige kilder faktisk siger. Detaljerne om, hvordan ITIL 4 virker, begynder med Emne 2.3 — ITILs serviceværdisystem.
 
 ## Kernebegreber
 
@@ -43,7 +43,7 @@ Wikipedia sporer ejerskabet som følger. CCTA var ophavet til ITIL. I april 2001
 
 ### ITIL 4 i omrids
 
-ITIL 4, udgivet i 2019, beskrives i de næste emner, fra Emne 2.3 — ITIL's serviceværdisystem og frem. I omrids har det:
+ITIL 4, udgivet i 2019, beskrives i de næste emner, fra Emne 2.3 — ITILs serviceværdisystem og frem. I omrids har det:
 
 - et **serviceværdisystem (SVS)**, modellen for, hvordan en organisations dele arbejder sammen for at skabe værdi;
 - **fire dimensioner** af servicestyring, som PeopleCerts ITIL 4 Foundation-side opregner som organisationer og mennesker, information og teknologi, partnere og leverandører samt værdistrømme og processer;
@@ -74,7 +74,7 @@ ITIL er ikke en standard, du kan bestå eller dumpe, en metodik, du skal følge 
 3. **Tjek ejerens aktuelle publikationer.** Datoer, certificeringsveje og produktnavne ændrer sig. Læs rammeværksejerens sider for den aktuelle tilstand, og stol ikke kun på uddannelsesudbyderes opsummeringer, inklusive denne vejledning.
 4. **Start, hvor I er.** Kortlæg de praksisser, I allerede følger, før I tilføjer nogen. Mange agile teams gør allerede hændelseshåndtering, release og vidensdeling uden at bruge ITILs navne, og navnene kan tilføjes senere.
 5. **Adoptér ordforråd før proces.** Fælles begreber som hændelse, problem, ændring og serviceanmodning hjælper teams med at tale med drift, revision og kunder. Indfør dem først, og tilføj formelle trin kun, hvor en smerte retfærdiggør det.
-6. **Brug ITIL 4's vejledende principper til jeres egne beslutninger.** De er korte og for det meste forenelige med agil og kan tjene som tjekliste for enhver proces. Afprøv en foreslået proces mod "hold det enkelt og praktisk" og "skrid frem iterativt med feedback".
+6. **Brug ITIL 4s vejledende principper til jeres egne beslutninger.** De er korte og for det meste forenelige med agil og kan tjene som tjekliste for enhver proces. Afprøv en foreslået proces mod "hold det enkelt og praktisk" og "skrid frem iterativt med feedback".
 7. **Adskil brug af rammeværket fra certificering.** At uddanne jeres folk i ITIL er nyttigt, men certifikater beviser ikke, at jeres services drives godt. Mål resultater som tid til at genoprette servicen og kundetilfredshed.
 8. **Par kun ITIL med ISO/IEC 20000, når I har brug for ekstern certificering.** Hvis en kunde eller tilsynsmyndighed kræver et certificeret servicestyringssystem, er ISO/IEC-standarden vejen. Ellers er ITIL-vejledning nok (se Emne 2.7 — ITSM-rammeværker og standarder).
 9. **Vær ærlige i det, I påstår.** Sig "vi bruger ideer fra ITIL 4", hvis det er sandt. At påstå compliance med et rammeværk, der ikke har nogen organisatorisk certificering, indbyder til problemer med revisorer og kunder.

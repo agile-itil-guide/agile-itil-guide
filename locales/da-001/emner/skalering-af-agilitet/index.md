@@ -8,7 +8,7 @@ Et enkelt agilt team på op til ti personer kan tale sammen hver dag. En reel se
 
 Flere rammeværker påstår at løse dette. De adskiller sig i størrelse, pris og filosofi, og de vækker stærke meninger. Nogle organisationer adopterer et stort rammeværk som et program og bruger år på udrulningen. Andre skalerer ved at fjerne barrierer og beholde et lille sæt regler. Den ærlige position, støttet af [Wikipedia-artiklen om agil softwareudvikling](https://en.wikipedia.org/wiki/Agile_software_development), er, at meningerne om skaleringsrammeværkers effektivitet er delte, og evidensen er begrænset.
 
-For folk i IT-servicestyring (ITSM) betyder skalering noget, fordi ITIL allerede virker i stor skala. Det beskriver et serviceværdisystem, der forbinder mange praksisser og parter (se Emne 2.3 — ITIL's serviceværdisystem). Spørgsmålet, dette emne hjælper med, er, hvordan man kombinerer de to: hvordan man koordinerer mange agile teams og samtidig beholder de servicestyringspraksisser, der beskytter brugerne, og uden at bygge et andet lag bureaukrati oven på det første.
+For folk i IT-servicestyring (ITSM) betyder skalering noget, fordi ITIL allerede virker i stor skala. Det beskriver et serviceværdisystem, der forbinder mange praksisser og parter (se Emne 2.3 — ITILs serviceværdisystem). Spørgsmålet, dette emne hjælper med, er, hvordan man kombinerer de to: hvordan man koordinerer mange agile teams og samtidig beholder de servicestyringspraksisser, der beskytter brugerne, og uden at bygge et andet lag bureaukrati oven på det første.
 
 ## Kernebegreber
 

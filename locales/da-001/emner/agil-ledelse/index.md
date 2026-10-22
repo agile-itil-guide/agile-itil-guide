@@ -34,7 +34,7 @@ Artiklen opregner de metoder, der hører under paraplyen agil ledelse: Scrum, Sc
 
 ### Fra projekt til produkt og service
 
-Et projekt har en start, en slutning og et omfang. En service har ingen slutdato, og dem, der bygger den, driver og ændrer den også. Et almindeligt skift i agil ledelse er fra at finansiere projekter til at finansiere langlivede teams, der ejer et produkt eller en service, med mål, der ændrer sig, efterhånden som læringen ophobes. Skiftet er svært, fordi budgetter, jobroller og regnskabsregler ofte er knyttet til projekter. ITILs syn på services som et vedvarende forhold til forbrugerne peger i samme retning (se Emne 2.3 — ITIL's serviceværdisystem).
+Et projekt har en start, en slutning og et omfang. En service har ingen slutdato, og dem, der bygger den, driver og ændrer den også. Et almindeligt skift i agil ledelse er fra at finansiere projekter til at finansiere langlivede teams, der ejer et produkt eller en service, med mål, der ændrer sig, efterhånden som læringen ophobes. Skiftet er svært, fordi budgetter, jobroller og regnskabsregler ofte er knyttet til projekter. ITILs syn på services som et vedvarende forhold til forbrugerne peger i samme retning (se Emne 2.3 — ITILs serviceværdisystem).
 
 ### Hvad ledere gør anderledes
 
