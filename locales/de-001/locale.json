@@ -1,0 +1,40 @@
+{
+  "name": "Deutsch (Welt)",
+  "topic_word": "Thema",
+  "topics_word": "Themen",
+  "h2": {
+    "Why this matters": "Warum das wichtig ist",
+    "Core concepts": "Kernkonzepte",
+    "Best practices": "Bewährte Praktiken",
+    "Questions to discuss with your team": "Fragen zur Diskussion im Team",
+    "In practice: an agile ITIL example": "In der Praxis: ein agiles ITIL-Beispiel",
+    "Four perspectives": "Vier Perspektiven",
+    "Common failure modes": "Typische Fehlerbilder",
+    "Maturity model": "Reifegradmodell",
+    "Checklist": "Checkliste",
+    "AI prompts": "KI-Prompts",
+    "AI skills": "KI-Skills",
+    "Key sources": "Wichtige Quellen",
+    "References": "Referenzen"
+  },
+  "h3": {
+    "Product and delivery teams": "Produkt- und Delivery-Teams",
+    "Service and operations teams": "Service- und Betriebsteams",
+    "Leadership and governance": "Führung und Governance",
+    "Customers and users": "Kunden und Nutzer"
+  },
+  "maturity": {
+    "Initiate": "Beginn",
+    "Develop": "Aufbau",
+    "Standardize": "Standardisierung",
+    "Manage": "Steuerung",
+    "Orchestrate": "Orchestrierung"
+  },
+  "dirs": {
+    "topics": "themen",
+    "glossary": "glossar",
+    "index": "stichwortverzeichnis",
+    "terminology": "terminologie",
+    "contents": "inhalt"
+  }
+}
