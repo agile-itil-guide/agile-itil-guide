@@ -1,0 +1,40 @@
+{
+  "name": "Dansk (Verden)",
+  "topic_word": "Emne",
+  "topics_word": "Emner",
+  "h2": {
+    "Why this matters": "Hvorfor det betyder noget",
+    "Core concepts": "Kernebegreber",
+    "Best practices": "God praksis",
+    "Questions to discuss with your team": "Spørgsmål til diskussion i teamet",
+    "In practice: an agile ITIL example": "I praksis: et agilt ITIL-eksempel",
+    "Four perspectives": "Fire perspektiver",
+    "Common failure modes": "Almindelige fejlmønstre",
+    "Maturity model": "Modenhedsmodel",
+    "Checklist": "Tjekliste",
+    "AI prompts": "AI-prompts",
+    "AI skills": "AI-skills",
+    "Key sources": "Vigtigste kilder",
+    "References": "Referencer"
+  },
+  "h3": {
+    "Product and delivery teams": "Produkt- og leveranceteams",
+    "Service and operations teams": "Service- og driftsteams",
+    "Leadership and governance": "Ledelse og governance",
+    "Customers and users": "Kunder og brugere"
+  },
+  "maturity": {
+    "Initiate": "Igangsætte",
+    "Develop": "Udvikle",
+    "Standardize": "Standardisere",
+    "Manage": "Styre",
+    "Orchestrate": "Orkestrere"
+  },
+  "dirs": {
+    "topics": "emner",
+    "glossary": "ordliste",
+    "index": "indeks",
+    "terminology": "terminologi",
+    "contents": "indhold"
+  }
+}
