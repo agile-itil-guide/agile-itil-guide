@@ -1,0 +1,40 @@
+{
+  "name": "Nederlands (Wereld)",
+  "topic_word": "Onderwerp",
+  "topics_word": "Onderwerpen",
+  "h2": {
+    "Why this matters": "Waarom dit ertoe doet",
+    "Core concepts": "Kernconcepten",
+    "Best practices": "Goede praktijken",
+    "Questions to discuss with your team": "Vragen om met je team te bespreken",
+    "In practice: an agile ITIL example": "In de praktijk: een agile ITIL-voorbeeld",
+    "Four perspectives": "Vier perspectieven",
+    "Common failure modes": "Veelvoorkomende faalpatronen",
+    "Maturity model": "Volwassenheidsmodel",
+    "Checklist": "Checklist",
+    "AI prompts": "AI-prompts",
+    "AI skills": "AI-vaardigheden",
+    "Key sources": "Belangrijkste bronnen",
+    "References": "Referenties"
+  },
+  "h3": {
+    "Product and delivery teams": "Product- en leveringsteams",
+    "Service and operations teams": "Service- en beheerteams",
+    "Leadership and governance": "Leiderschap en governance",
+    "Customers and users": "Klanten en gebruikers"
+  },
+  "maturity": {
+    "Initiate": "Initiëren",
+    "Develop": "Ontwikkelen",
+    "Standardize": "Standaardiseren",
+    "Manage": "Beheersen",
+    "Orchestrate": "Orkestreren"
+  },
+  "dirs": {
+    "topics": "onderwerpen",
+    "glossary": "woordenlijst",
+    "index": "register",
+    "terminology": "terminologie",
+    "contents": "inhoud"
+  }
+}
