@@ -1,0 +1,40 @@
+{
+  "name": "اردو (دنیا)",
+  "topic_word": "موضوع",
+  "topics_word": "موضوعات",
+  "h2": {
+    "Why this matters": "یہ کیوں اہم ہے",
+    "Core concepts": "بنیادی تصورات",
+    "Best practices": "بہترین طریقے",
+    "Questions to discuss with your team": "ٹیم کے ساتھ بحث کے سوالات",
+    "In practice: an agile ITIL example": "عملی مثال: چابک ITIL کی ایک مثال",
+    "Four perspectives": "چار نقطہ ہائے نظر",
+    "Common failure modes": "ناکامی کی عام صورتیں",
+    "Maturity model": "پختگی کا ماڈل",
+    "Checklist": "جانچ فہرست",
+    "AI prompts": "اے آئی پرامپٹس",
+    "AI skills": "اے آئی سکلز",
+    "Key sources": "اہم ماخذ",
+    "References": "حوالہ جات"
+  },
+  "h3": {
+    "Product and delivery teams": "پروڈکٹ اور ڈیلیوری ٹیمیں",
+    "Service and operations teams": "سروس اور آپریشنز ٹیمیں",
+    "Leadership and governance": "قیادت اور گورننس",
+    "Customers and users": "گاہک اور صارفین"
+  },
+  "maturity": {
+    "Initiate": "آغاز",
+    "Develop": "ترقی",
+    "Standardize": "معیار بندی",
+    "Manage": "انتظام",
+    "Orchestrate": "ہم آہنگی"
+  },
+  "dirs": {
+    "topics": "موضوعات",
+    "glossary": "فرہنگ",
+    "index": "اشاریہ",
+    "terminology": "اصطلاحات",
+    "contents": "مشمولات"
+  }
+}
