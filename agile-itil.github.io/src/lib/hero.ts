@@ -75,6 +75,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Cara kerja agile dan manajemen layanan TI, sebagaimana dikodifikasikan ITIL, sering disajikan sebagai pesaing. Panduan ini memperlakukan keduanya sebagai mitra: setiap topik menunjukkan cara memadukan kecepatan dan perubahan dengan stabilitas dan kendali, lengkap dengan riset, praktik, contoh, gagasan untuk didiskusikan bersama tim, keterampilan AI, dan prompt AI.",
   "translations": "Terjemahan: "
  },
+ "id-id": {
+  "tagline": "Buku pegangan praktis untuk menjalankan layanan TI dengan cara agile.",
+  "intro": "Cara kerja agile dan manajemen layanan TI, sebagaimana dikodifikasikan ITIL, sering disajikan sebagai pesaing. Panduan ini memperlakukan keduanya sebagai mitra: setiap topik menunjukkan cara memadukan kecepatan dan perubahan dengan stabilitas dan kendali, lengkap dengan riset, praktik, contoh, gagasan untuk didiskusikan bersama tim, keterampilan AI, dan prompt AI.",
+  "translations": "Terjemahan: "
+ },
  "ja-001": {
   "tagline": "アジャイルなやり方でITサービスを運用するための実践ハンドブック。",
   "intro": "アジャイルな働き方と、ITILが体系化したITサービスマネジメントは、しばしば対立するものとして語られます。このガイドは両者をパートナーとして扱い、各トピックで、調査、プラクティス、事例、チームで話し合うためのアイデア、AIスキル、AIプロンプトとともに、スピードや変化と安定や統制を両立させる方法を示します。",
@@ -178,6 +183,7 @@ export const ENDONYMS: Record<string, string> = {
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "id-001": "Bahasa Indonesia",
+ "id-id": "Bahasa Indonesia (Indonesia)",
  "ja-001": "日本語",
  "ja-jp": "日本語 (日本)",
  "ko-001": "한국어",
