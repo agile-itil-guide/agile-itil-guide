@@ -1,0 +1,17 @@
+Say hello and tell us how you use Agile ITIL Guide
+
+Welcome to the Agile ITIL Guide Discussions. This is the place for introductions, opinions, and open conversation about the guide.
+
+I am a maintainer of the project. I wrote Agile ITIL Guide because I wanted a practical handbook for running IT services the agile way, with research, practices, examples, ideas to talk about with teams, AI skills, and AI prompts to be easy to find and use. I would like to hear who is reading it and why.
+
+**One question to start:** What does your team do today to balance fast change with stable IT services?
+
+A sentence or two is plenty. Replies to other people are welcome too.
+
+## Where other topics belong
+
+- Questions with answers: Q&A
+- Suggestions for new or changed topics: Ideas
+- Errors or broken links: Issues (https://github.com/agile-itil-guide/agile-itil-guide/issues)
+
+Thank you for reading. I will reply to the first comments.
