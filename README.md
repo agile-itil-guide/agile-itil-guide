@@ -1,6 +1,6 @@
 # agile-itil.github.io
 
-The website for the [Agile ITIL Guide](https://github.com/agile-itil/agile-itil-guide), at <https://agile-itil-guide.github.io>.
+The website for the [Agile ITIL Guide](https://github.com/agile-itil-guide/agile-itil-guide), at <https://agile-itil-guide.github.io>.
 
 This directory is part of the guide's monorepo (`agile-itil.github.io/`) and is published to its own repository with `git subtree`. Make all changes in the monorepo; never push to the site repository directly. See `../spec/index.md` §9 for the governing specification.
 
@@ -53,7 +53,7 @@ pnpm sync         # re-copy content from the monorepo
 From the monorepo root:
 
 ```sh
-git remote add site git@github.com:agile-itil/agile-itil.github.io.git   # once
+git remote add site git@github.com:agile-itil-guide/agile-itil-guide.github.io.git   # once
 bin/deploy-site
 ```
 
