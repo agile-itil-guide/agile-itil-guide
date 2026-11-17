@@ -1,0 +1,40 @@
+{
+  "name": "বাংলা (বিশ্ব)",
+  "topic_word": "বিষয়",
+  "topics_word": "বিষয়সমূহ",
+  "h2": {
+    "Why this matters": "কেন এটি গুরুত্বপূর্ণ",
+    "Core concepts": "মূল ধারণা",
+    "Best practices": "সেরা অনুশীলন",
+    "Questions to discuss with your team": "আপনার দলের সঙ্গে আলোচনার প্রশ্ন",
+    "In practice: an agile ITIL example": "বাস্তবে: একটি এজাইল ITIL উদাহরণ",
+    "Four perspectives": "চারটি দৃষ্টিকোণ",
+    "Common failure modes": "সাধারণ ব্যর্থতার ধরন",
+    "Maturity model": "পরিপক্বতা মডেল",
+    "Checklist": "চেকলিস্ট",
+    "AI prompts": "এআই প্রম্পট",
+    "AI skills": "এআই দক্ষতা",
+    "Key sources": "প্রধান উৎস",
+    "References": "তথ্যসূত্র"
+  },
+  "h3": {
+    "Product and delivery teams": "পণ্য ও ডেলিভারি দল",
+    "Service and operations teams": "সার্ভিস ও পরিচালনা দল",
+    "Leadership and governance": "নেতৃত্ব ও শাসন",
+    "Customers and users": "গ্রাহক ও ব্যবহারকারী"
+  },
+  "maturity": {
+    "Initiate": "সূচনা",
+    "Develop": "বিকাশ",
+    "Standardize": "মানকরণ",
+    "Manage": "পরিচালনা",
+    "Orchestrate": "সমন্বয়"
+  },
+  "dirs": {
+    "topics": "বিষয়সমূহ",
+    "glossary": "শব্দকোষ",
+    "index": "সূচি",
+    "terminology": "পরিভাষা",
+    "contents": "সূচিপত্র"
+  }
+}

@@ -6,7 +6,31 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "الترجمات: ",
   "language": "اللغة: "
  },
+ "ar-eg": {
+  "tagline": "دليل عملي لإدارة خدمات تقنية المعلومات بالأسلوب الرشيق.",
+  "intro": "كثيرًا ما يُقدَّم أسلوب العمل الرشيق وإدارة خدمات تقنية المعلومات، كما يقننها ITIL، كخصمين. يتعامل هذا الدليل معهما كشريكين: يبيّن كل موضوع كيف تجمع بين السرعة والتغيير من جهة والاستقرار والضبط من جهة أخرى، مع البحوث والممارسات والأمثلة وأفكار للنقاش مع الفرق ومهارات ومطالبات للذكاء الاصطناعي.",
+  "translations": "الترجمات: ",
+  "language": "اللغة: "
+ },
+ "ar-dz": {
+  "tagline": "دليل عملي لإدارة خدمات تقنية المعلومات بالأسلوب الرشيق.",
+  "intro": "كثيرًا ما يُقدَّم أسلوب العمل الرشيق وإدارة خدمات تقنية المعلومات، كما يقننها ITIL، كخصمين. يتعامل هذا الدليل معهما كشريكين: يبيّن كل موضوع كيف تجمع بين السرعة والتغيير من جهة والاستقرار والضبط من جهة أخرى، مع البحوث والممارسات والأمثلة وأفكار للنقاش مع الفرق ومهارات ومطالبات للذكاء الاصطناعي.",
+  "translations": "الترجمات: ",
+  "language": "اللغة: "
+ },
  "bn-001": {
+  "tagline": "চটপটে (অ্যাজাইল) উপায়ে আইটি সেবা পরিচালনার একটি ব্যবহারিক নির্দেশিকা।",
+  "intro": "অ্যাজাইল কাজের ধরন এবং ITIL-এর বিধিবদ্ধ আইটি সেবা ব্যবস্থাপনাকে প্রায়ই প্রতিদ্বন্দ্বী হিসেবে দেখানো হয়। এই নির্দেশিকা দুটিকে অংশীদার হিসেবে দেখে: প্রতিটি বিষয় গবেষণা, অনুশীলন, উদাহরণ, দলের সঙ্গে আলোচনার ধারণা, এআই দক্ষতা ও এআই প্রম্পটসহ দেখায় কীভাবে গতি ও পরিবর্তনের সঙ্গে স্থিতিশীলতা ও নিয়ন্ত্রণ মেলানো যায়।",
+  "translations": "অনুবাদ: ",
+  "language": "ভাষা: "
+ },
+ "bn-bd": {
+  "tagline": "চটপটে (অ্যাজাইল) উপায়ে আইটি সেবা পরিচালনার একটি ব্যবহারিক নির্দেশিকা।",
+  "intro": "অ্যাজাইল কাজের ধরন এবং ITIL-এর বিধিবদ্ধ আইটি সেবা ব্যবস্থাপনাকে প্রায়ই প্রতিদ্বন্দ্বী হিসেবে দেখানো হয়। এই নির্দেশিকা দুটিকে অংশীদার হিসেবে দেখে: প্রতিটি বিষয় গবেষণা, অনুশীলন, উদাহরণ, দলের সঙ্গে আলোচনার ধারণা, এআই দক্ষতা ও এআই প্রম্পটসহ দেখায় কীভাবে গতি ও পরিবর্তনের সঙ্গে স্থিতিশীলতা ও নিয়ন্ত্রণ মেলানো যায়।",
+  "translations": "অনুবাদ: ",
+  "language": "ভাষা: "
+ },
+ "bn-in": {
   "tagline": "চটপটে (অ্যাজাইল) উপায়ে আইটি সেবা পরিচালনার একটি ব্যবহারিক নির্দেশিকা।",
   "intro": "অ্যাজাইল কাজের ধরন এবং ITIL-এর বিধিবদ্ধ আইটি সেবা ব্যবস্থাপনাকে প্রায়ই প্রতিদ্বন্দ্বী হিসেবে দেখানো হয়। এই নির্দেশিকা দুটিকে অংশীদার হিসেবে দেখে: প্রতিটি বিষয় গবেষণা, অনুশীলন, উদাহরণ, দলের সঙ্গে আলোচনার ধারণা, এআই দক্ষতা ও এআই প্রম্পটসহ দেখায় কীভাবে গতি ও পরিবর্তনের সঙ্গে স্থিতিশীলতা ও নিয়ন্ত্রণ মেলানো যায়।",
   "translations": "অনুবাদ: ",
@@ -66,7 +90,31 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "Traducciones: ",
   "language": "Idioma: "
  },
+ "es-es": {
+  "tagline": "Un manual práctico para gestionar servicios de TI de forma ágil.",
+  "intro": "Las formas de trabajo ágiles y la gestión de servicios de TI, tal como la codifica ITIL, suelen presentarse como rivales. Esta guía las trata como socias: cada tema muestra cómo combinar velocidad y cambio con estabilidad y control, con investigación, prácticas, ejemplos, ideas para conversar con los equipos, habilidades de IA e indicaciones de IA.",
+  "translations": "Traducciones: ",
+  "language": "Idioma: "
+ },
+ "es-mx": {
+  "tagline": "Un manual práctico para gestionar servicios de TI de forma ágil.",
+  "intro": "Las formas de trabajo ágiles y la gestión de servicios de TI, tal como la codifica ITIL, suelen presentarse como rivales. Esta guía las trata como socias: cada tema muestra cómo combinar velocidad y cambio con estabilidad y control, con investigación, prácticas, ejemplos, ideas para conversar con los equipos, habilidades de IA e indicaciones de IA.",
+  "translations": "Traducciones: ",
+  "language": "Idioma: "
+ },
  "fr-001": {
+  "tagline": "Un manuel pratique pour exploiter les services informatiques de manière agile.",
+  "intro": "Les modes de travail agiles et la gestion des services informatiques, telle que codifiée par ITIL, sont souvent présentés comme des rivaux. Ce guide les traite en partenaires : chaque sujet montre comment allier vitesse et changement à stabilité et contrôle, avec des recherches, des pratiques, des exemples, des pistes de discussion pour les équipes, des compétences d'IA et des invites d'IA.",
+  "translations": "Traductions: ",
+  "language": "Langue: "
+ },
+ "fr-fr": {
+  "tagline": "Un manuel pratique pour exploiter les services informatiques de manière agile.",
+  "intro": "Les modes de travail agiles et la gestion des services informatiques, telle que codifiée par ITIL, sont souvent présentés comme des rivaux. Ce guide les traite en partenaires : chaque sujet montre comment allier vitesse et changement à stabilité et contrôle, avec des recherches, des pratiques, des exemples, des pistes de discussion pour les équipes, des compétences d'IA et des invites d'IA.",
+  "translations": "Traductions: ",
+  "language": "Langue: "
+ },
+ "fr-ca": {
   "tagline": "Un manuel pratique pour exploiter les services informatiques de manière agile.",
   "intro": "Les modes de travail agiles et la gestion des services informatiques, telle que codifiée par ITIL, sont souvent présentés comme des rivaux. Ce guide les traite en partenaires : chaque sujet montre comment allier vitesse et changement à stabilité et contrôle, avec des recherches, des pratiques, des exemples, des pistes de discussion pour les équipes, des compétences d'IA et des invites d'IA.",
   "translations": "Traductions: ",
@@ -91,6 +139,12 @@ export const HERO: Record<string, Record<string, string>> = {
   "language": "Bahasa: "
  },
  "id-id": {
+  "tagline": "Buku pegangan praktis untuk menjalankan layanan TI dengan cara agile.",
+  "intro": "Cara kerja agile dan manajemen layanan TI, sebagaimana dikodifikasikan ITIL, sering disajikan sebagai pesaing. Panduan ini memperlakukan keduanya sebagai mitra: setiap topik menunjukkan cara memadukan kecepatan dan perubahan dengan stabilitas dan kendali, lengkap dengan riset, praktik, contoh, gagasan untuk didiskusikan bersama tim, keterampilan AI, dan prompt AI.",
+  "translations": "Terjemahan: ",
+  "language": "Bahasa: "
+ },
+ "id-my": {
   "tagline": "Buku pegangan praktis untuk menjalankan layanan TI dengan cara agile.",
   "intro": "Cara kerja agile dan manajemen layanan TI, sebagaimana dikodifikasikan ITIL, sering disajikan sebagai pesaing. Panduan ini memperlakukan keduanya sebagai mitra: setiap topik menunjukkan cara memadukan kecepatan dan perubahan dengan stabilitas dan kendali, lengkap dengan riset, praktik, contoh, gagasan untuk didiskusikan bersama tim, keterampilan AI, dan prompt AI.",
   "translations": "Terjemahan: ",
@@ -138,7 +192,31 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "Traduções: ",
   "language": "Idioma: "
  },
+ "pt-pt": {
+  "tagline": "Um manual prático para operar serviços de TI do jeito ágil.",
+  "intro": "Os modos de trabalhar ágeis e a gestão de serviços de TI, como o ITIL a codificou, costumam ser apresentados como rivais. Este guia os trata como parceiros: cada tópico mostra como combinar rapidez e mudança com estabilidade e controle, com pesquisa, práticas, exemplos, ideias para conversar com as equipes, skills de IA e prompts de IA.",
+  "translations": "Traduções: ",
+  "language": "Idioma: "
+ },
+ "pt-br": {
+  "tagline": "Um manual prático para operar serviços de TI do jeito ágil.",
+  "intro": "Os modos de trabalhar ágeis e a gestão de serviços de TI, como o ITIL a codificou, costumam ser apresentados como rivais. Este guia os trata como parceiros: cada tópico mostra como combinar rapidez e mudança com estabilidade e controle, com pesquisa, práticas, exemplos, ideias para conversar com as equipes, skills de IA e prompts de IA.",
+  "translations": "Traduções: ",
+  "language": "Idioma: "
+ },
  "ru-001": {
+  "tagline": "Практическое руководство по управлению ИТ-услугами в духе agile.",
+  "intro": "Гибкие способы работы и управление ИТ-услугами в том виде, как его закрепил ITIL, часто представляют соперниками. Это руководство рассматривает их как партнеров: каждая тема показывает, как сочетать скорость и перемены со стабильностью и контролем, с исследованиями, практиками, примерами, идеями для обсуждения с командами, ИИ-навыками и ИИ-промптами.",
+  "translations": "Переводы: ",
+  "language": "Язык: "
+ },
+ "ru-ru": {
+  "tagline": "Практическое руководство по управлению ИТ-услугами в духе agile.",
+  "intro": "Гибкие способы работы и управление ИТ-услугами в том виде, как его закрепил ITIL, часто представляют соперниками. Это руководство рассматривает их как партнеров: каждая тема показывает, как сочетать скорость и перемены со стабильностью и контролем, с исследованиями, практиками, примерами, идеями для обсуждения с командами, ИИ-навыками и ИИ-промптами.",
+  "translations": "Переводы: ",
+  "language": "Язык: "
+ },
+ "ru-by": {
   "tagline": "Практическое руководство по управлению ИТ-услугами в духе agile.",
   "intro": "Гибкие способы работы и управление ИТ-услугами в том виде, как его закрепил ITIL, часто представляют соперниками. Это руководство рассматривает их как партнеров: каждая тема показывает, как сочетать скорость и перемены со стабильностью и контролем, с исследованиями, практиками, примерами, идеями для обсуждения с командами, ИИ-навыками и ИИ-промптами.",
   "translations": "Переводы: ",
@@ -202,7 +280,11 @@ export const HERO: Record<string, Record<string, string>> = {
 
 export const ENDONYMS: Record<string, string> = {
  "ar-001": "العربية",
+ "ar-eg": "العربية - مصر",
+ "ar-dz": "العربية - الجزائر",
  "bn-001": "বাংলা",
+ "bn-bd": "বাংলা - বাংলাদেশ",
+ "bn-in": "বাংলা - ভারত",
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Prydain Fawr)",
  "da-001": "Dansk",
@@ -212,11 +294,16 @@ export const ENDONYMS: Record<string, string> = {
  "en-gb-oxendict": "English (Great Britain, Oxford)",
  "en-us": "English (United States)",
  "es-001": "Español",
+ "es-es": "Español - España",
+ "es-mx": "Español - México",
  "fr-001": "Français",
+ "fr-fr": "Français - France",
+ "fr-ca": "Français - Canada",
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "id-001": "Bahasa Indonesia",
  "id-id": "Bahasa Indonesia (Indonesia)",
+ "id-my": "Bahasa Indonesia - Malaysia",
  "ja-001": "日本語",
  "ja-jp": "日本語 (日本)",
  "ko-001": "한국어",
@@ -224,7 +311,11 @@ export const ENDONYMS: Record<string, string> = {
  "nl-001": "Nederlands",
  "nl-nl": "Nederlands (Nederland)",
  "pt-001": "Português",
+ "pt-pt": "Português - Portugal",
+ "pt-br": "Português - Brasil",
  "ru-001": "Русский",
+ "ru-ru": "Русский - Россия",
+ "ru-by": "Русский - Беларусь",
  "sv-001": "Svenska",
  "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
