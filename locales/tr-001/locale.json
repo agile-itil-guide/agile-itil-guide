@@ -1,0 +1,40 @@
+{
+  "name": "Türkçe (Dünya)",
+  "topic_word": "Konu",
+  "topics_word": "Konular",
+  "h2": {
+    "Why this matters": "Bu neden önemli",
+    "Core concepts": "Temel kavramlar",
+    "Best practices": "İyi uygulamalar",
+    "Questions to discuss with your team": "Ekibinizle tartışılacak sorular",
+    "In practice: an agile ITIL example": "Uygulamada: çevik bir ITIL örneği",
+    "Four perspectives": "Dört bakış açısı",
+    "Common failure modes": "Yaygın başarısızlık biçimleri",
+    "Maturity model": "Olgunluk modeli",
+    "Checklist": "Kontrol listesi",
+    "AI prompts": "Yapay zeka istemleri",
+    "AI skills": "Yapay zeka becerileri",
+    "Key sources": "Temel kaynaklar",
+    "References": "Kaynakça"
+  },
+  "h3": {
+    "Product and delivery teams": "Ürün ve teslimat ekipleri",
+    "Service and operations teams": "Hizmet ve operasyon ekipleri",
+    "Leadership and governance": "Liderlik ve yönetişim",
+    "Customers and users": "Müşteriler ve kullanıcılar"
+  },
+  "maturity": {
+    "Initiate": "Başlangıç",
+    "Develop": "Gelişim",
+    "Standardize": "Standartlaştırma",
+    "Manage": "Yönetim",
+    "Orchestrate": "Eşgüdüm"
+  },
+  "dirs": {
+    "topics": "konular",
+    "glossary": "sözlük",
+    "index": "dizin",
+    "terminology": "terminoloji",
+    "contents": "içindekiler"
+  }
+}
