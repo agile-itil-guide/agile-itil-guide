@@ -1,0 +1,121 @@
+{
+  "locale": {
+    "label": "Italiano (Mondo)"
+  },
+  "siteTitle": "La guida Agile ITIL",
+  "skipToContent": "Vai al contenuto",
+  "nav": {
+    "contents": "Contenuti",
+    "glossary": "Glossario",
+    "index": "Indice",
+    "skills": "Competenze",
+    "source": "Sorgente"
+  },
+  "picker": {
+    "theme": "Tema",
+    "locale": "Lingua",
+    "textSize": "Dimensione del testo",
+    "share": "Condividi",
+    "search": "Cerca",
+    "searchInput": "Cerca nella guida",
+    "searchSubmit": "Cerca"
+  },
+  "share": {
+    "emailLink": "Invia il link per e-mail",
+    "shareOnLinkedIn": "Condividi su LinkedIn",
+    "shareOnReddit": "Condividi su Reddit",
+    "shareOnBluesky": "Condividi su Bluesky",
+    "shareOnMastodon": "Condividi su Mastodon",
+    "copyLink": "Copia il link",
+    "copied": "Copiato",
+    "copyFailed": "Copia non riuscita"
+  },
+  "links": {
+    "label": "Link",
+    "llms": "llms.txt (per agenti IA)",
+    "skills": "Competenze IA su GitHub",
+    "issues": "Issue"
+  },
+  "footer": {
+    "tagline": "Gestione dei servizi IT in modo agile.",
+    "sourceAndContributions": "Sorgente e contributi:",
+    "builtWith": "Realizzato con:",
+    "ledBy": "Guidato da:"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "contents": "Contenuti",
+    "skills": "Competenze",
+    "label": "Percorso di navigazione"
+  },
+  "contents": {
+    "pageTitle": "Contenuti",
+    "lead": "49 argomenti in sei parti su agile, ITIL, gestione dei servizi IT e gestione degli asset IT, con domande da discutere, prompt per l'IA e competenze.",
+    "readingIn": "Stai leggendo in: {$language}",
+    "part": "Parte {$number}",
+    "reference": "Riferimento",
+    "comingSoon": "In arrivo"
+  },
+  "topic": {
+    "eyebrow": "Argomento {$number}",
+    "paginationLabel": "Navigazione tra gli argomenti",
+    "previous": "Precedente",
+    "next": "Successivo"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Valori, principi e metodi agili."
+    },
+    "2": {
+      "tagline": "Che cos'è la gestione dei servizi IT e come la organizza ITIL."
+    },
+    "3": {
+      "tagline": "Pratiche ITIL svolte in modo agile, iterativo e collaborativo."
+    },
+    "4": {
+      "tagline": "Sapere che cosa possiedi, quanto costa e come si collega."
+    },
+    "5": {
+      "tagline": "Dare forma a integrazione, modelli di gestione e misurazione."
+    },
+    "6": {
+      "tagline": "Il lato umano e il lato IA della gestione agile dei servizi."
+    }
+  },
+  "results": {
+    "button": "Cerca",
+    "label": "Risultati della ricerca",
+    "heading": "Risultati per \"{$query}\"",
+    "failed": "Non è stato possibile caricare l'indice di ricerca. Riprova più tardi.",
+    "searching": "Ricerca in corso…",
+    "none": "Nessun risultato per \"{$query}\".",
+    "browse": "Sfoglia invece i contenuti.",
+    "count": "Risultati: {$count}.",
+    "limited": "Sono mostrati i primi {$count} risultati."
+  },
+  "glossary": {
+    "title": "Glossario",
+    "lead": "Definizioni semplici dei termini chiave, ciascuna con un rimando al relativo argomento principale."
+  },
+  "indexPage": {
+    "title": "Indice",
+    "lead": "Concetti e framework e gli argomenti che li trattano."
+  },
+  "jumpToLetter": "Vai alla lettera",
+  "skillsPage": {
+    "title": "Competenze per l'IA",
+    "lead": "Competenze in formato Claude Code a cui rimandano gli argomenti. Ciascuna è un file SKILL.md che puoi copiare nella tua cartella delle competenze.",
+    "viewSource": "Vedi su GitHub",
+    "backToList": "Tutte le competenze"
+  },
+  "error": {
+    "label": "Errore {$status}",
+    "notFound": "Questa pagina non è stata trovata",
+    "generic": "Qualcosa è andato storto",
+    "unknown": "Errore sconosciuto",
+    "try": "Prova i contenuti, il glossario o l'indice."
+  },
+  "home": {
+    "continue": "Continua a leggere la guida Agile ITIL"
+  }
+}

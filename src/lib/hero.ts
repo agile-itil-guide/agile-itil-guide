@@ -150,6 +150,18 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "Terjemahan: ",
   "language": "Bahasa: "
  },
+ "it-001": {
+  "tagline": "Una guida pratica per gestire i servizi IT in modo agile.",
+  "intro": "Le modalità di lavoro agili e la gestione dei servizi IT come la codifica ITIL sono spesso presentate come rivali. Questa guida le tratta come partner: ogni argomento mostra come unire velocità e cambiamento a stabilità e controllo, con ricerca, pratiche, esempi, idee da discutere con i team, competenze per l'IA e prompt per l'IA.",
+  "translations": "Traduzioni: ",
+  "language": "Lingua: "
+ },
+ "it-it": {
+  "tagline": "Una guida pratica per gestire i servizi IT in modo agile.",
+  "intro": "Le modalità di lavoro agili e la gestione dei servizi IT come la codifica ITIL sono spesso presentate come rivali. Questa guida le tratta come partner: ogni argomento mostra come unire velocità e cambiamento a stabilità e controllo, con ricerca, pratiche, esempi, idee da discutere con i team, competenze per l'IA e prompt per l'IA.",
+  "translations": "Traduzioni: ",
+  "language": "Lingua: "
+ },
  "ja-001": {
   "tagline": "アジャイルなやり方でITサービスを運用するための実践ハンドブック。",
   "intro": "アジャイルな働き方と、ITILが体系化したITサービスマネジメントは、しばしば対立するものとして語られます。このガイドは両者をパートナーとして扱い、各トピックで、調査、プラクティス、事例、チームで話し合うためのアイデア、AIスキル、AIプロンプトとともに、スピードや変化と安定や統制を両立させる方法を示します。",
@@ -161,6 +173,30 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "アジャイルな働き方と、ITILが体系化したITサービスマネジメントは、しばしば対立するものとして語られます。このガイドは両者をパートナーとして扱い、各トピックで、調査、プラクティス、事例、チームで話し合うためのアイデア、AIスキル、AIプロンプトとともに、スピードや変化と安定や統制を両立させる方法を示します。",
   "translations": "翻訳： ",
   "language": "言語："
+ },
+ "tr-001": {
+  "tagline": "BT hizmetlerini çevik yaklaşımla işletmek için pratik bir kılavuz.",
+  "intro": "Çevik çalışma biçimleri ile ITIL'in kodladığı BT hizmet yönetimi çoğu zaman rakip olarak sunulur. Bu kılavuz ikisini ortak olarak ele alır: her konu, araştırma, uygulamalar, örnekler, ekiplerle tartışılacak fikirler, yapay zeka becerileri ve yapay zeka istemleriyle hız ve değişimi istikrar ve denetimle nasıl birleştireceğinizi gösterir.",
+  "translations": "Çeviriler: ",
+  "language": "Dil: "
+ },
+ "tr-tr": {
+  "tagline": "BT hizmetlerini çevik yaklaşımla işletmek için pratik bir kılavuz.",
+  "intro": "Çevik çalışma biçimleri ile ITIL'in kodladığı BT hizmet yönetimi çoğu zaman rakip olarak sunulur. Bu kılavuz ikisini ortak olarak ele alır: her konu, araştırma, uygulamalar, örnekler, ekiplerle tartışılacak fikirler, yapay zeka becerileri ve yapay zeka istemleriyle hız ve değişimi istikrar ve denetimle nasıl birleştireceğinizi gösterir.",
+  "translations": "Çeviriler: ",
+  "language": "Dil: "
+ },
+ "th-001": {
+  "tagline": "คู่มือเชิงปฏิบัติสำหรับการบริหารบริการไอทีแบบเอไจล์",
+  "intro": "วิถีการทำงานแบบเอไจล์และการบริหารบริการไอทีตามที่ ITIL วางไว้มักถูกนำเสนอเป็นคู่แข่ง คู่มือนี้มองทั้งสองเป็นพันธมิตร แต่ละหัวข้อแสดงวิธีผสานความเร็วและการเปลี่ยนแปลงเข้ากับเสถียรภาพและการควบคุม พร้อมงานวิจัย แนวปฏิบัติ ตัวอย่าง แนวคิดสำหรับพูดคุยกับทีม ทักษะ AI และพรอมต์ AI",
+  "translations": "คำแปล: ",
+  "language": "ภาษา: "
+ },
+ "th-th": {
+  "tagline": "คู่มือเชิงปฏิบัติสำหรับการบริหารบริการไอทีแบบเอไจล์",
+  "intro": "วิถีการทำงานแบบเอไจล์และการบริหารบริการไอทีตามที่ ITIL วางไว้มักถูกนำเสนอเป็นคู่แข่ง คู่มือนี้มองทั้งสองเป็นพันธมิตร แต่ละหัวข้อแสดงวิธีผสานความเร็วและการเปลี่ยนแปลงเข้ากับเสถียรภาพและการควบคุม พร้อมงานวิจัย แนวปฏิบัติ ตัวอย่าง แนวคิดสำหรับพูดคุยกับทีม ทักษะ AI และพรอมต์ AI",
+  "translations": "คำแปล: ",
+  "language": "ภาษา: "
  },
  "ko-001": {
   "tagline": "애자일 방식으로 IT 서비스를 운영하기 위한 실무 안내서.",
@@ -306,6 +342,12 @@ export const ENDONYMS: Record<string, string> = {
  "id-my": "Bahasa Indonesia - Malaysia",
  "ja-001": "日本語",
  "ja-jp": "日本語 (日本)",
+ "it-001": "Italiano",
+ "it-it": "Italiano (Italia)",
+ "tr-001": "Türkçe",
+ "tr-tr": "Türkçe (Türkiye)",
+ "th-001": "ไทย",
+ "th-th": "ไทย (ประเทศไทย)",
  "ko-001": "한국어",
  "ko-kr": "한국어 (대한민국)",
  "nl-001": "Nederlands",
