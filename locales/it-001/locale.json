@@ -1,0 +1,40 @@
+{
+  "name": "Italiano (Mondo)",
+  "topic_word": "Argomento",
+  "topics_word": "Argomenti",
+  "h2": {
+    "Why this matters": "Perché è importante",
+    "Core concepts": "Concetti fondamentali",
+    "Best practices": "Buone pratiche",
+    "Questions to discuss with your team": "Domande da discutere con il team",
+    "In practice: an agile ITIL example": "Nella pratica: un esempio di ITIL agile",
+    "Four perspectives": "Quattro prospettive",
+    "Common failure modes": "Modalità di fallimento comuni",
+    "Maturity model": "Modello di maturità",
+    "Checklist": "Checklist",
+    "AI prompts": "Prompt per l'IA",
+    "AI skills": "Competenze per l'IA",
+    "Key sources": "Fonti principali",
+    "References": "Riferimenti"
+  },
+  "h3": {
+    "Product and delivery teams": "Team di prodotto e di delivery",
+    "Service and operations teams": "Team di servizio e di operations",
+    "Leadership and governance": "Leadership e governance",
+    "Customers and users": "Clienti e utenti"
+  },
+  "maturity": {
+    "Initiate": "Avvio",
+    "Develop": "Sviluppo",
+    "Standardize": "Standardizzazione",
+    "Manage": "Gestione",
+    "Orchestrate": "Orchestrazione"
+  },
+  "dirs": {
+    "topics": "argomenti",
+    "glossary": "glossario",
+    "index": "indice",
+    "terminology": "terminologia",
+    "contents": "contenuti"
+  }
+}
