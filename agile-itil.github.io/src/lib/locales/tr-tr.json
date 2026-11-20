@@ -1,0 +1,121 @@
+{
+  "locale": {
+    "label": "Türkçe (Türkiye)"
+  },
+  "siteTitle": "Çevik ITIL Kılavuzu",
+  "skipToContent": "İçeriğe geç",
+  "nav": {
+    "contents": "İçindekiler",
+    "glossary": "Sözlük",
+    "index": "Dizin",
+    "skills": "Beceriler",
+    "source": "Kaynak"
+  },
+  "picker": {
+    "theme": "Tema",
+    "locale": "Dil",
+    "textSize": "Yazı boyutu",
+    "share": "Paylaş",
+    "search": "Ara",
+    "searchInput": "Kılavuzda ara",
+    "searchSubmit": "Ara"
+  },
+  "share": {
+    "emailLink": "Bağlantıyı e-postayla gönder",
+    "shareOnLinkedIn": "LinkedIn'de paylaş",
+    "shareOnReddit": "Reddit'te paylaş",
+    "shareOnBluesky": "Bluesky'da paylaş",
+    "shareOnMastodon": "Mastodon'da paylaş",
+    "copyLink": "Bağlantıyı kopyala",
+    "copied": "Kopyalandı",
+    "copyFailed": "Kopyalanamadı"
+  },
+  "links": {
+    "label": "Bağlantılar",
+    "llms": "llms.txt (yapay zeka ajanları için)",
+    "skills": "GitHub'da yapay zeka becerileri",
+    "issues": "Sorunlar"
+  },
+  "footer": {
+    "tagline": "BT hizmet yönetimi, çevik yaklaşımla.",
+    "sourceAndContributions": "Kaynak ve katkılar:",
+    "builtWith": "Şununla oluşturuldu:",
+    "ledBy": "Yöneten:"
+  },
+  "breadcrumb": {
+    "home": "Ana sayfa",
+    "contents": "İçindekiler",
+    "skills": "Beceriler",
+    "label": "Gezinti yolu"
+  },
+  "contents": {
+    "pageTitle": "İçindekiler",
+    "lead": "Çeviklik, ITIL, BT hizmet yönetimi ve BT varlık yönetimi üzerine altı bölümde 49 konu; tartışma soruları, yapay zeka istemleri ve becerilerle birlikte.",
+    "readingIn": "Okuduğunuz dil: {$language}",
+    "part": "Bölüm {$number}",
+    "reference": "Başvuru",
+    "comingSoon": "Yakında"
+  },
+  "topic": {
+    "eyebrow": "Konu {$number}",
+    "paginationLabel": "Konular arasında gezinme",
+    "previous": "Önceki",
+    "next": "Sonraki"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Çevik değerler, ilkeler ve yöntemler."
+    },
+    "2": {
+      "tagline": "BT hizmet yönetiminin ne olduğu ve ITIL'in onu nasıl düzenlediği."
+    },
+    "3": {
+      "tagline": "Çevik, yinelemeli ve işbirliğine dayalı biçimde yürütülen ITIL uygulamaları."
+    },
+    "4": {
+      "tagline": "Neye sahip olduğunuzu, maliyetini ve nasıl bağlandığını bilmek."
+    },
+    "5": {
+      "tagline": "Bütünleştirme, yönetim modelleri ve ölçümü biçimlendirmek."
+    },
+    "6": {
+      "tagline": "Çevik hizmet yönetiminin insan ve yapay zeka yönü."
+    }
+  },
+  "results": {
+    "button": "Ara",
+    "label": "Arama sonuçları",
+    "heading": "\"{$query}\" için sonuçlar",
+    "failed": "Arama dizini yüklenemedi. Lütfen daha sonra tekrar deneyin.",
+    "searching": "Aranıyor…",
+    "none": "\"{$query}\" için sonuç yok.",
+    "browse": "Bunun yerine içeriğe göz atın.",
+    "count": "Sonuç sayısı: {$count}.",
+    "limited": "İlk {$count} sonuç gösteriliyor."
+  },
+  "glossary": {
+    "title": "Sözlük",
+    "lead": "Anahtar terimlerin basit tanımları; her biri ilgili ana konuya bağlanır."
+  },
+  "indexPage": {
+    "title": "Dizin",
+    "lead": "Kavramlar ve çerçeveler ile bunları ele alan konular."
+  },
+  "jumpToLetter": "Harfe git",
+  "skillsPage": {
+    "title": "Yapay zeka becerileri",
+    "lead": "Konuların atıfta bulunduğu Claude Code biçimindeki beceriler. Her biri, kendi beceri klasörünüze kopyalayabileceğiniz bir SKILL.md dosyasıdır.",
+    "viewSource": "GitHub'da görüntüle",
+    "backToList": "Tüm beceriler"
+  },
+  "error": {
+    "label": "Hata {$status}",
+    "notFound": "Bu sayfa bulunamadı",
+    "generic": "Bir şeyler ters gitti",
+    "unknown": "Bilinmeyen hata",
+    "try": "İçindekileri, sözlüğü veya dizini deneyin."
+  },
+  "home": {
+    "continue": "Çevik ITIL Kılavuzu'nu okumaya devam et"
+  }
+}
